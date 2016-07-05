@@ -1,0 +1,189 @@
+[04/17/2016 4:31 AM] - SUCCESS : Log file reset
+------------------------------------------------------------------
+
+[04/17/2016 4:31 AM] - SUCCESS :Member password has been reset. Password reset email sent to: remocode@gmail.com
+[04/17/2016 4:33 AM] - SUCCESS :Member password has been reset. Password reset email sent to: remocode@gmail.com
+[04/17/2016 4:38 AM] - SUCCESS :Member password has been reset. Password reset email sent to: remocode@gmail.com
+[04/17/2016 6:43 AM] - SUCCESS :Member password has been reset. Password reset email sent to: orcun@orcunbahadir.com
+[04/17/2016 7:53 AM] - SUCCESS :Member notification email sent to: zaizai@gmail.com
+[04/17/2016 7:53 AM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/17/2016 8:09 AM] - SUCCESS :Member notification email sent to: JustinBieber@mail.com
+[04/17/2016 8:09 AM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/17/2016 8:14 AM] - SUCCESS :Member notification email sent to: jimi@mail.com
+[04/17/2016 8:14 AM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/17/2016 8:19 AM] - SUCCESS :Member notification email sent to: orcunbahadir@gmail.com
+[04/17/2016 8:19 AM] - SUCCESS :Member notification email sent to: tony@mail.com
+[04/17/2016 8:19 AM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/17/2016 8:19 AM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/17/2016 8:19 AM] - SUCCESS :Member password has been reset. Password reset email sent to: orcunbahadir@gmail.com
+[04/17/2016 8:22 AM] - SUCCESS :Member password has been reset. Password reset email sent to: orcunbahadir@gmail.com
+[04/17/2016 8:22 AM] - SUCCESS :Member notification email sent to: Jerry@mail.com
+[04/17/2016 8:22 AM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/17/2016 8:25 AM] - SUCCESS :Member notification email sent to: DaffyDuck@mail.com
+[04/17/2016 8:25 AM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/17/2016 8:30 AM] - SUCCESS :Member notification email sent to: Kash@gmail.com
+[04/17/2016 8:30 AM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/17/2016 8:33 AM] - SUCCESS :Member notification email sent to: Freddy@gmail.com
+[04/17/2016 8:33 AM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/17/2016 8:35 AM] - SUCCESS :Member notification email sent to: HellowWorld@gmail.com
+[04/17/2016 8:35 AM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/17/2016 8:39 AM] - SUCCESS :Member notification email sent to: Olympia@gmail.com
+[04/17/2016 8:39 AM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/17/2016 8:41 AM] - SUCCESS :Member notification email sent to: Doraemon@gmail.com
+[04/17/2016 8:41 AM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/17/2016 11:40 AM] - SUCCESS :Member notification email sent to: orcunbahadir@yahoo.com
+[04/17/2016 11:40 AM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/17/2016 1:47 PM] - SUCCESS :Member notification email sent to: testtest@gmail.com
+[04/17/2016 1:47 PM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/17/2016 1:53 PM] - SUCCESS :Member notification email sent to: orcunbahadir@yandex.com
+[04/17/2016 1:53 PM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/17/2016 1:58 PM] - SUCCESS :Member notification email sent to: test11@gmail.com
+[04/17/2016 1:58 PM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/17/2016 2:04 PM] - SUCCESS :Member notification email sent to: asdfzxcv@gmail.com
+[04/17/2016 2:04 PM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/17/2016 2:09 PM] - SUCCESS :Member password has been reset. Password reset email sent to: orcunbahadir@yandex.com
+[04/17/2016 2:09 PM] - SUCCESS :Member notification email sent to: qqwer@gmail.com
+[04/17/2016 2:09 PM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/17/2016 2:15 PM] - SUCCESS :Member notification email sent to: er@gmail.com
+[04/17/2016 2:15 PM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/17/2016 2:24 PM] - SUCCESS :Member notification email sent to: aaa@gmail.com
+[04/17/2016 2:24 PM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/17/2016 3:54 PM] - SUCCESS :Member notification email sent to: code@gmail.com
+[04/17/2016 3:55 PM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/17/2016 4:00 PM] - SUCCESS :Member notification email sent to: code1@gmail.com
+[04/17/2016 4:00 PM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/17/2016 4:02 PM] - SUCCESS :Member notification email sent to: cod@gmail.com
+[04/17/2016 4:02 PM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/17/2016 4:13 PM] - SUCCESS :Member notification email sent to: ads@gmail.com
+[04/17/2016 4:13 PM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/17/2016 4:17 PM] - SUCCESS :Member notification email sent to: asdf@gmail.com
+[04/17/2016 4:17 PM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/18/2016 12:28 AM] - SUCCESS :Member notification email sent to: asds@gmail.com
+[04/18/2016 12:28 AM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/18/2016 1:30 AM] - SUCCESS :Member notification email sent to: php@gmail.com
+[04/18/2016 1:30 AM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/18/2016 1:36 AM] - SUCCESS :Member notification email sent to: ddd@gmail.com
+[04/18/2016 1:36 AM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/18/2016 1:48 AM] - SUCCESS :Member notification email sent to: xxx@gmail.com
+[04/18/2016 1:48 AM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/18/2016 3:16 AM] - SUCCESS :Member notification email sent to: peter.brown@monash.edu
+[04/18/2016 3:16 AM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/18/2016 4:02 AM] - SUCCESS :Member notification email sent to: akshay@gmail.com
+[04/18/2016 4:02 AM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/18/2016 1:14 PM] - SUCCESS :Member notification email sent to: xxcxx@gmail.com
+[04/18/2016 1:14 PM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/18/2016 1:25 PM] - SUCCESS :Member notification email sent to: huhu@gmail.com
+[04/18/2016 1:25 PM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/18/2016 1:44 PM] - SUCCESS :Member notification email sent to: bvbvb@gmail.com
+[04/18/2016 1:44 PM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/19/2016 12:42 AM] - SUCCESS :Member notification email sent to: ally@hotmail.com
+[04/19/2016 12:42 AM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/19/2016 4:40 AM] - SUCCESS :Member notification email sent to: lalala@gmail.com
+[04/19/2016 4:40 AM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/19/2016 4:41 AM] - SUCCESS :Member notification email sent to: zaizai0620@gmail.com
+[04/19/2016 4:41 AM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/19/2016 4:41 AM] - SUCCESS :Member notification email sent to: adi02rocks@gmail.com
+[04/19/2016 4:41 AM] - SUCCESS :Admin notification email sent to: healthconnect2016@mail.com
+[04/19/2016 4:42 AM] - SUCCESS :Member password has been reset. Password reset email sent to: zaizai0620@gmail.com
+[04/19/2016 4:44 AM] - SUCCESS :Member password has been reset. Password reset email sent to: aksganjoo@gmail.com
+[04/19/2016 4:45 AM] - SUCCESS :Member password has been reset. Password reset email sent to: remocode@gmail.com
+[04/19/2016 4:45 AM] - SUCCESS :Member password has been reset. Password reset email sent to: remocode@gmail.com
+[04/19/2016 4:59 AM] - SUCCESS :Member password has been reset. Password reset email sent to: remocode@gmail.com
+[04/19/2016 4:59 AM] - SUCCESS :Member password has been reset. Password reset email sent to: remocode@gmail.com
+[04/19/2016 5:00 AM] - SUCCESS :Member notification email sent to: vv@gmail.com
+[04/19/2016 5:00 AM] - SUCCESS :Admin notification email sent to: healthconnectpass@gmail.com
+[04/19/2016 5:20 AM] - SUCCESS :Member password has been reset. Password reset email sent to: aksganjoo@gmail.com
+[04/19/2016 7:58 AM] - SUCCESS :Member password has been reset. Password reset email sent to: orcun@orcunbahadir.com
+[04/19/2016 8:43 AM] - SUCCESS :Member notification email sent to: fads@gmail.com
+[04/19/2016 8:43 AM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[04/19/2016 9:04 AM] - SUCCESS :Member password has been reset. Password reset email sent to: remocode@gmail.com
+[04/19/2016 9:14 AM] - SUCCESS :Member password has been reset. Password reset email sent to: orcunbahadir@yahoo.com
+[04/19/2016 10:00 AM] - SUCCESS :Member notification email sent to: ewer@gmail.com
+[04/19/2016 10:00 AM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[04/19/2016 10:02 AM] - SUCCESS :Member notification email sent to: abc@gmail.com
+[04/19/2016 10:02 AM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[04/19/2016 10:39 AM] - SUCCESS :Member notification email sent to: asdfdd@gmail.com
+[04/19/2016 10:39 AM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[04/19/2016 10:56 AM] - SUCCESS :Member notification email sent to: asdfddd@gmail.com
+[04/19/2016 10:56 AM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[04/19/2016 11:04 AM] - SUCCESS :Member notification email sent to: asdfzx@gmail.com
+[04/19/2016 11:04 AM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[04/19/2016 12:53 PM] - SUCCESS :Member password has been reset. Password reset email sent to: remocode@gmail.com
+[04/29/2016 8:58 AM] - SUCCESS :Member notification email sent to: abcabc@gmail.com
+[04/29/2016 8:58 AM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[04/30/2016 11:19 AM] - SUCCESS :Member notification email sent to: tarantula@hotmail.com
+[04/30/2016 11:19 AM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[04/30/2016 12:06 PM] - SUCCESS :Member password has been reset. Password reset email sent to: orcun@orcunbahadir.com
+[05/01/2016 12:55 PM] - SUCCESS :Member password has been reset. Password reset email sent to: orcunbahadir@gmail.com
+[05/03/2016 12:57 PM] - SUCCESS :Member notification email sent to: depecheMode@gmail.com
+[05/03/2016 12:57 PM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[05/04/2016 5:52 AM] - SUCCESS :Member notification email sent to: 452726989@qq.com
+[05/04/2016 5:52 AM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[05/05/2016 9:16 AM] - SUCCESS :Member notification email sent to: orcunbahadir@yahoo.com
+[05/05/2016 9:17 AM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[05/05/2016 9:17 AM] - SUCCESS :Member notification email sent to: orcunbahadir@hotmail.com
+[05/05/2016 9:18 AM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[05/05/2016 9:19 AM] - SUCCESS :Member notification email sent to: orcunbahadir@outlook.com
+[05/05/2016 9:19 AM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[05/05/2016 9:21 AM] - SUCCESS :Member notification email sent to: orcunbahadir@yandex.com
+[05/05/2016 9:21 AM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[05/05/2016 9:22 AM] - SUCCESS :Member notification email sent to: orcunbahadir@abc.com
+[05/05/2016 9:22 AM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[05/05/2016 9:48 AM] - SUCCESS :Member notification email sent to: 452726989@qq.com
+[05/05/2016 9:48 AM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[05/05/2016 9:50 AM] - SUCCESS :Member notification email sent to: huzhechengxi@gmail.com
+[05/05/2016 9:50 AM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[05/05/2016 9:51 AM] - SUCCESS :Member notification email sent to: huzhechengxi@163.com
+[05/05/2016 9:51 AM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[05/05/2016 9:52 AM] - SUCCESS :Member notification email sent to: remocode@gmail.com
+[05/05/2016 9:52 AM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[05/05/2016 9:54 AM] - SUCCESS :Member notification email sent to: 452726988@qq.com
+[05/05/2016 9:54 AM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[05/05/2016 10:19 AM] - SUCCESS :Member notification email sent to: 1906836334@qq.com
+[05/05/2016 10:19 AM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[05/05/2016 10:23 AM] - SUCCESS :Member notification email sent to: 1810358662@qq.com
+[05/05/2016 10:23 AM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[05/05/2016 10:34 AM] - SUCCESS :Member notification email sent to: zaizai0620@gmail.com
+[05/05/2016 10:34 AM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[05/05/2016 10:36 AM] - SUCCESS :Member notification email sent to: 296336286@qq.com
+[05/05/2016 10:37 AM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[05/05/2016 10:38 AM] - SUCCESS :Member notification email sent to: 315748516@qq.com
+[05/05/2016 10:38 AM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[05/05/2016 10:41 AM] - SUCCESS :Member notification email sent to: orcunbahadir1@hotmail.com
+[05/05/2016 10:41 AM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[05/05/2016 10:42 AM] - SUCCESS :Member notification email sent to: zaizai9191@outlook.com
+[05/05/2016 10:42 AM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[05/05/2016 10:44 AM] - SUCCESS :Member notification email sent to: StephenHawking666@mail.com
+[05/05/2016 10:45 AM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[05/05/2016 11:04 AM] - SUCCESS :Member notification email sent to: cowboy@gmail.com
+[05/05/2016 11:04 AM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[05/05/2016 11:15 AM] - SUCCESS :Member notification email sent to: cranberry@qq.com
+[05/05/2016 11:15 AM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[05/05/2016 11:51 AM] - SUCCESS :Member notification email sent to: adi02rocks@gmail.com
+[05/05/2016 11:51 AM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[05/05/2016 11:52 AM] - SUCCESS :Member notification email sent to: adi6048@yahoo.com
+[05/05/2016 11:52 AM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[05/05/2016 11:53 AM] - SUCCESS :Member notification email sent to: asamb1@student.monash.edu
+[05/05/2016 11:53 AM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[05/05/2016 11:55 AM] - SUCCESS :Member notification email sent to: wonderwomen@hotmail.com
+[05/05/2016 11:55 AM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[05/05/2016 11:56 AM] - SUCCESS :Member notification email sent to: sunny@hotmail.com
+[05/05/2016 11:56 AM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[05/05/2016 11:02 PM] - SUCCESS :Member notification email sent to: GameOfThrone@gmail.com
+[05/05/2016 11:02 PM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[05/05/2016 11:04 PM] - SUCCESS :Member notification email sent to: CaptainAmerica@gmail.com
+[05/05/2016 11:04 PM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[05/05/2016 11:05 PM] - SUCCESS :Member notification email sent to: Plasma@ymail.com
+[05/05/2016 11:05 PM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[05/05/2016 11:08 PM] - SUCCESS :Member notification email sent to: akshay_ganjoo@yahoo.com
+[05/05/2016 11:08 PM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[05/05/2016 11:09 PM] - SUCCESS :Member notification email sent to: agan33@student.monash.edu
+[05/05/2016 11:09 PM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[05/06/2016 12:19 AM] - SUCCESS :Member notification email sent to: blackeagle@gmail.com
+[05/06/2016 12:19 AM] - SUCCESS :Admin notification email sent to: health-connect@yandex.com
+[05/06/2016 6:37 AM] - SUCCESS :Member notification email sent to: 2316153975@qq.com
+[05/06/2016 6:37 AM] - SUCCESS :Admin notification email sent to: admin@health-connect.site
+[05/07/2016 12:56 AM] - SUCCESS :Member notification email sent to: tutor@gmail.com
+[05/07/2016 12:56 AM] - SUCCESS :Admin notification email sent to: admin@health-connect.site
+[05/07/2016 1:41 AM] - SUCCESS :Member notification email sent to: test123@gmail.com
+[05/07/2016 1:41 AM] - SUCCESS :Admin notification email sent to: admin@health-connect.site

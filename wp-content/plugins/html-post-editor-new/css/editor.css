@@ -1,0 +1,59 @@
+
+#ace-editor{
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  right: 0px;
+  top: 0px;
+  
+  font-size:14px;
+  border: 1px solid #DFDFDF; 
+  -moz-border-radius: 3px; 
+  -webkit-border-radius: 3px; 
+  border-radius: 3px; 
+  width: 100%; 
+  /*height: 900px;*/
+}
+
+.ace-active .switch-ace{
+    background: none repeat scroll 0% 0% #F5F5F5;
+    color: #555;
+    border-bottom-color: #F5F5F5;
+}
+
+.wp-switch-editor:disabled{
+  background: #FFE1E1;
+  cursor:default;
+}
+
+#ace-editor.ace_editor.fullScreen {
+    height: 100%;
+    width: 100%;
+    border: 0;
+    border-radius: 0;
+    margin: 0;
+    position: fixed !important;
+    top: 32px;
+    bottom: 0;
+    left: 160px;
+    right: 0;
+    z-index: 10;
+}
+
+.fullScreen {
+    overflow: hidden
+}
+
+@media(max-width:960px){
+  #ace-editor.ace_editor.fullScreen {
+      top: 32px;
+      left: 36px;
+  }
+}
+
+@media(max-width:782px){
+  #ace-editor.ace_editor.fullScreen {
+      top: 46px;
+      left: 0px;
+  }
+}

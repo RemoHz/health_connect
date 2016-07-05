@@ -1,0 +1,2399 @@
+# Translation of Stable (latest release) in Romanian
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-02-04 20:09:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/1.1.0-alpha\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#: widgets/contact/contact.php:976
+msgid "Message already sent"
+msgstr ""
+
+#: widgets/image/image.php:59
+msgid "Title position"
+msgstr "Poziție titlu"
+
+#: widgets/price-table/price-table.php:62
+msgid "Image alt text"
+msgstr "Text alternativ imagine"
+
+#: widgets/testimonial/testimonial.php:45
+msgid "Link name"
+msgstr "Nume legătură "
+
+#: widgets/testimonial/testimonial.php:61
+msgid "Link image"
+msgstr "Legătură imagine"
+
+#: widgets/contact/contact.php:294
+msgid "Inside"
+msgstr "În interior"
+
+#: widgets/contact/contact.php:435
+msgid "Input focus"
+msgstr "Intrare principală"
+
+#: widgets/contact/contact.php:290 widgets/image/image.php:63
+msgid "Above"
+msgstr "De mai sus"
+
+#: widgets/image/image.php:42
+msgid "Image alignment"
+msgstr "Aliniament imagine"
+
+#: widgets/contact/contact.php:291 widgets/image/image.php:64
+msgid "Below"
+msgstr "De mai jos"
+
+#: widgets/contact/contact.php:287
+msgid "Position"
+msgstr "Poziție"
+
+#: widgets/contact/contact.php:268
+msgid "Field labels"
+msgstr "Câmp etichete "
+
+#: widgets/contact/contact.php:186
+msgid "Compact"
+msgstr "Compact"
+
+#: widgets/contact/contact.php:177
+msgid "Audio"
+msgstr "Audio"
+
+#: widgets/contact/contact.php:173
+msgid "Challenge type"
+msgstr "Tip de provocare"
+
+#: widgets/contact/contact.php:168
+msgid "Dark"
+msgstr "Culoare închisă"
+
+#: widgets/contact/contact.php:167
+msgid "Light"
+msgstr "Culoare deschisă"
+
+#: widgets/contact/contact.php:164
+msgid "Theme"
+msgstr "Temă"
+
+#: base/inc/post-selector.php:136
+msgid "In the format 'yyyy-mm-dd'."
+msgstr "În formatul 'dd-mm-yyyy'."
+
+#: base/inc/post-selector.php:134
+msgid "To"
+msgstr "La"
+
+#: icons/icons.php:12
+msgid "Ionicons"
+msgstr "Ionicons"
+
+#: base/inc/post-selector.php:132
+msgid "From"
+msgstr "De la"
+
+#: base/inc/post-selector.php:131
+msgid "Date range"
+msgstr "Interval de date"
+
+#: widgets/headline/headline.php:148
+msgid "Side Margin"
+msgstr "Margine laterală"
+
+#: widgets/headline/headline.php:153
+msgid "Top/Bottom Margin"
+msgstr "Margine sus/jos"
+
+#: widgets/features/features.php:132
+msgid "More Link"
+msgstr "Legătura mai mult"
+
+#: widgets/contact/contact.php:327
+msgid "Error border color"
+msgstr "Eroare culoare chenar"
+
+#: widgets/features/features.php:85
+msgid "Fonts"
+msgstr "Fonturi"
+
+#: widgets/contact/contact.php:182 widgets/features/features.php:100
+#: widgets/features/features.php:121 widgets/features/features.php:142
+msgid "Size"
+msgstr "Dimensiune"
+
+#: admin/tpl/admin.php:12
+msgid "Filter Widgets"
+msgstr "Filtru piese"
+
+#: admin/tpl/admin.php:44
+msgid "Active"
+msgstr "Activ"
+
+#: admin/tpl/admin.php:66
+msgid "Activate"
+msgstr "Activare"
+
+#: admin/tpl/admin.php:67
+msgid "Deactivate"
+msgstr "Dezactivare"
+
+#: so-widgets-bundle.php:183
+msgid "New widgets available in the "
+msgstr "Piese noi disponibile în"
+
+#: so-widgets-bundle.php:199
+msgid "A new widget!"
+msgstr "O piesă nouă!"
+
+#: widgets/contact/contact.php:15
+msgid "SiteOrigin Contact Form"
+msgstr "Formular de contact (SiteOrigin)"
+
+#: widgets/contact/contact.php:17
+msgid "Create a simple contact form for your users to get hold of you."
+msgstr "Crează un formular de contact simplu pentru utilizatorii tăi pentru a te contacta."
+
+#: widgets/contact/contact.php:24 widgets/contact/contact.php:62
+msgid "Contact Us"
+msgstr "Contactează-ne"
+
+#: widgets/contact/contact.php:29
+msgid "Display title"
+msgstr "Afișează titlu"
+
+#: widgets/contact/contact.php:39
+msgid "To email address"
+msgstr "La adresa de email"
+
+#: widgets/contact/contact.php:40
+msgid "Where contact emails will be delivered to."
+msgstr "Unde email-urile de contact vor fi transmise."
+
+#: widgets/contact/contact.php:45
+msgid "Default subject"
+msgstr "Subiect implicit"
+
+#: widgets/contact/contact.php:46
+msgid "Subject to use when there isn't one available."
+msgstr "Subiect de utilizat atunci când nu există niciunul disponibil."
+
+#: widgets/contact/contact.php:50
+msgid "Subject prefix"
+msgstr "Prefix subiect"
+
+#: widgets/contact/contact.php:51
+msgid "Prefix added to all incoming email subjects."
+msgstr "Prefix adăugat pentru toate subiectele primite prin email."
+
+#: widgets/contact/contact.php:55
+msgid "Success message"
+msgstr "Mesaj pentru succes"
+
+#: widgets/contact/contact.php:56
+msgid "Message to display after message successfully sent."
+msgstr "Mesaj de afișat după ce mesajul a fost trimis cu succes."
+
+#: widgets/contact/contact.php:57
+msgid "Thanks for contacting us. We'll get back to you shortly."
+msgstr "Îți mulțumim că ne-ai contactat. Îți vom răspunde în scurt timp."
+
+#: widgets/contact/contact.php:61
+msgid "Submit button text"
+msgstr "Buton trimitere text"
+
+#: widgets/contact/contact.php:70
+msgid "Fields"
+msgstr "Câmpuri "
+
+#: widgets/contact/contact.php:71
+msgid "Field"
+msgstr "Câmp"
+
+#: widgets/contact/contact.php:79
+msgid "Field Type"
+msgstr "Tip câmp"
+
+#: widgets/contact/contact.php:81 widgets/testimonial/testimonial.php:39
+msgid "Name"
+msgstr "Nume"
+
+#: widgets/contact/contact.php:83 widgets/contact/contact.php:523
+msgid "Subject"
+msgstr "Subiect"
+
+#: widgets/contact/contact.php:85
+msgid "Text Area"
+msgstr "Zonă pentru text"
+
+#: widgets/contact/contact.php:86
+msgid "Dropdown Select"
+msgstr "Selecție verticală"
+
+#: widgets/contact/contact.php:87
+msgid "Checkboxes"
+msgstr "Bife"
+
+#: widgets/contact/contact.php:97
+msgid "Label"
+msgstr "Etichetă"
+
+#: widgets/contact/contact.php:102
+msgid "Required Field"
+msgstr "Câmp obligatoriu"
+
+#: widgets/contact/contact.php:106 widgets/contact/contact.php:763
+msgid "Required field"
+msgstr "Câmp obligatoriu"
+
+#: widgets/contact/contact.php:107
+msgid "Is this field required?"
+msgstr "Acest câmp este obligatoriu?"
+
+#: widgets/contact/contact.php:111
+msgid "Missing message"
+msgstr "Lipsă mesaj"
+
+#: widgets/contact/contact.php:112
+msgid "Error message to display if this field is missing."
+msgstr "Mesaj de eroare pentru afișare dacă acest câmp lipsește."
+
+#: widgets/contact/contact.php:120
+msgid "Options"
+msgstr "Opțiuni"
+
+#: widgets/contact/contact.php:121
+msgid "Option"
+msgstr "Opțiune "
+
+#: widgets/contact/contact.php:126
+msgid "Value"
+msgstr "Valoare"
+
+#: widgets/contact/contact.php:141
+msgid "Spam Protection"
+msgstr "Protecție spam"
+
+#: widgets/contact/contact.php:147
+msgid "Recaptcha"
+msgstr "Re-testare Captcha"
+
+#: widgets/contact/contact.php:151
+msgid "Use Captcha"
+msgstr "Folosește Captcha"
+
+#: widgets/contact/contact.php:156
+msgid "ReCaptcha Site Key"
+msgstr "Cheie sit pentru re-testare Captcha"
+
+#: widgets/contact/contact.php:160
+msgid "ReCaptcha Secret Key"
+msgstr "Cheie secretă pentru re-testare Captcha"
+
+#: widgets/contact/contact.php:194
+msgid "Akismet"
+msgstr "Akismet"
+
+#: widgets/contact/contact.php:198
+msgid "Use Akismet filtering"
+msgstr "Folosește filtrarea Akismet"
+
+#: widgets/contact/contact.php:203
+msgid "Spam action"
+msgstr "Activitate spam"
+
+#: widgets/contact/contact.php:205
+msgid "Show error message"
+msgstr "Arată mesajul de eroare"
+
+#: widgets/contact/contact.php:206
+msgid "Tag as spam in subject"
+msgstr "Anexează ca spam în subiect"
+
+#: widgets/contact/contact.php:208
+msgid "How to handle submissions that are identified as spam."
+msgstr "Cum să le gestionezi pe cele care sunt identificate ca spam."
+
+#: widgets/contact/contact.php:224
+msgid "Container"
+msgstr "Container"
+
+#: widgets/contact/contact.php:243 widgets/contact/contact.php:387
+msgid "Border width"
+msgstr "Lățime chenar"
+
+#: widgets/contact/contact.php:248 widgets/contact/contact.php:376
+msgid "Border style"
+msgstr "Stil chenar"
+
+#: widgets/contact/contact.php:252 widgets/contact/contact.php:451
+#: widgets/image/image.php:62
+msgid "Hidden"
+msgstr "Ascuns"
+
+#: widgets/contact/contact.php:318
+msgid "Error messages"
+msgstr "Eroare mesaje"
+
+#: widgets/contact/contact.php:322
+msgid "Error background color"
+msgstr "Eroare culoare fundal"
+
+#: widgets/contact/contact.php:332
+msgid "Error text color"
+msgstr "Eroare culoare text"
+
+#: widgets/contact/contact.php:337
+msgid "Error padding"
+msgstr "Eroare distanțare"
+
+#: widgets/contact/contact.php:342
+msgid "Error margin"
+msgstr "Eroare margine"
+
+#: widgets/contact/contact.php:350
+msgid "Submit button"
+msgstr "Buton de trimitere"
+
+#: widgets/contact/contact.php:354
+msgid "Style submit button"
+msgstr "Stil buton de trimitere"
+
+#: widgets/contact/contact.php:355
+msgid "Style the button or leave it with default theme styling."
+msgstr "Personalizează butonul sau lasă-i stilul implicit al temei."
+
+#: widgets/contact/contact.php:366
+msgid "Gradient intensity"
+msgstr "Intensitate gradient"
+
+#: widgets/contact/contact.php:392
+msgid "Border rounding"
+msgstr "Chenar rotunjit"
+
+#: widgets/contact/contact.php:409
+msgid "Font weight"
+msgstr "Mărime font"
+
+#: widgets/contact/contact.php:413
+msgid "Semi-bold"
+msgstr "Semi-bold"
+
+#: widgets/contact/contact.php:414
+msgid "Bold"
+msgstr "Bold"
+
+#: widgets/contact/contact.php:424
+msgid "Inset highlight"
+msgstr "Inserare elemente de lumină"
+
+#: widgets/contact/contact.php:425
+msgid "The white highlight at the bottom of the button"
+msgstr "Lumină albă în partea de jos a butonului"
+
+#: widgets/contact/contact.php:507
+msgid "Your Name"
+msgstr "Numele tău "
+
+#: widgets/contact/contact.php:510
+msgid "Please enter your name"
+msgstr "Te rog scrie numele tău"
+
+#: widgets/contact/contact.php:515
+msgid "Your Email"
+msgstr "Adresa de email"
+
+#: widgets/contact/contact.php:518
+msgid "Please enter a valid email address"
+msgstr "Te rog scrie o adresă de email validă"
+
+#: widgets/contact/contact.php:526
+msgid "Please enter a subject"
+msgstr "Te rog introdu un subiect"
+
+#: widgets/contact/contact.php:531
+msgid "Message"
+msgstr "Mesaj"
+
+#: widgets/contact/contact.php:534
+msgid "Please write something"
+msgstr "Te rog scrie ceva"
+
+#: widgets/contact/contact.php:770
+msgid "Invalid email address."
+msgstr "Adresă email invalidă."
+
+#: widgets/contact/contact.php:839
+msgid "Error sending email, please try again later."
+msgstr "Eroare la trimiterea email-ului, te rog încearcă mai târziu."
+
+#: widgets/contact/contact.php:855
+msgid "A valid email is required"
+msgstr "Un email valid este obligatoriu"
+
+#: widgets/contact/contact.php:858
+msgid "The email address is invalid"
+msgstr "Adresa de email este invalidă"
+
+#: widgets/contact/contact.php:862
+msgid "Missing subject"
+msgstr "Lipsește subiectul"
+
+#: widgets/contact/contact.php:896
+msgid "Error validating your Captcha response."
+msgstr "Eroare la validarea răspunsul tău Captcha."
+
+#: widgets/contact/contact.php:928
+msgid "Unfortunately our system identified your message as spam."
+msgstr "Din păcate sistemul nostru a identificat mesajul tău ca spam."
+
+#: widgets/headline/headline.php:33 widgets/headline/headline.php:77
+msgid "H Tag"
+msgstr "Etichetă H"
+
+#: widgets/headline/headline.php:36 widgets/headline/headline.php:80
+msgid "H1"
+msgstr "H1"
+
+#: widgets/headline/headline.php:37 widgets/headline/headline.php:81
+msgid "H2"
+msgstr "H2"
+
+#: widgets/headline/headline.php:38 widgets/headline/headline.php:82
+msgid "H3"
+msgstr "H3"
+
+#: widgets/headline/headline.php:39 widgets/headline/headline.php:83
+msgid "H4"
+msgstr "H4"
+
+#: widgets/headline/headline.php:40 widgets/headline/headline.php:84
+msgid "H5"
+msgstr "H5"
+
+#: widgets/headline/headline.php:41 widgets/headline/headline.php:85
+msgid "H6"
+msgstr "H6"
+
+#: widgets/hero/hero.php:96
+msgid "Open URL in a new window"
+msgstr "Deschide legătura într-o fereastră nouă"
+
+#: widgets/hero/hero.php:140
+msgid "Extra top padding"
+msgstr "Distanțare suplimentară sus"
+
+#: widgets/hero/hero.php:141
+msgid "Additional padding added to the top of the slider"
+msgstr "Distanțare suplimentară adăugată în partea de sus a caruselului"
+
+#: widgets/image-grid/image-grid.php:15
+msgid "SiteOrigin Image Grid"
+msgstr "Grid imagine (SiteOrigin)"
+
+#: widgets/image-grid/image-grid.php:17
+msgid "Display a grid of images."
+msgstr "Afișează un grid de imagini."
+
+#: widgets/image-grid/image-grid.php:24
+#: widgets/simple-masonry/simple-masonry.php:27
+msgid "Images"
+msgstr "Imagini"
+
+#: widgets/image-grid/image-grid.php:38 widgets/price-table/price-table.php:57
+msgid "Image title"
+msgstr "Titlu imagine"
+
+#: widgets/image-grid/image-grid.php:49
+msgid "Display"
+msgstr "Afișare"
+
+#: widgets/image-grid/image-grid.php:59
+msgid "Maximum image height"
+msgstr "Înălțime maximă imagine"
+
+#: widgets/image-grid/image-grid.php:64
+msgid "Maximum image width"
+msgstr "Lățime maximă imagine"
+
+#: widgets/image-grid/image-grid.php:69
+msgid "Spacing"
+msgstr "Spațiere"
+
+#: widgets/image-grid/image-grid.php:70
+msgid "Amount of spacing between images."
+msgstr "Spațiu între imagini."
+
+#: widgets/simple-masonry/simple-masonry.php:14
+msgid "SiteOrigin Simple Masonry"
+msgstr "Zidărie simplă (SiteOrigin)"
+
+#: widgets/simple-masonry/simple-masonry.php:16
+msgid "A simple masonry layout widget."
+msgstr "O piesă cu aranjament de zidărie simplă."
+
+#: widgets/simple-masonry/simple-masonry.php:38
+msgid "Column span"
+msgstr "Deschidere coloană"
+
+#: widgets/simple-masonry/simple-masonry.php:39
+msgid "Number of columns this item should span. (Limited to number of columns selected in Layout section below.)"
+msgstr "Numărul de coloane care ar trebui deschise de acest element (limitat la numărul de coloane selectate în secțiunea Aranjament de mai jos)."
+
+#: widgets/simple-masonry/simple-masonry.php:46
+msgid "Row span"
+msgstr "Deschidere rând"
+
+#: widgets/simple-masonry/simple-masonry.php:47
+msgid "Number of rows this item should span. (Limited to number of columns selected in Layout section below.)"
+msgstr "Numărul de rânduri care ar trebui deschise de acest element (limitat la numărul de coloane selectate în secțiunea Aranjament de mai jos)."
+
+#: widgets/simple-masonry/simple-masonry.php:69
+msgid "Desktop Layout"
+msgstr "Aranjament desktop"
+
+#: widgets/simple-masonry/simple-masonry.php:73
+#: widgets/simple-masonry/simple-masonry.php:104
+#: widgets/simple-masonry/simple-masonry.php:135
+msgid "Number of columns"
+msgstr "Număr de coloane"
+
+#: widgets/simple-masonry/simple-masonry.php:80
+#: widgets/simple-masonry/simple-masonry.php:111
+#: widgets/simple-masonry/simple-masonry.php:142
+msgid "Row height"
+msgstr "Înălțime rând"
+
+#: widgets/simple-masonry/simple-masonry.php:81
+#: widgets/simple-masonry/simple-masonry.php:112
+#: widgets/simple-masonry/simple-masonry.php:143
+msgid "Leave blank to match calculated column width."
+msgstr "Lasă necompletat pentru a se potrivi cu lățimea calculată a coloanei."
+
+#: widgets/simple-masonry/simple-masonry.php:86
+#: widgets/simple-masonry/simple-masonry.php:117
+#: widgets/simple-masonry/simple-masonry.php:148
+msgid "Gutter"
+msgstr "Margine de legătură"
+
+#: widgets/simple-masonry/simple-masonry.php:87
+#: widgets/simple-masonry/simple-masonry.php:118
+#: widgets/simple-masonry/simple-masonry.php:149
+msgid "Space between masonry items."
+msgstr "Spațiu între elementele de zidărie."
+
+#: widgets/simple-masonry/simple-masonry.php:94
+msgid "Tablet Layout"
+msgstr "Aranjament tabletă"
+
+#: widgets/simple-masonry/simple-masonry.php:99
+#: widgets/simple-masonry/simple-masonry.php:130
+msgid "Break point"
+msgstr "Punct de întrerupere"
+
+#: widgets/simple-masonry/simple-masonry.php:125
+msgid "Mobile Layout"
+msgstr "Aranjament dispozitive mobile"
+
+#: widgets/testimonial/testimonial.php:14
+msgid "SiteOrigin Testimonials"
+msgstr "Testimoniale (SiteOrigin)"
+
+#: widgets/testimonial/testimonial.php:16
+msgid "Share your product/service testimonials in a variety of different ways."
+msgstr "Partajează testimonialele tale de produse/servicii într-o varietate de moduri diferite."
+
+#: widgets/testimonial/testimonial.php:29
+msgid "Testimonials"
+msgstr "Testimoniale"
+
+#: widgets/testimonial/testimonial.php:30
+msgid "Testimonial"
+msgstr "Testimonial"
+
+#: widgets/testimonial/testimonial.php:40
+msgid "The author of the testimonial"
+msgstr "Autorul unui testimonial"
+
+#: widgets/testimonial/testimonial.php:51
+msgid "Their location or company name"
+msgstr "Amplasamentul lor sau numele companiei"
+
+#: widgets/testimonial/testimonial.php:67
+msgid "What your customer had to say"
+msgstr "Ce are de spus clientul tău"
+
+#: widgets/testimonial/testimonial.php:77
+msgid "Open In New Window"
+msgstr "Deschide într-o fereastră nouă"
+
+#: widgets/testimonial/testimonial.php:89
+#: widgets/testimonial/testimonial.php:107
+#: widgets/testimonial/testimonial.php:128
+msgid "Testimonials per row"
+msgstr "Testimoniale per rând"
+
+#: widgets/testimonial/testimonial.php:98
+msgid "Responsive"
+msgstr "Responsiv"
+
+#: widgets/testimonial/testimonial.php:103
+msgid "Tablet"
+msgstr "Tabletă"
+
+#: widgets/testimonial/testimonial.php:115
+#: widgets/testimonial/testimonial.php:136
+msgid "Resolution"
+msgstr "Rezoluție"
+
+#: widgets/testimonial/testimonial.php:116
+#: widgets/testimonial/testimonial.php:137
+msgid "The resolution to treat as a tablet resolution."
+msgstr "Rezoluția de care e nevoie pentru rezoluția tabletei."
+
+#: widgets/testimonial/testimonial.php:124
+msgid "Mobile Phone"
+msgstr "Telefon mobil"
+
+#: widgets/testimonial/testimonial.php:160
+msgid "Testimonial image shape"
+msgstr "Forma imaginii pentru testimonial"
+
+#: widgets/testimonial/testimonial.php:162
+msgid "Square"
+msgstr "Pătrat"
+
+#: widgets/testimonial/testimonial.php:163
+msgid "Round"
+msgstr "Rotund"
+
+#: widgets/testimonial/testimonial.php:181
+msgid "Colors"
+msgstr "Culori"
+
+#: widgets/testimonial/testimonial.php:185
+msgid "Widget Background"
+msgstr "Fundal piesă"
+
+#: widgets/testimonial/testimonial.php:189
+msgid "Text Background"
+msgstr "Fundal text"
+
+#: widgets/testimonial/testimonial.php:194
+msgid "Text Color"
+msgstr "Culoare text"
+
+#: widgets/testimonial/testimonial.php:220
+msgid "User position"
+msgstr "Poziție utilizator"
+
+#: widgets/testimonial/testimonial.php:224
+msgid "Middle"
+msgstr "La mijloc"
+
+#: widgets/testimonial/testimonial.php:231
+msgid "Testimonial layout"
+msgstr "Aranjament testimonial"
+
+#: widgets/testimonial/testimonial.php:233
+msgid "Side by side"
+msgstr "Unul lângă altul"
+
+#: widgets/testimonial/testimonial.php:234
+msgid "Text above user"
+msgstr "Text deasupra utilizatorului"
+
+#: widgets/testimonial/testimonial.php:235
+msgid "Text below user"
+msgstr "Text dedesubtul utilizatorului"
+
+#: widgets/video/video.php:16
+msgid "SiteOrigin Video Player"
+msgstr "Video Player (SiteOrigin)"
+
+#: widgets/slider/slider.php:90
+msgid "Controls"
+msgstr "Comenzi"
+
+#: widgets/social-media-buttons/data/networks.php:5
+msgid "Facebook"
+msgstr "Facebook"
+
+#: widgets/social-media-buttons/data/networks.php:11
+msgid "Twitter"
+msgstr "Twitter"
+
+#: widgets/social-media-buttons/data/networks.php:17
+msgid "Google+"
+msgstr "Google+"
+
+#: widgets/social-media-buttons/data/networks.php:23
+msgid "RSS"
+msgstr "RSS"
+
+#: widgets/contact/contact.php:82
+#: widgets/social-media-buttons/data/networks.php:29
+msgid "Email"
+msgstr "Email"
+
+#: widgets/social-media-buttons/data/networks.php:35
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: widgets/social-media-buttons/data/networks.php:41
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: widgets/social-media-buttons/data/networks.php:47
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: widgets/social-media-buttons/data/networks.php:53
+msgid "Instagram"
+msgstr "Instagram"
+
+#: widgets/social-media-buttons/data/networks.php:59
+msgid "VK"
+msgstr "VK"
+
+#: widgets/social-media-buttons/data/networks.php:65
+msgid "Flickr"
+msgstr "Flickr"
+
+#: widgets/social-media-buttons/data/networks.php:71
+msgid "Vine"
+msgstr "Vine"
+
+#: widgets/social-media-buttons/data/networks.php:77
+msgid "Behance"
+msgstr "Behance"
+
+#: widgets/social-media-buttons/data/networks.php:83
+msgid "Bitbucket"
+msgstr "Bitbucket"
+
+#: widgets/social-media-buttons/data/networks.php:89
+msgid "Codepen"
+msgstr "Codepen"
+
+#: widgets/social-media-buttons/data/networks.php:95
+msgid "Delicious"
+msgstr "Delicious"
+
+#: widgets/social-media-buttons/data/networks.php:101
+msgid "deviantArt"
+msgstr "deviantArt"
+
+#: widgets/social-media-buttons/data/networks.php:107
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: widgets/social-media-buttons/data/networks.php:113
+msgid "Dropbox"
+msgstr "Dropbox"
+
+#: widgets/social-media-buttons/data/networks.php:119
+msgid "Foursquare"
+msgstr "Foursquare"
+
+#: widgets/social-media-buttons/data/networks.php:125
+msgid "Github"
+msgstr "Github"
+
+#: widgets/social-media-buttons/data/networks.php:131
+msgid "Gratipay"
+msgstr "Gratipay"
+
+#: widgets/social-media-buttons/data/networks.php:137
+msgid "Hacker News"
+msgstr "Hacker News"
+
+#: widgets/social-media-buttons/data/networks.php:143
+msgid "JSFiddle"
+msgstr "JSFiddle"
+
+#: widgets/social-media-buttons/data/networks.php:149
+msgid "Last.fm"
+msgstr "Last.fm"
+
+#: widgets/social-media-buttons/data/networks.php:155
+msgid "Reddit"
+msgstr "Reddit"
+
+#: widgets/social-media-buttons/data/networks.php:161
+msgid "Slack"
+msgstr "Slack"
+
+#: widgets/social-media-buttons/data/networks.php:167
+msgid "Slideshare"
+msgstr "Slideshare"
+
+#: widgets/social-media-buttons/data/networks.php:173
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+#: widgets/social-media-buttons/data/networks.php:179
+msgid "Spotify"
+msgstr "Spotify"
+
+#: widgets/social-media-buttons/data/networks.php:185
+msgid "Stack Exchange"
+msgstr "Stack Exchange"
+
+#: widgets/social-media-buttons/data/networks.php:191
+msgid "Stack Overflow"
+msgstr "Stack Overflow"
+
+#: widgets/social-media-buttons/data/networks.php:197
+msgid "Steam"
+msgstr "Steam"
+
+#: widgets/social-media-buttons/data/networks.php:203
+msgid "StumbleUpon"
+msgstr "StumbleUpon"
+
+#: widgets/social-media-buttons/data/networks.php:209
+msgid "Trello"
+msgstr "Trello"
+
+#: widgets/social-media-buttons/data/networks.php:215
+msgid "TripAdvisor"
+msgstr "TripAdvisor"
+
+#: widgets/social-media-buttons/data/networks.php:221
+msgid "Twitch"
+msgstr "Twitch"
+
+#: widgets/social-media-buttons/data/networks.php:227
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: widgets/social-media-buttons/data/networks.php:233
+msgid "Wordpress"
+msgstr "WordPress"
+
+#: widgets/social-media-buttons/data/networks.php:239
+msgid "Xing"
+msgstr "Xing"
+
+#: widgets/social-media-buttons/data/networks.php:245
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: widgets/social-media-buttons/data/networks.php:251
+msgid "Yelp"
+msgstr "Yelp"
+
+#: widgets/social-media-buttons/data/networks.php:257
+msgid "YouTube"
+msgstr "YouTube"
+
+#: widgets/social-media-buttons/social-media-buttons.php:26
+msgid "SiteOrigin Social Media Buttons"
+msgstr "Butoane rețele sociale media (SiteOrigin)"
+
+#: widgets/social-media-buttons/social-media-buttons.php:28
+msgid "A social media buttons widget."
+msgstr "O piesă cu butoane pentru rețele sociale media."
+
+#: widgets/social-media-buttons/social-media-buttons.php:34
+msgid "Networks"
+msgstr "Rețele"
+
+#: widgets/social-media-buttons/social-media-buttons.php:35
+msgid "Network"
+msgstr "Rețea"
+
+#: widgets/social-media-buttons/social-media-buttons.php:45
+msgid "Select network"
+msgstr "Selectare rețea"
+
+#: widgets/image-grid/image-grid.php:42
+#: widgets/social-media-buttons/social-media-buttons.php:50
+#: widgets/testimonial/testimonial.php:72
+msgid "URL"
+msgstr "URL"
+
+#: widgets/social-media-buttons/social-media-buttons.php:132
+msgid "Margin"
+msgstr "Margine"
+
+#: widgets/video/video.php:18
+msgid "A video player widget."
+msgstr "O piesă cu un video player."
+
+#: widgets/video/video.php:29
+msgid "Video location"
+msgstr "Locație video"
+
+#: widgets/video/video.php:32
+msgid "Self hosted"
+msgstr "Auto-găzduit"
+
+#: widgets/video/video.php:33
+msgid "Externally hosted"
+msgstr "Găzduit în plan extern"
+
+#: widgets/video/video.php:45
+msgid "Video File"
+msgstr "Fișier video"
+
+#: widgets/video/video.php:50
+msgid "Select video"
+msgstr "Selectează video"
+
+#: widgets/video/video.php:51
+msgid "Select an uploaded video in mp4 format. Other formats, such as webm and ogv will work in some browsers. You can use an online service such as <a href=\"http://video.online-convert.com/convert-to-mp4\" target=\"_blank\">online-convert.com</a> to convert your videos to mp4."
+msgstr "Selectează și încarcă un video în format mp4. Alte formate, cum ar fi webm și ogv vor lucra doar în unele navigatoare. Poți utiliza un serviciu online, cum ar fi <a href=\"http://video.online-convert.com/convert-to-mp4\" target=\"_blank\">online-convert.com</a> pentru a transforma video în format mp4."
+
+#: widgets/video/video.php:61
+msgid "Select cover image"
+msgstr "Selectează imaginea de copertă"
+
+#: widgets/video/video.php:83
+msgid "Video Playback"
+msgstr "Redare video"
+
+#: widgets/video/video.php:88
+msgid "Autoplay"
+msgstr "Redare automată "
+
+#: widgets/video/video.php:93
+msgid "Use oEmbed"
+msgstr "Folosește oEmbed"
+
+#: widgets/video/video.php:94
+msgid "Always use the embedded video rather than the MediaElement player."
+msgstr "Folosește întotdeauna video înglobate în loc de playerul MediaElement."
+
+#. Plugin URI of the plugin/theme
+msgid "https://siteorigin.com/widgets-bundle/"
+msgstr "https://siteorigin.com/widgets-bundle/"
+
+#. Description of the plugin/theme
+msgid "A collection of all widgets, neatly bundled into a single plugin. It's also a framework to code your own widgets on top of."
+msgstr "O colecție cu toate piesele, incluse elegant într-un singur modul. De asemenea, este un cadru pentru codarea pieselor proprii în partea de sus."
+
+#. Author of the plugin/theme
+msgid "SiteOrigin"
+msgstr "SiteOrigin"
+
+#. Author URI of the plugin/theme
+msgid "https://siteorigin.com"
+msgstr "https://siteorigin.com"
+
+#: admin/tpl/admin.php:17 base/inc/post-selector.php:108
+#: widgets/google-map/google-map.php:263
+msgid "All"
+msgstr "Toate"
+
+#: admin/tpl/admin.php:18
+msgid "Enabled"
+msgstr "Activate"
+
+#: admin/tpl/admin.php:19
+msgid "Disabled"
+msgstr "Dezactivate"
+
+#: admin/tpl/admin.php:79
+msgid "Developers - create your own widgets for the Widgets Bundle."
+msgstr "Dezvoltatori - creați-vă propriile piese pentru pachetul de piese."
+
+#: admin/tpl/admin.php:80
+msgid "Read More"
+msgstr "Citește mai mult"
+
+#: base/inc/fields/base.class.php:315
+msgid "Optional"
+msgstr "Opțional"
+
+#: base/inc/fields/factory.class.php:22
+msgid "This field does not have a type. Please specify a type for it to be rendered correctly."
+msgstr "Acest câmp nu are un tip propriu. Te rog să specifici un tip pentru el ca să fie redat corect."
+
+#: base/inc/fields/font.class.php:17
+msgid "Use theme font"
+msgstr "Folosește fontul temei"
+
+#: base/inc/fields/icon.class.php:18
+msgid "Choose Icon"
+msgstr "Alege icon"
+
+#: base/inc/fields/link.class.php:11
+msgid "Select Content"
+msgstr "Selectează conținut"
+
+#: base/inc/fields/link.class.php:15
+msgid "Search Content"
+msgstr "Caută conținut "
+
+#: base/inc/fields/link.class.php:20
+msgid "Close"
+msgstr "Închide"
+
+#: base/inc/fields/media.class.php:42
+msgid "Choose Media"
+msgstr "Alege Media"
+
+#: base/inc/fields/media.class.php:43
+msgid "Set Media"
+msgstr "Setează Media"
+
+#: base/inc/fields/media.class.php:50
+msgid "You need to <a href=\"%s\">upgrade</a> to WordPress 3.5 to use media fields"
+msgstr "Trebuie să <a href=\"%s\">actualizezi</a> la WordPress 3.5 pentru a utiliza câmpurile media"
+
+#: base/inc/fields/media.class.php:81
+msgid "Remove"
+msgstr "Elimină"
+
+#: base/inc/fields/media.class.php:94
+msgid "External URL"
+msgstr "URL extern"
+
+#: base/inc/fields/repeater.class.php:54
+msgid "Item"
+msgstr "Element"
+
+#: base/inc/fields/repeater.class.php:93
+msgid "Add"
+msgstr "Adaugă"
+
+#: base/inc/fields/widget.class.php:36
+msgid "%s does not exist"
+msgstr "%s nu există"
+
+#: base/inc/fields/widget.class.php:46
+msgid "%s is not a SiteOrigin Widget"
+msgstr "%s nu este o piesă SiteOrigin"
+
+#: base/inc/meta-box-manager.php:35
+msgid "SiteOrigin Meta Box Manager"
+msgstr "Manager casetă meta (SiteOrigin)"
+
+#: base/inc/meta-box-manager.php:77
+msgid "Widgets Bundle Post Meta Data"
+msgstr "Metadate articol Widgets Bundle"
+
+#: base/inc/post-selector.php:13
+msgid "This query returns <a href=\"#\" class=\"preview-query-posts\">%s posts</a>."
+msgstr "Această interogare revine la <a href=\"#\" class=\"preview-query-posts\">%s posts</a>."
+
+#: base/inc/post-selector.php:19 base/inc/post-selector.php:121
+msgid "Select posts"
+msgstr "Selectează articole"
+
+#: base/inc/post-selector.php:29
+msgid "Build posts query"
+msgstr "Construiește interogare articole"
+
+#: base/inc/post-selector.php:106
+msgid "Post type"
+msgstr "Tip articol"
+
+#: base/inc/post-selector.php:119
+msgid "Post in"
+msgstr "Publicat în"
+
+#: base/inc/post-selector.php:126
+msgid "Taxonomies"
+msgstr "Taxonomii"
+
+#: base/inc/post-selector.php:142
+msgid "Order by"
+msgstr "Ordonează după "
+
+#: base/inc/post-selector.php:145
+msgid "No order"
+msgstr "În nicio ordine"
+
+#: base/inc/post-selector.php:146
+msgid "Post ID"
+msgstr "ID articol"
+
+#: base/inc/post-selector.php:147
+msgid "Author"
+msgstr "Autor"
+
+#: base/inc/post-selector.php:148 widgets/contact/contact.php:23
+#: widgets/cta/cta.php:27 widgets/editor/editor.php:25
+#: widgets/features/features.php:90 widgets/post-carousel/post-carousel.php:55
+#: widgets/price-table/price-table.php:24
+#: widgets/price-table/price-table.php:43
+#: widgets/simple-masonry/simple-masonry.php:23
+#: widgets/simple-masonry/simple-masonry.php:54
+#: widgets/testimonial/testimonial.php:25 widgets/video/video.php:25
+msgid "Title"
+msgstr "Titlu"
+
+#: base/inc/post-selector.php:149
+msgid "Published date"
+msgstr "Data publicării "
+
+#: base/inc/post-selector.php:150
+msgid "Modified date"
+msgstr "Data modificării"
+
+#: base/inc/post-selector.php:151
+msgid "By parent"
+msgstr "Părinte"
+
+#: base/inc/post-selector.php:152
+msgid "Random order"
+msgstr "Ordine aleatorie"
+
+#: base/inc/post-selector.php:153
+msgid "Comment count"
+msgstr "Număr comentariu"
+
+#: base/inc/post-selector.php:154
+msgid "Menu order"
+msgstr "Meniu ordine"
+
+#: base/inc/post-selector.php:155
+msgid "By meta value"
+msgstr "Prin valoarea meta"
+
+#: base/inc/post-selector.php:156
+msgid "By numeric meta value"
+msgstr "Prin valoarea numerică meta"
+
+#: base/inc/post-selector.php:157
+msgid "By include order"
+msgstr "Prin includerea ordinii"
+
+#: base/inc/post-selector.php:168
+msgid "Posts per page"
+msgstr "Articole pe pagină"
+
+#: base/inc/post-selector.php:174
+msgid "Sticky posts"
+msgstr "Articole reprezentative"
+
+#: base/inc/post-selector.php:177 widgets/google-map/google-map.php:195
+#: widgets/image/image.php:45
+msgid "Default"
+msgstr "Implicit"
+
+#: base/inc/post-selector.php:178
+msgid "Ignore sticky"
+msgstr "Ignoră reprezentative"
+
+#: base/inc/post-selector.php:179
+msgid "Exclude sticky"
+msgstr "Exclude reprezentative"
+
+#: base/inc/post-selector.php:180
+msgid "Include sticky"
+msgstr "Include reprezentative"
+
+#: base/inc/post-selector.php:188
+msgid "Additional"
+msgstr "Suplimentar"
+
+#: base/inc/post-selector.php:190
+msgid "Additional query arguments. See <a href=\"http://codex.wordpress.org/Function_Reference/query_posts\" target=\"_blank\">query_posts</a>."
+msgstr "Argumente de interogare suplimentare. Vezi <a href=\"http://codex.wordpress.org/Function_Reference/query_posts\" target=\"_blank\">query_posts</a>."
+
+#: base/inc/preview.tpl.php:3 base/inc.php:149
+#: base/siteorigin-widget.class.php:410
+msgid "Widget Preview"
+msgstr "Previzualizare piesă"
+
+#: base/inc/widgets/base-slider.class.php:54
+msgid "Animation speed"
+msgstr "Viteza de animație"
+
+#: base/inc/widgets/base-slider.class.php:55
+msgid "Animation speed in milliseconds."
+msgstr "Viteza de animație în milisecunde."
+
+#: base/inc/widgets/base-slider.class.php:61
+msgid "Timeout"
+msgstr "Pauză"
+
+#: base/inc/widgets/base-slider.class.php:62
+msgid "How long each frame is displayed for in milliseconds."
+msgstr "Cât timp este afișat fiecare cadru, în milisecunde."
+
+#: base/inc/widgets/base-slider.class.php:68
+msgid "Navigation color"
+msgstr "Culoare pentru navigare"
+
+#: base/inc/widgets/base-slider.class.php:74
+msgid "Navigation style"
+msgstr "Stil de navigare"
+
+#: base/inc/widgets/base-slider.class.php:77
+msgid "Ultra thin"
+msgstr "Foarte subțire"
+
+#: base/inc/widgets/base-slider.class.php:78 widgets/headline/headline.php:136
+msgid "Thin"
+msgstr "Subțire"
+
+#: base/inc/widgets/base-slider.class.php:79 widgets/button/button.php:111
+#: widgets/button/button.php:135 widgets/headline/headline.php:137
+#: widgets/image/image.php:35
+#: widgets/social-media-buttons/social-media-buttons.php:92
+#: widgets/social-media-buttons/social-media-buttons.php:114
+#: widgets/social-media-buttons/social-media-buttons.php:136
+msgid "Medium"
+msgstr "Mediu"
+
+#: base/inc/widgets/base-slider.class.php:80 widgets/headline/headline.php:138
+msgid "Thick"
+msgstr "Gros"
+
+#: base/inc/widgets/base-slider.class.php:81
+msgid "Rounded ultra thin"
+msgstr "Rotunjit foarte fin "
+
+#: base/inc/widgets/base-slider.class.php:82
+msgid "Rounded thin"
+msgstr "Rotunjit fin "
+
+#: base/inc/widgets/base-slider.class.php:83
+msgid "Rounded medium"
+msgstr "Rotunjit mediu"
+
+#: base/inc/widgets/base-slider.class.php:84
+msgid "Rounded thick"
+msgstr "Rotunjit gros"
+
+#: base/inc/widgets/base-slider.class.php:90
+msgid "Navigation size"
+msgstr "Dimensiune navigare"
+
+#: base/inc/widgets/base-slider.class.php:101
+msgid "Video file"
+msgstr "Fișier video"
+
+#: base/inc/widgets/base-slider.class.php:107 widgets/video/video.php:72
+msgid "Video URL"
+msgstr "URL video"
+
+#: base/inc/widgets/base-slider.class.php:109
+msgid "An external URL of the video. Overrides video file."
+msgstr "Un URL extern pentru video. Suprascrie fișierul video."
+
+#: base/inc/widgets/base-slider.class.php:114
+msgid "Video format"
+msgstr "Format video"
+
+#: base/inc/widgets/base-slider.class.php:124
+msgid "Maximum height"
+msgstr "Înălțime maximă"
+
+#: base/siteorigin-widget.class.php:330
+msgid "This widget has scripts and styles that need to be loaded before you can use it. Please save and reload your current page."
+msgstr "Această piesă are scripturi și stiluri care trebuie să fie încărcate înainte de utilizare. Te rog salvează și reîncarcă pagina curentă."
+
+#: base/siteorigin-widget.class.php:331
+msgid "You will only need to do this once."
+msgstr "Va trebui să faci acest lucru doar o sigură dată."
+
+#: base/siteorigin-widget.class.php:336
+msgid "Preview"
+msgstr "Previzualizare"
+
+#: base/siteorigin-widget.class.php:341
+msgid "Help"
+msgstr "Ajutor"
+
+#: base/siteorigin-widget.class.php:379
+msgid "Are you sure?"
+msgstr "Ești sigur?"
+
+#: icons/icons.php:8
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: icons/icons.php:10
+msgid "Icomoon Free"
+msgstr "Icomoon gratis"
+
+#: icons/icons.php:9
+msgid "Genericons"
+msgstr "Genericons"
+
+#: icons/icons.php:11
+msgid "Typicons"
+msgstr "Typicons"
+
+#: icons/icons.php:7
+msgid "Elegant Themes Line Icons"
+msgstr "Teme elegante cu o linie de iconuri."
+
+#: so-widgets-bundle.php:355 so-widgets-bundle.php:356
+msgid "SiteOrigin Widgets"
+msgstr "Piese SiteOrigin"
+
+#: so-widgets-bundle.php:383
+msgid "%s was %s"
+msgstr "%s a fost %s"
+
+#: so-widgets-bundle.php:385
+msgid "Activated"
+msgstr "Activată"
+
+#: so-widgets-bundle.php:385
+msgid "Deactivated"
+msgstr "Dezactivată"
+
+#: so-widgets-bundle.php:599
+msgid "Manage Widgets"
+msgstr "Administrare piese"
+
+#: so-widgets-bundle.php:600
+msgid "Support"
+msgstr "Suport"
+
+#: widgets/button/button.php:14
+msgid "SiteOrigin Button"
+msgstr "Buton (SiteOrigin)"
+
+#: widgets/button/button.php:16
+msgid "A customizable button widget."
+msgstr "O piesă cu un buton personalizat."
+
+#: widgets/button/button.php:25 widgets/price-table/price-table.php:75
+msgid "Button text"
+msgstr "Buton text"
+
+#: widgets/button/button.php:30 widgets/hero/hero.php:91
+#: widgets/image/image.php:75 widgets/simple-masonry/simple-masonry.php:58
+#: widgets/slider/slider.php:78
+msgid "Destination URL"
+msgstr "Destinație URL"
+
+#: widgets/button/button.php:36 widgets/simple-masonry/simple-masonry.php:63
+#: widgets/social-media-buttons/social-media-buttons.php:69
+msgid "Open in a new window"
+msgstr "Deschide într-o fereastră nouă"
+
+#: widgets/button/button.php:41 widgets/button/button.php:45
+#: widgets/features/features.php:43 widgets/price-table/price-table.php:101
+msgid "Icon"
+msgstr "Icon"
+
+#: widgets/button/button.php:50 widgets/features/features.php:48
+#: widgets/price-table/price-table.php:105
+#: widgets/social-media-buttons/social-media-buttons.php:54
+msgid "Icon color"
+msgstr "Culoare icon"
+
+#: widgets/button/button.php:55
+msgid "Image icon"
+msgstr "Imagine pentru icon"
+
+#: widgets/button/button.php:56
+msgid "Replaces the icon with your own image icon."
+msgstr "Înlocuiește iconul cu imagine ta pentru icon."
+
+#: widgets/button/button.php:63
+#: widgets/social-media-buttons/social-media-buttons.php:64
+msgid "Design and layout"
+msgstr "Design și aranjament"
+
+#: widgets/button/button.php:68 widgets/contact/contact.php:304
+#: widgets/headline/headline.php:55 widgets/headline/headline.php:99
+#: widgets/social-media-buttons/social-media-buttons.php:121
+msgid "Align"
+msgstr "Aliniament"
+
+#: widgets/button/button.php:71 widgets/contact/contact.php:292
+#: widgets/contact/contact.php:307 widgets/cta/cta.php:52
+#: widgets/headline/headline.php:59 widgets/headline/headline.php:103
+#: widgets/image/image.php:46
+#: widgets/social-media-buttons/social-media-buttons.php:124
+#: widgets/testimonial/testimonial.php:222
+msgid "Left"
+msgstr "Stânga"
+
+#: widgets/button/button.php:72 widgets/contact/contact.php:293
+#: widgets/contact/contact.php:308 widgets/cta/cta.php:53
+#: widgets/headline/headline.php:60 widgets/headline/headline.php:104
+#: widgets/image/image.php:47
+#: widgets/social-media-buttons/social-media-buttons.php:125
+#: widgets/testimonial/testimonial.php:223
+msgid "Right"
+msgstr "Dreapta"
+
+#: widgets/button/button.php:73 widgets/contact/contact.php:309
+#: widgets/headline/headline.php:58 widgets/headline/headline.php:102
+#: widgets/image/image.php:48
+#: widgets/social-media-buttons/social-media-buttons.php:126
+msgid "Center"
+msgstr "Centru"
+
+#: widgets/button/button.php:74 widgets/contact/contact.php:310
+#: widgets/headline/headline.php:61 widgets/headline/headline.php:105
+#: widgets/social-media-buttons/social-media-buttons.php:127
+msgid "Justify"
+msgstr "Justificat"
+
+#: widgets/button/button.php:80
+#: widgets/social-media-buttons/social-media-buttons.php:74
+msgid "Button theme"
+msgstr "Buton temă"
+
+#: widgets/button/button.php:83 widgets/price-table/price-table.php:116
+#: widgets/social-media-buttons/social-media-buttons.php:77
+msgid "Atom"
+msgstr "Atom"
+
+#: widgets/button/button.php:84
+#: widgets/social-media-buttons/social-media-buttons.php:78
+msgid "Flat"
+msgstr "Plat"
+
+#: widgets/button/button.php:85
+#: widgets/social-media-buttons/social-media-buttons.php:79
+msgid "Wire"
+msgstr "Fir"
+
+#: widgets/button/button.php:92 widgets/price-table/price-table.php:132
+msgid "Button color"
+msgstr "Culoare buton"
+
+#: widgets/button/button.php:97 widgets/contact/contact.php:399
+msgid "Text color"
+msgstr "Culoare text"
+
+#: widgets/button/button.php:103
+#: widgets/social-media-buttons/social-media-buttons.php:84
+msgid "Use hover effects"
+msgstr "Folosește efectele trece peste"
+
+#: widgets/button/button.php:108 widgets/contact/contact.php:277
+#: widgets/contact/contact.php:404
+msgid "Font size"
+msgstr "Dimensiune font"
+
+#: widgets/button/button.php:110 widgets/contact/contact.php:185
+#: widgets/contact/contact.php:412
+#: widgets/social-media-buttons/social-media-buttons.php:91
+msgid "Normal"
+msgstr "Normal"
+
+#: widgets/button/button.php:112 widgets/image/image.php:34
+#: widgets/social-media-buttons/social-media-buttons.php:93
+msgid "Large"
+msgstr "Mare"
+
+#: widgets/button/button.php:113
+#: widgets/social-media-buttons/social-media-buttons.php:94
+msgid "Extra large"
+msgstr "Foarte mare"
+
+#: widgets/button/button.php:119
+#: widgets/social-media-buttons/social-media-buttons.php:99
+msgid "Rounding"
+msgstr "Rotunjit"
+
+#: widgets/button/button.php:122 widgets/contact/contact.php:251
+#: widgets/contact/contact.php:379 widgets/contact/contact.php:450
+#: widgets/headline/headline.php:120
+#: widgets/social-media-buttons/social-media-buttons.php:102
+msgid "None"
+msgstr "Niciuna"
+
+#: widgets/button/button.php:123
+#: widgets/social-media-buttons/social-media-buttons.php:103
+msgid "Slightly rounded"
+msgstr "Ușor rotunjit"
+
+#: widgets/button/button.php:124
+#: widgets/social-media-buttons/social-media-buttons.php:104
+msgid "Very rounded"
+msgstr "Foarte rotunjit"
+
+#: widgets/button/button.php:125
+#: widgets/social-media-buttons/social-media-buttons.php:105
+msgid "Completely rounded"
+msgstr "Complet rotunjit"
+
+#: widgets/button/button.php:131 widgets/contact/contact.php:233
+#: widgets/contact/contact.php:419
+#: widgets/social-media-buttons/social-media-buttons.php:110
+#: widgets/testimonial/testimonial.php:202
+#: widgets/testimonial/testimonial.php:211
+msgid "Padding"
+msgstr "Distanțare"
+
+#: widgets/button/button.php:134
+#: widgets/social-media-buttons/social-media-buttons.php:113
+#: widgets/social-media-buttons/social-media-buttons.php:135
+msgid "Low"
+msgstr "Mic"
+
+#: widgets/button/button.php:136
+#: widgets/social-media-buttons/social-media-buttons.php:115
+#: widgets/social-media-buttons/social-media-buttons.php:137
+msgid "High"
+msgstr "Mare"
+
+#: widgets/button/button.php:137
+#: widgets/social-media-buttons/social-media-buttons.php:116
+#: widgets/social-media-buttons/social-media-buttons.php:138
+msgid "Very high"
+msgstr "Foarte mare"
+
+#: widgets/button/button.php:146
+msgid "Other attributes and SEO"
+msgstr "Alte atribute și SEO"
+
+#: widgets/button/button.php:151
+msgid "Button ID"
+msgstr "ID buton"
+
+#: widgets/button/button.php:152
+msgid "An ID attribute allows you to target this button in Javascript."
+msgstr "Un atribut ID îți permite să arăți acest buton în Javascript."
+
+#: widgets/button/button.php:157
+msgid "Title attribute"
+msgstr "Atribut titlu"
+
+#: widgets/button/button.php:158
+msgid "Adds a title attribute to the button link."
+msgstr "Adaugă un atribut titlu la legătura butonului."
+
+#: widgets/button/button.php:163
+msgid "Onclick"
+msgstr "Dă clic"
+
+#: widgets/button/button.php:164
+msgid "Run this Javascript when the button is clicked. Ideal for tracking."
+msgstr "Rulează acest Javascript atunci când se dă clic pe buton. Este ideal pentru urmărire."
+
+#: widgets/cta/cta.php:15
+msgid "SiteOrigin Call-to-action"
+msgstr "Apel la acțiune (SiteOrigin)"
+
+#: widgets/cta/cta.php:17
+msgid "A simple call-to-action widget with massive power."
+msgstr "O piesa simplă pentru apel la acțiune cu putere enormă."
+
+#: widgets/cta/cta.php:32 widgets/price-table/price-table.php:47
+msgid "Subtitle"
+msgstr "Subtitlu"
+
+#: widgets/contact/contact.php:218 widgets/cta/cta.php:37
+#: widgets/testimonial/testimonial.php:151
+msgid "Design"
+msgstr "Design"
+
+#: widgets/contact/contact.php:228 widgets/contact/contact.php:361
+#: widgets/cta/cta.php:41 widgets/hero/hero.php:85
+#: widgets/social-media-buttons/social-media-buttons.php:58
+msgid "Background color"
+msgstr "Culoare fundal"
+
+#: widgets/contact/contact.php:238 widgets/contact/contact.php:371
+#: widgets/cta/cta.php:45
+msgid "Border color"
+msgstr "Culoare margine"
+
+#: widgets/cta/cta.php:49
+msgid "Button align"
+msgstr "Aliniament buton"
+
+#: widgets/cta/cta.php:62 widgets/hero/hero.php:46 widgets/hero/hero.php:58
+msgid "Button"
+msgstr "Buton"
+
+#: widgets/editor/editor.php:16
+msgid "SiteOrigin Editor"
+msgstr "Editor (SiteOrigin)"
+
+#: widgets/editor/editor.php:18
+msgid "A rich-text, text editor."
+msgstr "Un text bogat, editor de text."
+
+#: widgets/editor/editor.php:34
+msgid "Automatically add paragraphs"
+msgstr "Adaugă paragrafe automat"
+
+#: widgets/features/features.php:13
+msgid "SiteOrigin Features"
+msgstr "Funcționalități (SiteOrigin)"
+
+#: widgets/features/features.php:15
+msgid "Displays a list of features."
+msgstr "Afișează o listă cu funcționalități."
+
+#: widgets/features/features.php:22 widgets/price-table/price-table.php:83
+msgid "Features"
+msgstr "Funcționalități"
+
+#: widgets/features/features.php:23 widgets/price-table/price-table.php:84
+msgid "Feature"
+msgstr "Funcționalitate"
+
+#: widgets/features/features.php:35
+msgid "Container color"
+msgstr "Culoare container"
+
+#: widgets/features/features.php:55
+msgid "Icon image"
+msgstr "Imagine icon"
+
+#: widgets/features/features.php:56
+msgid "Use your own icon image."
+msgstr "Folosește-ți propria imagine icon."
+
+#: widgets/features/features.php:63 widgets/image/image.php:54
+msgid "Title text"
+msgstr "Text titlu"
+
+#: widgets/contact/contact.php:84 widgets/features/features.php:68
+#: widgets/features/features.php:111 widgets/headline/headline.php:29
+#: widgets/headline/headline.php:73 widgets/price-table/price-table.php:93
+#: widgets/testimonial/testimonial.php:66
+msgid "Text"
+msgstr "Text"
+
+#: widgets/features/features.php:73
+msgid "More link text"
+msgstr "Text pentru legătura mai mult"
+
+#: widgets/features/features.php:78
+msgid "More link URL"
+msgstr "URL pentru legătura mai mult"
+
+#: widgets/features/features.php:155
+msgid "Container shape"
+msgstr "Formă container"
+
+#: widgets/features/features.php:163
+msgid "Container size"
+msgstr "Dimensiune container"
+
+#: widgets/features/features.php:169
+#: widgets/social-media-buttons/social-media-buttons.php:89
+msgid "Icon size"
+msgstr "Dimensiune icon"
+
+#: widgets/features/features.php:175
+msgid "Features per row"
+msgstr "Funcționalități pe un rând"
+
+#: widgets/features/features.php:181
+msgid "Responsive layout"
+msgstr "Aranjament responsiv"
+
+#: widgets/features/features.php:187
+msgid "Link feature title to more URL"
+msgstr "Legătură funcționalitate titlu pentru mai multe URL-uri"
+
+#: widgets/features/features.php:193
+msgid "Link icon to more URL"
+msgstr "Legătură icon pentru mai multe URL-uri"
+
+#: widgets/features/features.php:199
+msgid "Open more URL in a new window"
+msgstr "Deschide mai multe URL-uri într-o fereastră nouă"
+
+#: widgets/google-map/google-map.php:16
+msgid "SiteOrigin Google Maps"
+msgstr "Google Maps (SiteOrigin)"
+
+#: widgets/google-map/google-map.php:18
+msgid "A Google Maps widget."
+msgstr "O piesă pentru Google Maps."
+
+#: widgets/google-map/google-map.php:26
+msgid "Map center"
+msgstr "Centrare hartă"
+
+#: widgets/google-map/google-map.php:27
+msgid "The name of a place, town, city, or even a country. Can be an exact address too."
+msgstr "Numele unui loc, oraș, municipiu sau chiar o țară. De asemenea poate fi o adresă exactă."
+
+#: widgets/contact/contact.php:34 widgets/google-map/google-map.php:31
+#: widgets/testimonial/testimonial.php:84
+msgid "Settings"
+msgstr "Setări"
+
+#: widgets/google-map/google-map.php:33
+msgid "Set map display options."
+msgstr "Opțiuni setări afișare hartă."
+
+#: widgets/google-map/google-map.php:38
+msgid "Map type"
+msgstr "Tip hartă"
+
+#: widgets/google-map/google-map.php:44
+msgid "Interactive"
+msgstr "Interactiv"
+
+#: widgets/google-map/google-map.php:45
+msgid "Static image"
+msgstr "Imagine statică"
+
+#: widgets/contact/contact.php:299 widgets/contact/contact.php:461
+#: widgets/google-map/google-map.php:56
+msgid "Width"
+msgstr "Lățime"
+
+#: widgets/google-map/google-map.php:61 widgets/hero/hero.php:128
+msgid "Height"
+msgstr "Înălțime"
+
+#: widgets/google-map/google-map.php:65
+msgid "Zoom level"
+msgstr "Nivel zoom"
+
+#: widgets/google-map/google-map.php:66
+msgid "A value from 0 (the world) to 21 (street level)."
+msgstr "O valoare de la 0 (la nivel mondial) la 21 (la nivel de stradă)."
+
+#: widgets/google-map/google-map.php:80
+msgid "Scroll to zoom"
+msgstr "Derulează pentru zoom"
+
+#: widgets/google-map/google-map.php:81
+msgid "Allow scrolling over the map to zoom in or out."
+msgstr "Permite derulare peste hartă pentru a mări sau micșora."
+
+#: widgets/google-map/google-map.php:90
+msgid "Draggable"
+msgstr "Glisant"
+
+#: widgets/google-map/google-map.php:91
+msgid "Allow dragging the map to move it around."
+msgstr "Permite glisarea pe hartă pentru a-l deplasa peste tot."
+
+#: widgets/google-map/google-map.php:100
+msgid "Disable default UI"
+msgstr "Dezactivează UI implicit"
+
+#: widgets/google-map/google-map.php:101
+msgid "Hides the default Google Maps controls."
+msgstr "Ascunde comenzile implicite Google Maps."
+
+#: widgets/google-map/google-map.php:110
+msgid "Keep map centered"
+msgstr "Menține harta centrată"
+
+#: widgets/google-map/google-map.php:111
+msgid "Keeps the map centered when it's container is resized."
+msgstr "Menține harta centrată atunci când containerul este redimensionat."
+
+#: widgets/google-map/google-map.php:117
+msgid "Markers"
+msgstr "Marcatori"
+
+#: widgets/google-map/google-map.php:119
+msgid "Use markers to identify points of interest on the map."
+msgstr "Folosește marcatori pentru a identifica punctele de interes de pe hartă."
+
+#: widgets/google-map/google-map.php:124
+msgid "Show marker at map center"
+msgstr "Arată marcatorul la centrul hărții"
+
+#: widgets/google-map/google-map.php:129
+msgid "Marker icon"
+msgstr "Icon pentru marcator"
+
+#: widgets/google-map/google-map.php:130
+msgid "Replaces the default map marker with your own image."
+msgstr "Înlocuiește marcatorul implicit al hărții cu o imagine proprie."
+
+#: widgets/google-map/google-map.php:139
+msgid "Draggable markers"
+msgstr "Marcatori glisanți"
+
+#: widgets/google-map/google-map.php:143
+msgid "Marker positions"
+msgstr "Poziții pentru marcatori"
+
+#: widgets/google-map/google-map.php:144
+msgid "Please be aware that adding more than 10 markers may cause a slight delay before they appear, due to Google Geocoding API rate limits."
+msgstr "Te rog să reții că adăugarea de peste 10 de marcatori poate provoca o ușoară întârziere înainte ca ei să apară, din cauza ratelor limită Google Geocoding API."
+
+#: widgets/google-map/google-map.php:145
+msgid "Marker"
+msgstr "Marcator"
+
+#: widgets/google-map/google-map.php:155
+msgid "Place"
+msgstr "Poziție"
+
+#: widgets/google-map/google-map.php:160
+msgid "Info Window Content"
+msgstr "Conținutul ferestrei informative"
+
+#: widgets/google-map/google-map.php:164
+msgid "Info Window max width"
+msgstr "Lățime maximă fereastră informativă "
+
+#: widgets/google-map/google-map.php:170
+msgid "When should Info Windows be displayed?"
+msgstr "Când ar trebui afișată fereastra informativă?"
+
+#: widgets/google-map/google-map.php:173
+msgid "Click"
+msgstr "Clic"
+
+#: widgets/google-map/google-map.php:174
+msgid "Mouse over"
+msgstr "Trece mausul pe deasupra"
+
+#: widgets/google-map/google-map.php:175
+msgid "Always"
+msgstr "Întotdeauna "
+
+#: widgets/google-map/google-map.php:182
+msgid "Styles"
+msgstr "Stiluri"
+
+#: widgets/google-map/google-map.php:184
+msgid "Apply custom colors to map features, or hide them completely."
+msgstr "Aplică culori personalizate pentru funcționalitățile hărții sau ascunde-le complet."
+
+#: widgets/google-map/google-map.php:189
+msgid "Map styles"
+msgstr "Stiluri pentru hartă"
+
+#: widgets/google-map/google-map.php:196
+msgid "Custom"
+msgstr "Personalizată"
+
+#: widgets/google-map/google-map.php:197
+msgid "Predefined Styles"
+msgstr "Stiluri predefinite"
+
+#: widgets/google-map/google-map.php:206
+msgid "Styled map name"
+msgstr "Nume stil pentru hartă"
+
+#: widgets/google-map/google-map.php:216
+msgid "Raw JSON styles"
+msgstr "Stiluri JSON brute"
+
+#: widgets/google-map/google-map.php:217
+msgid "Copy and paste predefined styles here from <a href=\"http://snazzymaps.com/\" target=\"_blank\">Snazzy Maps</a>."
+msgstr "Copiază și lipește aici stilurile predefinite din <a href=\"http://snazzymaps.com/\" target=\"_blank\">Snazzy Maps</a>."
+
+#: widgets/google-map/google-map.php:225
+msgid "Custom map styles"
+msgstr "Stiluri personalizate pentru hartă"
+
+#: widgets/contact/contact.php:439 widgets/google-map/google-map.php:226
+#: widgets/headline/headline.php:117
+msgid "Style"
+msgstr "Stil"
+
+#: widgets/google-map/google-map.php:236
+msgid "Select map feature to style"
+msgstr "Selectează funcționalitatea hărții pentru personalizare"
+
+#: widgets/google-map/google-map.php:238
+msgid "Water"
+msgstr "Apă"
+
+#: widgets/google-map/google-map.php:239
+msgid "Highways"
+msgstr "Autostrăzi"
+
+#: widgets/google-map/google-map.php:240
+msgid "Arterial roads"
+msgstr "Drumuri principale"
+
+#: widgets/google-map/google-map.php:241
+msgid "Local roads"
+msgstr "Drumuri locale"
+
+#: widgets/google-map/google-map.php:242
+msgid "Transit lines"
+msgstr "Linii de tranzit"
+
+#: widgets/google-map/google-map.php:243
+msgid "Transit stations"
+msgstr "Stații de tranzit"
+
+#: widgets/google-map/google-map.php:244
+msgid "Man-made landscape"
+msgstr "Peisaj realizat de oameni"
+
+#: widgets/google-map/google-map.php:245
+msgid "Natural landscape landcover"
+msgstr "Teren acoperit cu peisaj natural"
+
+#: widgets/google-map/google-map.php:246
+msgid "Natural landscape terrain"
+msgstr "Teren cu peisaj natural"
+
+#: widgets/google-map/google-map.php:247
+msgid "Point of interest - Attractions"
+msgstr "Punct de interes - Obiective turistice"
+
+#: widgets/google-map/google-map.php:248
+msgid "Point of interest - Business"
+msgstr "Punct de interes - Afaceri"
+
+#: widgets/google-map/google-map.php:249
+msgid "Point of interest - Government"
+msgstr "Punct de interes - Administrație"
+
+#: widgets/google-map/google-map.php:250
+msgid "Point of interest - Medical"
+msgstr "Punct de interes - Medical"
+
+#: widgets/google-map/google-map.php:251
+msgid "Point of interest - Parks"
+msgstr "Punct de interes - Parcuri"
+
+#: widgets/google-map/google-map.php:252
+msgid "Point of interest - Places of worship"
+msgstr "Punct de interes - Lăcașuri de cult"
+
+#: widgets/google-map/google-map.php:253
+msgid "Point of interest - Schools"
+msgstr "Punct de interes - Școli"
+
+#: widgets/google-map/google-map.php:254
+msgid "Point of interest - Sports complexes"
+msgstr "Punct de interes - Complexe sportive"
+
+#: widgets/google-map/google-map.php:259
+msgid "Select element type to style"
+msgstr "Selectează tipul de element pentru personalizare"
+
+#: widgets/google-map/google-map.php:261
+msgid "Geometry"
+msgstr "Geometrie"
+
+#: widgets/google-map/google-map.php:262
+msgid "Labels"
+msgstr "Etichete"
+
+#: widgets/google-map/google-map.php:269
+msgid "Visible"
+msgstr "Vizibil"
+
+#: widgets/contact/contact.php:282 widgets/contact/contact.php:456
+#: widgets/features/features.php:104 widgets/features/features.php:125
+#: widgets/features/features.php:146 widgets/google-map/google-map.php:273
+#: widgets/headline/headline.php:51 widgets/headline/headline.php:95
+#: widgets/headline/headline.php:143
+msgid "Color"
+msgstr "Culoare"
+
+#: widgets/google-map/google-map.php:281
+msgid "Directions"
+msgstr "Direcții"
+
+#: widgets/google-map/google-map.php:287
+msgid "Display a route on your map, with waypoints between your starting point and destination."
+msgstr "Afișează o rută pe hartă, cu puncte de referință între punctul de pornire și cel de destinație."
+
+#: widgets/google-map/google-map.php:291
+msgid "Starting point"
+msgstr "Punct de plecare"
+
+#: widgets/google-map/google-map.php:295
+msgid "Destination"
+msgstr "Destinație"
+
+#: widgets/google-map/google-map.php:299
+msgid "Travel mode"
+msgstr "Mod de călătorie"
+
+#: widgets/google-map/google-map.php:302
+msgid "Driving"
+msgstr "Cu mașina"
+
+#: widgets/google-map/google-map.php:303
+msgid "Walking"
+msgstr "Pe jos"
+
+#: widgets/google-map/google-map.php:304
+msgid "Bicycling"
+msgstr "Cu bicicleta"
+
+#: widgets/google-map/google-map.php:305
+msgid "Transit"
+msgstr "Tranzit"
+
+#: widgets/google-map/google-map.php:310
+msgid "Avoid highways"
+msgstr "Evită autostrăzile"
+
+#: widgets/google-map/google-map.php:314
+msgid "Avoid tolls"
+msgstr "Evită vămile"
+
+#: widgets/google-map/google-map.php:318
+msgid "Waypoints"
+msgstr "Puncte de referință"
+
+#: widgets/google-map/google-map.php:319
+msgid "Waypoint"
+msgstr "Punct de referință "
+
+#: widgets/google-map/google-map.php:329 widgets/testimonial/testimonial.php:50
+msgid "Location"
+msgstr "Locație"
+
+#: widgets/google-map/google-map.php:334
+msgid "Stopover"
+msgstr "Escală"
+
+#: widgets/google-map/google-map.php:335
+msgid "Whether or not this is a stop on the route or just a route preference."
+msgstr "Indiferent dacă acesta este o oprire sau nu pe rută sau doar o preferință pentru traseu."
+
+#: widgets/google-map/google-map.php:341
+msgid "Optimize waypoints"
+msgstr "Optimizare puncte de referință"
+
+#: widgets/google-map/google-map.php:343
+msgid "Allow the Google Maps service to reorder waypoints for the shortest travelling distance."
+msgstr "Permite serviciului Google Maps să reordoneze puncte de referință pentru distanța cea mai scurtă călătorie."
+
+#: widgets/google-map/google-map.php:349 widgets/google-map/google-map.php:354
+msgid "API key"
+msgstr "Cheie API"
+
+#: widgets/google-map/google-map.php:355
+msgid "Enter your API key if you have one. This enables you to monitor your Google Maps API usage in the Google APIs Console."
+msgstr "Introdu cheia ta API dacă ai una. Ea activează monitorizarea utilizării Google Maps APIs în Consola Google."
+
+#: widgets/google-map/google-map.php:484
+msgid "Custom Map"
+msgstr "Hartă personalizată"
+
+#: widgets/headline/headline.php:16
+msgid "SiteOrigin Headline"
+msgstr "Titlu (SiteOrigin)"
+
+#: widgets/headline/headline.php:18
+msgid "A headline widget."
+msgstr "O piesă pentru titlu."
+
+#: widgets/headline/headline.php:24
+msgid "Headline"
+msgstr "Titlu"
+
+#: widgets/contact/contact.php:272 widgets/features/features.php:95
+#: widgets/features/features.php:116 widgets/features/features.php:137
+#: widgets/headline/headline.php:46 widgets/headline/headline.php:90
+msgid "Font"
+msgstr "Font"
+
+#: widgets/headline/headline.php:68
+msgid "Sub headline"
+msgstr "Subtitlu"
+
+#: widgets/headline/headline.php:112
+msgid "Divider"
+msgstr "Compas"
+
+#: widgets/contact/contact.php:255 widgets/contact/contact.php:380
+#: widgets/contact/contact.php:444 widgets/headline/headline.php:121
+msgid "Solid"
+msgstr "Compact"
+
+#: widgets/contact/contact.php:253 widgets/contact/contact.php:381
+#: widgets/contact/contact.php:442 widgets/headline/headline.php:122
+msgid "Dotted"
+msgstr "Punctat"
+
+#: widgets/contact/contact.php:254 widgets/contact/contact.php:382
+#: widgets/contact/contact.php:443 widgets/headline/headline.php:123
+msgid "Dashed"
+msgstr "Punctată"
+
+#: widgets/contact/contact.php:256 widgets/contact/contact.php:445
+#: widgets/headline/headline.php:124
+msgid "Double"
+msgstr "Dublă"
+
+#: widgets/contact/contact.php:257 widgets/contact/contact.php:446
+#: widgets/headline/headline.php:125
+msgid "Groove"
+msgstr "Canelură"
+
+#: widgets/contact/contact.php:258 widgets/contact/contact.php:447
+#: widgets/headline/headline.php:126
+msgid "Ridge"
+msgstr "Creastă"
+
+#: widgets/contact/contact.php:259 widgets/contact/contact.php:448
+#: widgets/headline/headline.php:127
+msgid "Inset"
+msgstr "Sosire"
+
+#: widgets/contact/contact.php:260 widgets/contact/contact.php:449
+#: widgets/headline/headline.php:128
+msgid "Outset"
+msgstr "Plecare"
+
+#: widgets/headline/headline.php:133
+msgid "Weight"
+msgstr "Greutate"
+
+#: widgets/hero/hero.php:18
+msgid "SiteOrigin Hero"
+msgstr "Robust (SiteOrigin)"
+
+#: widgets/hero/hero.php:20
+msgid "A big hero image with a few settings to make it your own."
+msgstr "O imagine mare cu câteva setări pentru a ți-o personaliza."
+
+#: widgets/hero/hero.php:28
+msgid "Hero frames"
+msgstr "Cadre pentru robust"
+
+#: widgets/hero/hero.php:29 widgets/slider/slider.php:28
+msgid "Frame"
+msgstr "Cadru"
+
+#: widgets/hero/hero.php:40
+msgid "Content"
+msgstr "Conținut"
+
+#: widgets/hero/hero.php:45
+msgid "Buttons"
+msgstr "Butoane"
+
+#: widgets/hero/hero.php:47
+msgid "Add [buttons] shortcode to the content to insert these buttons."
+msgstr "Adauga scurtcod [butoane] la conținut pentru a introduce aceste butoane."
+
+#: widgets/hero/hero.php:66
+msgid "Background"
+msgstr "Fundal"
+
+#: widgets/hero/hero.php:70 widgets/slider/slider.php:50
+msgid "Background image"
+msgstr "Imagine fundal"
+
+#: widgets/hero/hero.php:76
+msgid "Background image opacity"
+msgstr "Opacitate imagine fundal"
+
+#: widgets/hero/hero.php:101 widgets/slider/slider.php:37
+msgid "Video"
+msgstr "Video"
+
+#: widgets/hero/hero.php:102 widgets/slider/slider.php:38
+msgid "Background videos"
+msgstr "Fundal videouri"
+
+#: widgets/hero/hero.php:117
+msgid "Slider Controls"
+msgstr "Comenzi carusel"
+
+#: widgets/hero/hero.php:123
+msgid "Design and Layout"
+msgstr "Design și aranjament"
+
+#: widgets/hero/hero.php:134
+msgid "Top and bottom padding"
+msgstr "Distanțare sus și jos"
+
+#: widgets/hero/hero.php:147
+msgid "Side padding"
+msgstr "Distanțare laterală"
+
+#: widgets/hero/hero.php:153
+msgid "Maximum container width"
+msgstr "Lățime maximă container"
+
+#: widgets/hero/hero.php:159
+msgid "Heading font"
+msgstr "Font rubrică"
+
+#: widgets/hero/hero.php:165
+msgid "Heading size"
+msgstr "Dimensiune rubrică"
+
+#: widgets/hero/hero.php:171
+msgid "Heading shadow intensity"
+msgstr "Intensitate umbră rubrică"
+
+#: widgets/hero/hero.php:179
+msgid "Text size"
+msgstr "Dimensiune text"
+
+#: widgets/image/image.php:13
+msgid "SiteOrigin Image"
+msgstr "Imagine (SiteOrigin)"
+
+#: widgets/image/image.php:15
+msgid "A simple image widget with massive power."
+msgstr "O piesă cu o imagine simplă cu putere enormă."
+
+#: widgets/image/image.php:24
+msgid "Image file"
+msgstr "Fișier imagine"
+
+#: widgets/image/image.php:31 widgets/image-grid/image-grid.php:52
+#: widgets/testimonial/testimonial.php:170
+msgid "Image size"
+msgstr "Dimensiune imagine"
+
+#: widgets/image/image.php:33 widgets/image-grid/image-grid.php:114
+msgid "Full"
+msgstr "Completă"
+
+#: widgets/image/image.php:36
+msgid "Thumbnail"
+msgstr "Miniatură"
+
+#: widgets/image/image.php:70
+msgid "Alt text"
+msgstr "Text alternativ"
+
+#: widgets/image/image.php:80 widgets/slider/slider.php:83
+msgid "Open in new window"
+msgstr "Deschide într-o fereastră nouă"
+
+#: widgets/image/image.php:86
+msgid "Bound"
+msgstr "Legat"
+
+#: widgets/image/image.php:87
+msgid "Make sure the image doesn't extend beyond its container."
+msgstr "Asigură-te că imaginea nu se extinde dincolo de containerul său."
+
+#: widgets/image/image.php:92
+msgid "Full Width"
+msgstr "Lățime completă"
+
+#: widgets/image/image.php:93
+msgid "Resize image to fit its container."
+msgstr "Redimensionează imaginea ca să se potrivească în container."
+
+#: widgets/post-carousel/post-carousel.php:44
+msgid "SiteOrigin Post Carousel"
+msgstr "Carusel cu articole (SiteOrigin)"
+
+#: widgets/post-carousel/post-carousel.php:46
+msgid "Display your posts as a carousel."
+msgstr "Afișează-ți articolele sub forma unui carusel."
+
+#: widgets/post-carousel/post-carousel.php:60
+msgid "Posts query"
+msgstr "Interogare articole"
+
+#: widgets/post-carousel/tpl/base.php:10 widgets/post-carousel/tpl/base.php:18
+msgid "Next"
+msgstr "Următor"
+
+#: widgets/post-carousel/tpl/base.php:11 widgets/post-carousel/tpl/base.php:16
+msgid "Previous"
+msgstr "Anterior"
+
+#: widgets/price-table/price-table.php:13
+msgid "SiteOrigin Price Table"
+msgstr "Tabel de prețuri (SiteOrigin)"
+
+#: widgets/price-table/price-table.php:15
+msgid "A simple Price Table."
+msgstr "Un tabel de prețuri simplu."
+
+#: widgets/price-table/price-table.php:29
+msgid "Columns"
+msgstr "Coloane"
+
+#: widgets/price-table/price-table.php:30
+msgid "Column"
+msgstr "Coloană"
+
+#: widgets/price-table/price-table.php:39
+msgid "Featured"
+msgstr "Reprezentativ"
+
+#: widgets/contact/contact.php:176 widgets/image-grid/image-grid.php:25
+#: widgets/image-grid/image-grid.php:34 widgets/price-table/price-table.php:52
+#: widgets/simple-masonry/simple-masonry.php:34
+#: widgets/testimonial/testimonial.php:56
+#: widgets/testimonial/testimonial.php:156
+msgid "Image"
+msgstr "Imagine"
+
+#: widgets/price-table/price-table.php:67
+msgid "Price"
+msgstr "Preț"
+
+#: widgets/price-table/price-table.php:71
+msgid "Per"
+msgstr "Per"
+
+#: widgets/price-table/price-table.php:79
+msgid "Button URL"
+msgstr "URL buton"
+
+#: widgets/price-table/price-table.php:97
+msgid "Hover text"
+msgstr "Trece peste text"
+
+#: widgets/price-table/price-table.php:114
+msgid "Price table theme"
+msgstr "Temă tabel de prețuri"
+
+#: widgets/price-table/price-table.php:122
+msgid "Header color"
+msgstr "Culoare antet"
+
+#: widgets/price-table/price-table.php:127
+msgid "Featured header color"
+msgstr "Culoare reprezentativă antet"
+
+#: widgets/price-table/price-table.php:137
+msgid "Featured button color"
+msgstr "Culoare reprezentativă buton"
+
+#: widgets/price-table/price-table.php:142
+msgid "Open Button URL in a new window"
+msgstr "Deschide URL buton într-o fereastră nouă"
+
+#: widgets/slider/slider.php:15
+msgid "SiteOrigin Slider"
+msgstr "Carusel (SiteOrigin)"
+
+#: widgets/slider/slider.php:17
+msgid "A responsive slider widget that supports images and video."
+msgstr "O piesă cu un carusel responsiv care acceptă imagini și video."
+
+#: widgets/slider/slider.php:27
+msgid "Slider frames"
+msgstr "Cadre carusel"
+
+#: widgets/slider/slider.php:56
+msgid "Background Color"
+msgstr "Culoare fundal"
+
+#: widgets/slider/slider.php:61
+msgid "Background image type"
+msgstr "Fundal tip imagine"
+
+#: widgets/slider/slider.php:63
+msgid "Cover"
+msgstr "Acoperire"
+
+#: widgets/slider/slider.php:64
+msgid "Tile"
+msgstr "Placă"
+
+#: widgets/slider/slider.php:72
+msgid "Foreground image"
+msgstr "Imaginea din față"
+
+#. #-#-#-#-#  tmp-so-widgets-bundle.pot (SiteOrigin Widgets Bundle 1.5.9) 
+#. #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: admin/tpl/admin.php:9 so-widgets-bundle.php:183
+msgid "SiteOrigin Widgets Bundle"
+msgstr "SiteOrigin Widgets Bundle"

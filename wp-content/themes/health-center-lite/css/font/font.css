@@ -1,0 +1,32 @@
+/* Glametrix Fonts */
+@font-face {
+    font-family: 'Glametrix';
+    src: url('Glametrix.eot');
+    src: url('Glametrix.eot?#iefix') format('embedded-opentype'),
+         url('Glametrix.woff') format('woff'),
+         url('Glametrix.otf') format('truetype'),
+         url('Glametrix.svg#Glametrix') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GlametrixBold';
+    src: url('GlametrixBold.eot');
+    src: url('GlametrixBold.eot?#iefix') format('embedded-opentype'),
+         url('GlametrixBold.woff') format('woff'),
+         url('GlametrixBold.otf') format('truetype'),
+         url('GlametrixBold.svg#GlametrixBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+/* Fely Fonts */
+@font-face {
+    font-family: 'Fely';
+    src: url('Fely.eot');
+    src: url('Fely.eot?#iefix') format('embedded-opentype'),
+         url('Fely.woff') format('woff'),
+         url('Fely.otf') format('truetype'),
+         url('Fely.svg#Fely') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

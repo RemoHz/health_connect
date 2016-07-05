@@ -1,0 +1,62 @@
+/*
+Theme Name:    Health care
+ Description:  A  theme which is ideal for creating a Health / Doctor / Clinic / Medical Business related website. Theme has couple of extra templates makes it even more powerful.
+ Author:       webriti
+ Author URI:   http://www.webriti.com
+ Theme URI:    http://webriti.com/health-care-child-version-details-page/
+ Template:     health-center-lite
+ Version:      1.0
+ Tags: 		   green,white, full-width-template, threaded-comments, microformats,two-columns,  right-sidebar, responsive-layout, sticky-post, custom-background, custom-menu, translation-ready
+ Text Domain:  health_care
+*/
+
+.navigation_section, .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus, .slide_thumb, .hc_main_service, .hc_home_portfolio_showcase_overlay, .hc_callout_area, .hc_callout_area a, .hc_carousel-prev:hover, .hc_carousel-next:hover, .hc_portfolio_tabs li.active > a, .hc_portfolio_tabs li > a:hover, .hc_portfolio_showcase_overlay, .hc_portfolio_detail_pagi li a:hover, .hc_portfolio_detail_info a, .hc_sevice_icon, .hc_sevice_icon:hover, .hc_btn,#hc_btn, .hc_post_date span.date, a.hc_blog_btn, a.more-link, .hc_blog_pagi a:hover, .hc_blog_pagi a.active, .hc_widget_tags a:hover,.hc_sidebar .tagcloud a:hover,.hc_footer_widget_column  .tagcloud a:hover, .hc_btn_blue, .hc_dropcape_square span, .hc_dropcape_circle span, .hc_short_tabs li.active > a,
+.hc_short_tabs li > a:hover, .error_404_btn:hover, .hc_footer_widget_column #wp-calendar caption,.hc_sidebar #wp-calendar caption, .hc_sidebar #searchsubmit { background-color: #3daa62 !important; }
+
+@media only screen and (min-width: 960px) and (max-width: 1200px) { .slide_thumb { background-color: #3daa62; } }
+@media only screen and (min-width: 768px) and (max-width: 959px) { .slide_thumb { background-color: #3daa62; } }
+@media only screen and (min-width: 480px) and (max-width: 767px) { .slide_thumb > li { background-color: #3daa62; } }
+@media only screen and (min-width: 200px) and (max-width: 480px) { .slide_thumb > li { background-color: #3daa62; } }
+
+
+/* Text Colors */
+
+a:hover, .sticky, .hc_logo h1 > a, .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus, 
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus, .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus, .hc_service_title h1, .hc_service_area i, .hc_service_area h2 > a:hover, .hc_service_area p a, .hc_portfolio_title h1, .hc_service_title h1, .hc_home_title h1, .hc_home_callnow_title h1, .hc_home_portfolio_caption h3 a:hover, .hc_callout_area a:hover, .hc_testimonials_title, .hc_footer_area p a:hover, .hc_breadcrumb > .active, .hc_team_title h1, .hc_team_title h1 span, .hc_team_showcase .caption h3, .hc_team_about2_showcase .caption h3, .hc_portfolio_caption h3 a:hover, .hc_portfolio_detail_info a:hover, .hc_service_section h3 > a:hover, .hc_service_detail_area label > small, .hc_btn:hover,.hc_btn:focus,#hc_btn:hover,#hc_btn:focus, .hc_contactv1_area label > small, .hc_contactv2_area label > small, .hc_contactv1_address address a, .hc_contactv2_address address a, .hc_post_detail a:hover, a.hc_blog_btn:hover, a.hc_blog_btn:focus, .hc_comment_detail_title, .reply a:hover, .hc_comment_form_section label > small, .hc_sidebar_widget h3 a:hover, .hc_sidebar_calender small, .hc_widget_link a:hover,.hc_sidebar ul a:hover , .hc_widget_link a.active,.hc_sidebar ul a.active, .hc_left_sidebar_widget h3 a:hover, .hc_tooltip a, table th a, .error_404 h4, .error_404_btn, table tfoot a, .comment-reply-title a,.logged-in-as a, .hc_post-date-type .day, 
+.hc_testimonials_area_content:before, .navbar-default .navbar-nav > .current_page_item > a, .navbar-default .navbar-nav > .current_page_item > a:hover, .navbar-default .navbar-nav > .current_page_item > a:focus, .hc_blog_post_content a{ color:#3daa62 !important; }
+
+/* Border colors */
+
+.navbar-nav > li > a { border-right: 1px solid #207e40; } 
+
+.dropdown-menu, .hc_heading_title h3 { border-bottom: 3px solid #3daa62 !important; }
+
+.hc_google_map iframe, .hc_contactv2_address iframe, .hc_post-date-type { border-bottom: 2px solid #3daa62; }
+
+.hc_portfolio_tabs li.active > a, .hc_portfolio_tabs li > a:hover, .hc_portfolio_detail_info a:hover, .hc_blog_pagi a:hover, .hc_blog_pagi a.active, .hc_widget_tags a:hover,.hc_sidebar .tagcloud a:hover,.hc_footer_widget_column  .tagcloud a:hover, .hc_short_tabs li.active > a, .hc_short_tabs li > a:hover, .error_404_btn { border: 1px solid #3daa62 !important; }
+
+.hc_service_area i, .hc_team_showcase, .index_ser_img { border: 2px solid #3daa62 !important; }
+
+.hc_service_area i:hover { border: 4px solid #3daa62 !important; }
+
+.hc_blockquote_section blockquote, .hc_blog_post_content blockquote { border-left: 5px solid #3daa62 !important; }
+
+.hc_input_control:focus, .hc_textarea_control:focus, .hc_con_input_control:focus, .hc_con_textarea_control:focus, .hc_btn,#hc_btn, .hc_btn:hover,.hc_btn:focus,#hc_btn:hover,#hc_btn:focus, a.hc_blog_btn,a.more-link, a.hc_blog_btn:hover, a.hc_blog_btn:focus { border-color: #3daa62 !important; }
+
+
+/* Shadow colors */
+
+.hc_input_control:focus, .hc_textarea_control:focus, .hc_con_input_control:focus, .hc_con_textarea_control:focus {
+	-webkit-box-shadow: inset 0 0px 0px #3daa62, 0 0 5px #3daa62;
+		  box-shadow: inset 0 0px 0px #3daa62, 0 0 5px #3daa62;
+}
+a.hc_blog_btn,a.more-link  { text-shadow: 0 1px 1px #3daa62 !important; }
+
+
+/* Slider Css */
+#carousel .flex-active, .slide_thumb > li:hover, .slide_thumb > li.active { background-color:#207e40; }
+.slide_thumb > li { border-right: 1px solid #49bd70; }
+.hc_blog_pagi a:hover{color:#fff!important;}
+a.hc_blog_btn:hover{ background-color:#fff !important;}
+#post-559{border-left: 22px solid #3daa62;}
+#hc_btn:hover{background-color:#fff !important;}

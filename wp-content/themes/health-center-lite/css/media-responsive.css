@@ -1,0 +1,447 @@
+/* -----@Media Responsive css created by Shahid - Scientech IT -------------------------------------------- */
+
+@media (min-width:1200px) {
+	#wrapper {
+        width: 1200px;
+        margin: 25px auto;
+    }
+
+}
+@media (min-width:992px) and (max-width:1199px) {
+	#wrapper {
+        width: 1000px;
+        margin: 25px auto;
+    }
+
+}
+/*
+@media  (max-width:760px){.hc_testimonials_area {width: 100%;}}
+*/
+/* This Media screen css called for All Hc Pages Element---------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+@media only screen and (min-width: 960px) and (max-width: 1200px) {
+
+/* Flexslider css for responsivness */
+.slide_thumb {	
+	border-radius: 0 0 10px 10px;
+	width: 970px !important;
+	height: 85px;
+    margin: 0 auto !important;
+    overflow: hidden;	
+	}
+.slide_thumb > li {
+	cursor: pointer;
+	padding: 22px 22px 0px;    
+    float: left;
+    height: 85px;
+    width: 234px !important;
+	}
+	.slide_thumb > li:last-child {
+	border: 0px !important;
+	}
+	.slide_thumb > li h5 {
+    font-size: 13px;
+    margin: 0 0 5px;
+	}
+.slide_thumb > li p {
+	font-size: 12px;
+    line-height: 21px;
+    margin: 0 0 25px;
+	} 
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+
+/* Flexslider css for responsivness */
+.slide_thumb {
+	border-radius: 0 0 0px 0px;
+	width: 750px !important;
+	height: 110px;
+    margin: 0 auto !important;
+    overflow: hidden;	
+	}
+.slide_thumb > li {
+	cursor: pointer;
+	padding: 22px 22px 0px;    
+    float: left;
+    height: 110px;
+    width: 150px !important;
+	}
+	.slide_thumb > li h5 {
+    font-size: 13px;
+    margin: 0 0 5px;
+	}
+.slide_thumb > li p {
+	font-size: 12px;
+    line-height: 21px;
+    margin: 0 0 25px;
+	}
+
+/* Service Detail Page */
+.hc_input_control, .hc_textarea_control,
+.hc_con_input_control, .hc_con_textarea_control {
+    width: 100%;
+	}
+	
+/* Blog page */
+.hc_post_title_wrapper {
+	width: 100%;
+	}
+.hc_post_date {
+	margin-bottom: 2%;
+	}
+.hc_blog_post_img {
+	margin-top: 0px;
+	}
+	
+/* Blog Full width Page */
+.hc_full_post_title_wrapper {
+    width: 100%;
+	}
+	
+/* Sidebar */
+.hc_sidebar_widget {
+	margin-left: 0px;
+	margin-top: 30px;
+	}
+	
+/* About us 2 */		
+.hc_aboutus_area img{
+	margin-bottom: 50px;
+	}
+	
+}	
+
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+/* Flexslider css for responsivness */
+.slide_thumb {
+	width: 100% !important;
+	height: auto;
+    text-align: center;
+	margin: 5px 0 !important;
+}
+.slide_thumb > li {
+    border: medium none;
+    display: inline-block !important;
+    float: none !important;
+	border-radius:50%;
+    font-size: 0;
+    height: 20px;
+    margin: 3px 3px;
+    padding: 0;
+    width: 20px !important;
+	} 
+.slide_thumb > li h5 {
+	display: none;
+	}
+.slide_thumb > li p {
+	display: none;
+	}
+	
+/* Service Detail Page */
+.hc_input_control, .hc_textarea_control,
+.hc_con_input_control, .hc_con_textarea_control {
+    width: 100%;
+	}
+
+/* Blog page */
+.hc_post_title_wrapper {
+	width: 100%;
+	}
+.hc_post_date {
+	margin-bottom: 2%;
+	}
+.hc_blog_post_img {
+	margin-top: 0px;
+	}
+	
+/* Blog Full width Page */
+.hc_full_post_title_wrapper {
+    width: 100%;
+	}
+	
+/* Sidebar */
+.hc_sidebar_widget {
+	margin-left: 0px;
+	margin-top: 30px;
+	}
+.hc_sidebar_widget:last-child {
+	margin-bottom: 0px;
+	}
+.hc_left_sidebar_widget {
+	margin-right: 0px;
+	margin-top: 0;
+	}
+	
+/* Footer Section */	
+.hc_footer_area .col-md-4 > .hc_footer_social {
+	float: left;
+	}
+	
+/* Homepage Callout Section */	
+.hc_callout_area h1 {
+	margin: 0 0 15px;
+	}
+.hc_callout_btn {
+	float: left;
+	}
+	
+/* Logo & Contact Info */	
+.head_social_icons {
+	margin: 6px 0 30px;
+	float: left;
+	padding-left: 0px;
+	}
+.head_social_icons li:first-child {
+    margin-left: 0px;
+	}
+.head_cont_info {
+	margin-top: 30px;
+	display: block;
+	float: left;
+	}
+.head_cont_info ul {
+	padding-left: 0px;
+	margin-left: 0px;
+	}	
+.head_cont_info li:first-child {
+	padding-left: 0px;
+	margin-left: 0px;
+	}
+/* About us 2 */		
+.hc_aboutus_area img{
+	margin-bottom: 50px;
+	}	
+
+/* Portfolio Detail Sidebar */		
+.hc_portfolio_detail_sidebar{
+	margin-top: 60px;
+	}
+.hc_portfolio_detail_pagi {
+	margin-left: 0px;
+	}
+.hc_portfolio_detail_description {
+	margin-left: 0px;
+	}
+.hc_portfolio_detail_info {
+	margin-left: 0px;
+	}
+.caroufredsel_wrapper {
+	height: none !important;
+	}
+	
+/* Service Detail Page */		
+.hc_service_detail_description {
+	margin-top: 50px;
+	margin-left: 0px;
+	}
+
+/* Contact v1 & Contact V2 Page */
+.hc_contactv1_area,
+.hc_contactv2_area {
+	margin: 0 0 70px;
+	}
+.hc_contactv1_sidebar,
+.hc_contactv2_sidebar {
+	margin-bottom: 70px;
+	}
+.hc_contactv1_address,
+.hc_contactv2_address {
+	margin-left: 0px;
+	}
+	
+/* Homepage Callout */
+.hc_home_title h1 {
+	text-align: center;
+	}
+.hc_home_callnow_title h1 {
+	text-align: center; 
+	}
+
+	
+} 
+
+
+@media only screen and (min-width: 200px) and (max-width: 480px) {
+
+/* Flexslider css for responsivness */
+.hc_slider {
+	margin-bottom: 25px;
+}
+.slide_thumb {
+	width: 100% !important;
+	height: auto;
+    text-align: center;
+	margin: 5px 0 !important;
+}
+.slide_thumb > li {
+    border: medium none;
+    display: inline-block !important;
+    float: none !important;
+	border-radius:50%;
+    font-size: 0;
+    height: 20px;
+    margin: 3px 3px;
+    padding: 0;
+    width: 20px !important;
+	}
+.slide_thumb > li h5 {
+	display: none;
+	}
+.slide_thumb > li p {
+	display: none;
+	}
+	
+/* Service Detail Page */
+.hc_input_control, .hc_textarea_control,
+.hc_con_input_control, .hc_con_textarea_control {
+    width: 100%;
+	}	
+	
+/* Blog page */
+.hc_post_title_wrapper {
+	width: 100%;
+	}
+.hc_post_date {
+	margin-bottom: 2%;
+	}
+.hc_blog_post_img {
+	margin-top: 0px;
+	}
+	
+/* Blog Full width Page */
+.hc_full_post_title_wrapper {
+    width: 100%;
+	}
+	
+/* Sidebar */
+.hc_sidebar_widget {
+	margin-left: 0px;
+	margin-top: 30px;
+	}
+.hc_sidebar_widget:last-child {
+	margin-bottom: 0px;
+	}
+.hc_left_sidebar_widget {
+	margin-right: 0px;
+	margin-top: 0;
+	}
+	
+/* Footer Section */	
+.hc_footer_area .col-md-4 > .hc_footer_social {
+	float: left;
+	}
+	
+/* Homepage Callout Section */	
+.hc_callout_area h1 {
+	margin: 0 0 15px;
+	}
+.hc_callout_btn {
+	float: left;
+	}	
+	
+/* Logo & Contact Info */	
+.head_social_icons {
+	margin: 6px 0 30px;
+	float: left;
+	padding-left: 0px;
+	}
+.head_social_icons li:first-child {
+    margin-left: 0px;
+	}
+.head_cont_info {
+	margin-top: 30px;
+	display: block;
+	float: left;
+	}
+.head_cont_info ul {
+	padding-left: 0px;
+	margin-left: 0px;
+	}	
+.head_cont_info li:first-child {
+	padding-left: 0px;
+	margin-left: 0px;
+	}
+	
+/* About us 2 */		
+.hc_aboutus_area img{
+	margin-bottom: 50px;
+	}	
+	
+/* Service Page Testimonial */	
+.caroufredsel_wrapper {
+	margin-bottom: 60px !important;
+	}	
+
+/* Portfolio Detail Sidebar */		
+.hc_portfolio_detail_sidebar{
+	margin-top: 60px;
+	}
+.hc_portfolio_detail_pagi {
+	margin-left: 0px;
+	}
+.hc_portfolio_detail_description {
+	margin-left: 0px;
+	}
+.hc_portfolio_detail_info {
+	margin-left: 0px;
+	}
+.caroufredsel_wrapper {
+	height: none !important;
+	}	
+	
+/* Service Detail Page */		
+	.hc_service_detail_description {
+	margin-top: 50px;
+	margin-left: 0px;
+	}
+	
+/* Contact v1 & Contact V2 Page */
+.hc_contactv1_area,
+.hc_contactv2_area {
+	margin: 0 0 70px;
+	}
+.hc_contactv1_sidebar,
+.hc_contactv2_sidebar {
+	margin-bottom: 70px;
+	}
+.hc_contactv1_address,
+.hc_contactv2_address {
+	margin-left: 0px;
+	}
+	
+/* Homepage Callout */
+.hc_home_title h1 {
+	text-align: center;
+	
+	}
+.hc_home_callnow_title h1 {
+	text-align: center; 
+	
+	}
+.hc_service_title h1	{
+	text-align: center; 
+	
+	}
+
+}
+@media only screen and (min-width: 200px) and (max-width: 536px) {
+.hc_service_title h1,.hc_home_callnow_title h1,.hc_home_title h1 {
+line-height: 35px;
+text-align: center; 
+font-size: 28px;
+	}
+	.head_cont_info li {
+	display: inline-block;
+	padding-bottom: 10px;
+	margin-left: 0px;
+    padding-left: 0px;
+	
+}
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: @screen-sm-min) {.hc_testimonials_area_content{max-width:100%;}}

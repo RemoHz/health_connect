@@ -1,0 +1,24 @@
+Friday, 06-May-2016 05:09:50 - restore started
+Friday, 06-May-2016 05:09:50 - wp version     : 4.5.1
+Friday, 06-May-2016 05:09:50 - php version    : 5.6.20
+Friday, 06-May-2016 05:09:50 - mysql version  : 10.1.6
+Friday, 06-May-2016 05:09:50 - memory limit   : 128M
+Friday, 06-May-2016 05:09:50 - execution time : 600
+Friday, 06-May-2016 05:09:50 - mysql timeout  : 600
+Friday, 06-May-2016 05:09:50 - socket timeout : 600
+Friday, 06-May-2016 05:09:50 - file download started
+Friday, 06-May-2016 05:11:16 - download finished, filesize - 58.49 MB
+Friday, 06-May-2016 05:11:16 - extracting database using ziparchive
+Friday, 06-May-2016 05:11:16 - changing prefix from "wpxx_" to "wp_"
+Friday, 06-May-2016 05:11:16 - database import started
+Friday, 06-May-2016 05:11:17 - updating mysql query with current site's url - new query : "INSERT INTO wp_options VALUES("1","siteurl","https://health-connect.site/","yes")"
+Friday, 06-May-2016 05:11:18 - mysql query failed. error : 1065 Query was empty - query : ""
+Friday, 06-May-2016 05:11:18 - database import finished
+Friday, 06-May-2016 05:11:18 - search and replace started
+Friday, 06-May-2016 05:11:18 - there are 101 tables to scan
+Friday, 06-May-2016 05:11:19 - search and replace finished
+Friday, 06-May-2016 05:11:19 - extracting archive using ziparchive
+Friday, 06-May-2016 05:12:54 - copying files..
+Friday, 06-May-2016 05:14:27 - deleting temp directory..
+Friday, 06-May-2016 05:14:28 - deleting downloaded zip file..
+Friday, 06-May-2016 05:14:28 - restore finished

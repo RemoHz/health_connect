@@ -1,0 +1,1353 @@
+[04/17/2016 4:31 AM] - SUCCESS : Log file reset
+------------------------------------------------------------------
+
+[04/17/2016 6:48 AM] - SUCCESS :Authenticate request - Username: orcun123
+[04/17/2016 6:48 AM] - SUCCESS :Authentication successful for username: orcun123. Executing swpm_login action hook.
+[04/17/2016 7:49 AM] - SUCCESS :Authenticate request - Username: admin
+[04/17/2016 7:49 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/17/2016 7:52 AM] - SUCCESS :Authenticate request - Username: aija
+[04/17/2016 7:53 AM] - SUCCESS :Authenticate request - Username: aija
+[04/17/2016 7:53 AM] - SUCCESS :Authentication successful for username: aija. Executing swpm_login action hook.
+[04/17/2016 7:53 AM] - SUCCESS :login
+[04/17/2016 8:09 AM] - SUCCESS :Authenticate request - Username: JustinBieber
+[04/17/2016 8:09 AM] - SUCCESS :Authentication successful for username: JustinBieber. Executing swpm_login action hook.
+[04/17/2016 8:15 AM] - SUCCESS :login
+[04/17/2016 8:15 AM] - SUCCESS :Authenticate request - Username: Raaso
+[04/17/2016 8:16 AM] - SUCCESS :Authenticate request - Username: Jiiiiiiimy
+[04/17/2016 8:16 AM] - SUCCESS :Authentication successful for username: Jiiiiiiimy. Executing swpm_login action hook.
+[04/17/2016 8:19 AM] - SUCCESS :Authenticate request - Username: Tony
+[04/17/2016 8:19 AM] - SUCCESS :Authentication successful for username: Tony. Executing swpm_login action hook.
+[04/17/2016 8:22 AM] - SUCCESS :Authenticate request - Username: Jerry
+[04/17/2016 8:22 AM] - SUCCESS :Authentication successful for username: Jerry. Executing swpm_login action hook.
+[04/17/2016 8:26 AM] - SUCCESS :Authenticate request - Username: DaffyDuck
+[04/17/2016 8:26 AM] - SUCCESS :Authentication successful for username: DaffyDuck. Executing swpm_login action hook.
+[04/17/2016 8:30 AM] - SUCCESS :Authenticate request - Username: Kash
+[04/17/2016 8:30 AM] - SUCCESS :Authentication successful for username: Kash. Executing swpm_login action hook.
+[04/17/2016 8:33 AM] - SUCCESS :Authenticate request - Username: Freddy
+[04/17/2016 8:33 AM] - SUCCESS :Authentication successful for username: Freddy. Executing swpm_login action hook.
+[04/17/2016 8:36 AM] - SUCCESS :Authenticate request - Username: HellowWorld
+[04/17/2016 8:36 AM] - SUCCESS :Authentication successful for username: HellowWorld. Executing swpm_login action hook.
+[04/17/2016 8:37 AM] - SUCCESS :Authenticate request - Username: passtest
+[04/17/2016 8:38 AM] - SUCCESS :Authenticate request - Username: passtest
+[04/17/2016 8:39 AM] - SUCCESS :Authenticate request - Username: Olympia
+[04/17/2016 8:39 AM] - SUCCESS :Authenticate request - Username: Olympia
+[04/17/2016 8:39 AM] - SUCCESS :Authentication successful for username: Olympia. Executing swpm_login action hook.
+[04/17/2016 8:41 AM] - SUCCESS :Authenticate request - Username: Doraemon
+[04/17/2016 8:41 AM] - SUCCESS :Authentication successful for username: Doraemon. Executing swpm_login action hook.
+[04/17/2016 8:43 AM] - SUCCESS :Authenticate request - Username: Alex
+[04/17/2016 8:44 AM] - SUCCESS :Authenticate request - Username: Alex
+[04/17/2016 8:44 AM] - SUCCESS :Authentication successful for username: Alex. Executing swpm_login action hook.
+[04/17/2016 8:46 AM] - SUCCESS :Authenticate request - Username: Helena
+[04/17/2016 8:46 AM] - SUCCESS :Authentication successful for username: Helena. Executing swpm_login action hook.
+[04/17/2016 8:49 AM] - SUCCESS :Authenticate request - Username: johnnieBoy
+[04/17/2016 8:49 AM] - SUCCESS :Authentication successful for username: johnnieBoy. Executing swpm_login action hook.
+[04/17/2016 8:51 AM] - SUCCESS :Authenticate request - Username: admin
+[04/17/2016 8:51 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/17/2016 10:29 AM] - SUCCESS :login
+[04/17/2016 10:29 AM] - SUCCESS :Authenticate request - Username: Raaso
+[04/17/2016 10:30 AM] - SUCCESS :Authenticate request - Username: admin
+[04/17/2016 10:30 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/17/2016 11:05 AM] - SUCCESS :Authenticate request - Username: admin
+[04/17/2016 11:05 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/17/2016 11:41 AM] - SUCCESS :Authenticate request - Username: roadrunner
+[04/17/2016 11:41 AM] - SUCCESS :Authentication successful for username: roadrunner. Executing swpm_login action hook.
+[04/17/2016 11:47 AM] - SUCCESS :Authenticate request - Username: admin
+[04/17/2016 11:47 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/17/2016 12:32 PM] - SUCCESS :Authenticate request - Username: admin
+[04/17/2016 12:32 PM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/17/2016 1:07 PM] - SUCCESS :Authenticate request - Username: roadrunner
+[04/17/2016 1:07 PM] - SUCCESS :Authentication successful for username: roadrunner. Executing swpm_login action hook.
+[04/17/2016 1:30 PM] - SUCCESS :Authenticate request - Username: roadrunner
+[04/17/2016 1:30 PM] - SUCCESS :Authentication successful for username: roadrunner. Executing swpm_login action hook.
+[04/17/2016 1:47 PM] - SUCCESS :Authenticate request - Username: remocode
+[04/17/2016 1:47 PM] - SUCCESS :Authentication successful for username: remocode. Executing swpm_login action hook.
+[04/17/2016 1:50 PM] - SUCCESS :Authenticate request - Username: kimberly
+[04/17/2016 1:50 PM] - SUCCESS :Authenticate request - Username: kimberley
+[04/17/2016 1:50 PM] - SUCCESS :Authenticate request - Username: alice
+[04/17/2016 1:53 PM] - SUCCESS :Authenticate request - Username: violets
+[04/17/2016 1:53 PM] - SUCCESS :Authentication successful for username: violets. Executing swpm_login action hook.
+[04/17/2016 1:58 PM] - SUCCESS :Authenticate request - Username: remocode2
+[04/17/2016 1:58 PM] - SUCCESS :Authentication successful for username: remocode2. Executing swpm_login action hook.
+[04/17/2016 2:05 PM] - SUCCESS :Authenticate request - Username: remocode3
+[04/17/2016 2:05 PM] - SUCCESS :Authentication successful for username: remocode3. Executing swpm_login action hook.
+[04/17/2016 2:10 PM] - SUCCESS :Authenticate request - Username: remocode4
+[04/17/2016 2:10 PM] - SUCCESS :Authentication successful for username: remocode4. Executing swpm_login action hook.
+[04/17/2016 2:13 PM] - SUCCESS :Authenticate request - Username: violets
+[04/17/2016 2:13 PM] - SUCCESS :Authentication successful for username: violets. Executing swpm_login action hook.
+[04/17/2016 2:13 PM] - SUCCESS :validate() - Bad Hash
+[04/17/2016 2:13 PM] - SUCCESS :validate() - Bad Hash
+[04/17/2016 2:13 PM] - SUCCESS :validate() - Bad Hash
+[04/17/2016 2:15 PM] - SUCCESS :Authenticate request - Username: remocode11
+[04/17/2016 2:15 PM] - SUCCESS :Authentication successful for username: remocode11. Executing swpm_login action hook.
+[04/17/2016 2:24 PM] - SUCCESS :Authenticate request - Username: remocode22
+[04/17/2016 2:24 PM] - SUCCESS :Authentication successful for username: remocode22. Executing swpm_login action hook.
+[04/17/2016 2:30 PM] - SUCCESS :validate() - Bad Hash
+[04/17/2016 2:30 PM] - SUCCESS :validate() - Bad Hash
+[04/17/2016 2:30 PM] - SUCCESS :validate() - Bad Hash
+[04/17/2016 2:30 PM] - SUCCESS :validate() - Bad Hash
+[04/17/2016 2:30 PM] - SUCCESS :validate() - Bad Hash
+[04/17/2016 2:30 PM] - SUCCESS :validate() - Bad Hash
+[04/17/2016 2:30 PM] - SUCCESS :Authenticate request - Username: violets
+[04/17/2016 2:30 PM] - SUCCESS :Authentication successful for username: violets. Executing swpm_login action hook.
+[04/17/2016 2:57 PM] - SUCCESS :Authenticate request - Username: violets
+[04/17/2016 2:57 PM] - SUCCESS :Authentication successful for username: violets. Executing swpm_login action hook.
+[04/17/2016 2:58 PM] - SUCCESS :Authenticate request - Username: admin
+[04/17/2016 2:58 PM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/17/2016 3:10 PM] - SUCCESS :Authenticate request - Username: roadrunner
+[04/17/2016 3:10 PM] - SUCCESS :Authentication successful for username: roadrunner. Executing swpm_login action hook.
+[04/17/2016 3:10 PM] - SUCCESS :Authenticate request - Username: admin
+[04/17/2016 3:10 PM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/17/2016 3:55 PM] - SUCCESS :Authenticate request - Username: code
+[04/17/2016 3:55 PM] - SUCCESS :Authentication successful for username: code. Executing swpm_login action hook.
+[04/17/2016 4:00 PM] - SUCCESS :Authenticate request - Username: code1
+[04/17/2016 4:00 PM] - SUCCESS :Authentication successful for username: code1. Executing swpm_login action hook.
+[04/17/2016 4:02 PM] - SUCCESS :Authenticate request - Username: code2
+[04/17/2016 4:02 PM] - SUCCESS :Authentication successful for username: code2. Executing swpm_login action hook.
+[04/17/2016 4:09 PM] - SUCCESS :Authenticate request - Username: code3
+[04/17/2016 4:09 PM] - SUCCESS :Authentication successful for username: code3. Executing swpm_login action hook.
+[04/17/2016 4:11 PM] - SUCCESS :Authenticate request - Username: code4
+[04/17/2016 4:11 PM] - SUCCESS :Authentication successful for username: code4. Executing swpm_login action hook.
+[04/17/2016 4:13 PM] - SUCCESS :Authenticate request - Username: code5
+[04/17/2016 4:13 PM] - SUCCESS :Authentication successful for username: code5. Executing swpm_login action hook.
+[04/17/2016 4:17 PM] - SUCCESS :Authenticate request - Username: code6
+[04/17/2016 4:17 PM] - SUCCESS :Authentication successful for username: code6. Executing swpm_login action hook.
+[04/17/2016 4:19 PM] - SUCCESS :Authenticate request - Username: code6
+[04/17/2016 4:19 PM] - SUCCESS :Authentication successful for username: code6. Executing swpm_login action hook.
+[04/18/2016 12:29 AM] - SUCCESS :Authenticate request - Username: code22
+[04/18/2016 12:29 AM] - SUCCESS :Authentication successful for username: code22. Executing swpm_login action hook.
+[04/18/2016 12:47 AM] - SUCCESS :Authenticate request - Username: coco
+[04/18/2016 12:47 AM] - SUCCESS :Authentication successful for username: coco. Executing swpm_login action hook.
+[04/18/2016 12:54 AM] - SUCCESS :Authenticate request - Username: admin
+[04/18/2016 12:54 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/18/2016 1:06 AM] - SUCCESS :Authenticate request - Username: zzzz
+[04/18/2016 1:09 AM] - SUCCESS :Authenticate request - Username: admin
+[04/18/2016 1:09 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/18/2016 1:14 AM] - SUCCESS :Authenticate request - Username: orcun
+[04/18/2016 1:14 AM] - SUCCESS :Authenticate request - Username: roadrunner
+[04/18/2016 1:14 AM] - SUCCESS :Authentication successful for username: roadrunner. Executing swpm_login action hook.
+[04/18/2016 1:24 AM] - SUCCESS :Authenticate request - Username: admin
+[04/18/2016 1:24 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/18/2016 1:31 AM] - SUCCESS :Authenticate request - Username: ppppp
+[04/18/2016 1:31 AM] - SUCCESS :Authentication successful for username: ppppp. Executing swpm_login action hook.
+[04/18/2016 1:36 AM] - SUCCESS :Authenticate request - Username: dddd
+[04/18/2016 1:36 AM] - SUCCESS :Authentication successful for username: dddd. Executing swpm_login action hook.
+[04/18/2016 1:39 AM] - SUCCESS :Authenticate request - Username: roadrunner
+[04/18/2016 1:39 AM] - SUCCESS :Authentication successful for username: roadrunner. Executing swpm_login action hook.
+[04/18/2016 1:48 AM] - SUCCESS :Authenticate request - Username: xxxx
+[04/18/2016 1:48 AM] - SUCCESS :Authentication successful for username: xxxx. Executing swpm_login action hook.
+[04/18/2016 3:04 AM] - SUCCESS :login
+[04/18/2016 3:04 AM] - SUCCESS :Authenticate request - Username: admin
+[04/18/2016 3:04 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/18/2016 3:05 AM] - SUCCESS :login
+[04/18/2016 3:17 AM] - SUCCESS :Authenticate request - Username: peterb
+[04/18/2016 3:17 AM] - SUCCESS :Authentication successful for username: peterb. Executing swpm_login action hook.
+[04/18/2016 3:20 AM] - SUCCESS :Authenticate request - Username: roadrunner
+[04/18/2016 3:20 AM] - SUCCESS :Authentication successful for username: roadrunner. Executing swpm_login action hook.
+[04/18/2016 3:32 AM] - SUCCESS :Authenticate request - Username: roadrunner
+[04/18/2016 3:32 AM] - SUCCESS :Authentication successful for username: roadrunner. Executing swpm_login action hook.
+[04/18/2016 3:43 AM] - SUCCESS :Authenticate request - Username: roadrunner
+[04/18/2016 3:43 AM] - SUCCESS :Authentication successful for username: roadrunner. Executing swpm_login action hook.
+[04/18/2016 4:02 AM] - SUCCESS :Authenticate request - Username: akshay12
+[04/18/2016 4:02 AM] - SUCCESS :Authentication successful for username: akshay12. Executing swpm_login action hook.
+[04/18/2016 4:07 AM] - SUCCESS :login
+[04/18/2016 4:07 AM] - SUCCESS :Authenticate request - Username: Raaso
+[04/18/2016 4:08 AM] - SUCCESS :Authenticate request - Username: roadrunner
+[04/18/2016 4:08 AM] - SUCCESS :Authentication successful for username: roadrunner. Executing swpm_login action hook.
+[04/18/2016 4:19 AM] - SUCCESS :Authenticate request - Username: roadrunner
+[04/18/2016 4:19 AM] - SUCCESS :Authentication successful for username: roadrunner. Executing swpm_login action hook.
+[04/18/2016 4:28 AM] - SUCCESS :Authenticate request - Username: 11111
+[04/18/2016 4:29 AM] - SUCCESS :Authenticate request - Username: 11111@hotmail.com
+[04/18/2016 4:49 AM] - SUCCESS :Authenticate request - Username: admin
+[04/18/2016 4:49 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/18/2016 5:20 AM] - SUCCESS :Authenticate request - Username: admin
+[04/18/2016 5:20 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/18/2016 5:36 AM] - SUCCESS :Authenticate request - Username: roadrunner
+[04/18/2016 5:36 AM] - SUCCESS :Authentication successful for username: roadrunner. Executing swpm_login action hook.
+[04/18/2016 5:56 AM] - SUCCESS :Authenticate request - Username: admin
+[04/18/2016 5:56 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/18/2016 6:00 AM] - SUCCESS :Authenticate request - Username: psychoBoy
+[04/18/2016 6:47 AM] - SUCCESS :Authenticate request - Username: admin
+[04/18/2016 6:47 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/18/2016 8:31 AM] - SUCCESS :Authenticate request - Username: admin
+[04/18/2016 8:31 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/18/2016 8:31 AM] - SUCCESS :Authenticate request - Username: admin
+[04/18/2016 8:31 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/18/2016 8:35 AM] - SUCCESS :login
+[04/18/2016 8:35 AM] - SUCCESS :Authenticate request - Username: Raaso
+[04/18/2016 8:37 AM] - SUCCESS :Authenticate request - Username: admin
+[04/18/2016 8:37 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/18/2016 8:41 AM] - SUCCESS :Authenticate request - Username: admin
+[04/18/2016 8:41 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/18/2016 8:42 AM] - SUCCESS :Authenticate request - Username: admin
+[04/18/2016 8:42 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/18/2016 8:47 AM] - SUCCESS :Authenticate request - Username: juan
+[04/18/2016 8:47 AM] - SUCCESS :Authentication successful for username: juan. Executing swpm_login action hook.
+[04/18/2016 9:03 AM] - SUCCESS :Authenticate request - Username: admin
+[04/18/2016 9:03 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/18/2016 9:04 AM] - SUCCESS :Authenticate request - Username: juan
+[04/18/2016 9:04 AM] - SUCCESS :Authentication successful for username: juan. Executing swpm_login action hook.
+[04/18/2016 9:06 AM] - SUCCESS :Authenticate request - Username: juan
+[04/18/2016 9:06 AM] - SUCCESS :Authentication successful for username: juan. Executing swpm_login action hook.
+[04/18/2016 9:27 AM] - SUCCESS :validate() - Bad Hash
+[04/18/2016 9:27 AM] - SUCCESS :validate() - Bad Hash
+[04/18/2016 9:27 AM] - SUCCESS :validate() - Bad Hash
+[04/18/2016 9:27 AM] - SUCCESS :validate() - Bad Hash
+[04/18/2016 10:53 AM] - SUCCESS :validate() - Bad Hash
+[04/18/2016 10:54 AM] - SUCCESS :validate() - Bad Hash
+[04/18/2016 10:56 AM] - SUCCESS :validate() - Bad Hash
+[04/18/2016 11:00 AM] - SUCCESS :validate() - Bad Hash
+[04/18/2016 11:00 AM] - SUCCESS :validate() - Bad Hash
+[04/18/2016 11:07 AM] - SUCCESS :validate() - Bad Hash
+[04/18/2016 11:13 AM] - SUCCESS :validate() - Bad Hash
+[04/18/2016 11:43 AM] - SUCCESS :validate() - Bad Hash
+[04/18/2016 11:43 AM] - SUCCESS :validate() - Bad Hash
+[04/18/2016 12:40 PM] - SUCCESS :Authenticate request - Username: admin
+[04/18/2016 12:40 PM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/18/2016 12:52 PM] - SUCCESS :Authenticate request - Username: admin
+[04/18/2016 12:52 PM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/18/2016 1:03 PM] - SUCCESS :Authenticate request - Username: aditya
+[04/18/2016 1:03 PM] - SUCCESS :Authentication successful for username: aditya. Executing swpm_login action hook.
+[04/18/2016 1:03 PM] - SUCCESS :login
+[04/18/2016 1:14 PM] - SUCCESS :Authenticate request - Username: Luke
+[04/18/2016 1:14 PM] - SUCCESS :Authentication successful for username: Luke. Executing swpm_login action hook.
+[04/18/2016 1:25 PM] - SUCCESS :Authenticate request - Username: Luke2
+[04/18/2016 1:25 PM] - SUCCESS :Authentication successful for username: Luke2. Executing swpm_login action hook.
+[04/18/2016 1:25 PM] - SUCCESS :Authenticate request - Username: admin
+[04/18/2016 1:25 PM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/18/2016 1:36 PM] - SUCCESS :Authenticate request - Username: Luke2
+[04/18/2016 1:36 PM] - SUCCESS :Authentication successful for username: Luke2. Executing swpm_login action hook.
+[04/18/2016 1:44 PM] - SUCCESS :Authenticate request - Username: Luke3
+[04/18/2016 1:44 PM] - SUCCESS :Authentication successful for username: Luke3. Executing swpm_login action hook.
+[04/18/2016 10:37 PM] - SUCCESS :Authenticate request - Username: admin
+[04/18/2016 10:37 PM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/19/2016 12:31 AM] - SUCCESS :Authenticate request - Username: admin
+[04/19/2016 12:31 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/19/2016 12:34 AM] - SUCCESS :Authenticate request - Username: roadrunner
+[04/19/2016 12:34 AM] - SUCCESS :Authentication successful for username: roadrunner. Executing swpm_login action hook.
+[04/19/2016 12:42 AM] - SUCCESS :Authenticate request - Username: ally
+[04/19/2016 12:42 AM] - SUCCESS :Authentication successful for username: ally. Executing swpm_login action hook.
+[04/19/2016 12:43 AM] - SUCCESS :login
+[04/19/2016 12:43 AM] - SUCCESS :Authenticate request - Username: admin
+[04/19/2016 12:43 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/19/2016 3:10 AM] - SUCCESS :login
+[04/19/2016 3:10 AM] - SUCCESS :Authenticate request - Username: Raaso
+[04/19/2016 3:16 AM] - SUCCESS :Authenticate request - Username: juan
+[04/19/2016 3:16 AM] - SUCCESS :Authentication successful for username: juan. Executing swpm_login action hook.
+[04/19/2016 4:36 AM] - SUCCESS :Authenticate request - Username: admin
+[04/19/2016 4:36 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/19/2016 4:40 AM] - SUCCESS :Authenticate request - Username: lalala
+[04/19/2016 4:40 AM] - SUCCESS :Authentication successful for username: lalala. Executing swpm_login action hook.
+[04/19/2016 4:41 AM] - SUCCESS :Authenticate request - Username: peter1
+[04/19/2016 4:41 AM] - SUCCESS :Authentication successful for username: peter1. Executing swpm_login action hook.
+[04/19/2016 4:41 AM] - SUCCESS :login
+[04/19/2016 4:41 AM] - SUCCESS :Authenticate request - Username: Harry
+[04/19/2016 4:41 AM] - SUCCESS :Authentication successful for username: Harry. Executing swpm_login action hook.
+[04/19/2016 4:44 AM] - SUCCESS :Authenticate request - Username: peter1
+[04/19/2016 4:44 AM] - SUCCESS :Authenticate request - Username: admin
+[04/19/2016 4:44 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/19/2016 4:45 AM] - SUCCESS :Authenticate request - Username: peter1
+[04/19/2016 4:51 AM] - SUCCESS :Authenticate request - Username: admin
+[04/19/2016 4:51 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/19/2016 4:52 AM] - SUCCESS :Authenticate request - Username: JustinBibber
+[04/19/2016 4:52 AM] - SUCCESS :Authenticate request - Username: JustinBieber
+[04/19/2016 4:52 AM] - SUCCESS :Authentication successful for username: JustinBieber. Executing swpm_login action hook.
+[04/19/2016 4:53 AM] - SUCCESS :login
+[04/19/2016 4:53 AM] - SUCCESS :Authenticate request - Username: harry
+[04/19/2016 4:53 AM] - SUCCESS :Authentication successful for username: harry. Executing swpm_login action hook.
+[04/19/2016 4:53 AM] - SUCCESS :login
+[04/19/2016 4:53 AM] - SUCCESS :Authenticate request - Username: lalala
+[04/19/2016 4:53 AM] - SUCCESS :Authentication successful for username: lalala. Executing swpm_login action hook.
+[04/19/2016 4:55 AM] - SUCCESS :login
+[04/19/2016 4:55 AM] - SUCCESS :Authenticate request - Username: admin
+[04/19/2016 4:55 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/19/2016 4:57 AM] - SUCCESS :Authenticate request - Username: JustinBieber
+[04/19/2016 4:57 AM] - SUCCESS :Authenticate request - Username: JustinBieber
+[04/19/2016 4:57 AM] - SUCCESS :Authentication successful for username: JustinBieber. Executing swpm_login action hook.
+[04/19/2016 4:59 AM] - SUCCESS :Authenticate request - Username: admin
+[04/19/2016 4:59 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/19/2016 5:00 AM] - SUCCESS :Authenticate request - Username: aditya
+[04/19/2016 5:00 AM] - SUCCESS :Authentication successful for username: aditya. Executing swpm_login action hook.
+[04/19/2016 5:00 AM] - SUCCESS :login
+[04/19/2016 5:17 AM] - SUCCESS :Authenticate request - Username: Harry
+[04/19/2016 5:17 AM] - SUCCESS :Authentication successful for username: Harry. Executing swpm_login action hook.
+[04/19/2016 5:22 AM] - SUCCESS :login
+[04/19/2016 5:22 AM] - SUCCESS :Authenticate request - Username: aditya
+[04/19/2016 5:22 AM] - SUCCESS :Authentication successful for username: aditya. Executing swpm_login action hook.
+[04/19/2016 5:22 AM] - SUCCESS :login
+[04/19/2016 5:22 AM] - SUCCESS :Authenticate request - Username: aksganjoo@gmail.com
+[04/19/2016 5:23 AM] - SUCCESS :Authenticate request - Username: akshay
+[04/19/2016 5:23 AM] - SUCCESS :Authentication successful for username: akshay. Executing swpm_login action hook.
+[04/19/2016 5:24 AM] - SUCCESS :Authenticate request - Username: admin
+[04/19/2016 5:24 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/19/2016 5:24 AM] - SUCCESS :Authenticate request - Username: admin
+[04/19/2016 5:24 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/19/2016 5:24 AM] - SUCCESS :login
+[04/19/2016 5:24 AM] - SUCCESS :Authenticate request - Username: Raaso
+[04/19/2016 5:25 AM] - SUCCESS :Authenticate request - Username: admin
+[04/19/2016 5:25 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/19/2016 5:25 AM] - SUCCESS :Authenticate request - Username: JustinBieber
+[04/19/2016 5:25 AM] - SUCCESS :Authentication successful for username: JustinBieber. Executing swpm_login action hook.
+[04/19/2016 5:26 AM] - SUCCESS :Authenticate request - Username: admin
+[04/19/2016 5:26 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/19/2016 5:27 AM] - SUCCESS :Authenticate request - Username: akshay
+[04/19/2016 5:27 AM] - SUCCESS :Authentication successful for username: akshay. Executing swpm_login action hook.
+[04/19/2016 5:27 AM] - SUCCESS :Authenticate request - Username: admin
+[04/19/2016 5:27 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/19/2016 5:28 AM] - SUCCESS :Authenticate request - Username: juan
+[04/19/2016 5:28 AM] - SUCCESS :Authentication successful for username: juan. Executing swpm_login action hook.
+[04/19/2016 5:32 AM] - SUCCESS :Authenticate request - Username: juan
+[04/19/2016 5:32 AM] - SUCCESS :Authentication successful for username: juan. Executing swpm_login action hook.
+[04/19/2016 5:34 AM] - SUCCESS :Authenticate request - Username: juan
+[04/19/2016 5:34 AM] - SUCCESS :Authentication successful for username: juan. Executing swpm_login action hook.
+[04/19/2016 5:34 AM] - SUCCESS :Authenticate request - Username: akshay
+[04/19/2016 5:35 AM] - SUCCESS :Authenticate request - Username: akshay
+[04/19/2016 5:35 AM] - SUCCESS :Authentication successful for username: akshay. Executing swpm_login action hook.
+[04/19/2016 5:35 AM] - SUCCESS :Authenticate request - Username: akshay
+[04/19/2016 5:35 AM] - SUCCESS :Authentication successful for username: akshay. Executing swpm_login action hook.
+[04/19/2016 5:36 AM] - SUCCESS :Authenticate request - Username: juan
+[04/19/2016 5:36 AM] - SUCCESS :Authentication successful for username: juan. Executing swpm_login action hook.
+[04/19/2016 5:37 AM] - SUCCESS :Authenticate request - Username: admin
+[04/19/2016 5:37 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/19/2016 5:50 AM] - SUCCESS :Authenticate request - Username: juan
+[04/19/2016 5:50 AM] - SUCCESS :Authentication successful for username: juan. Executing swpm_login action hook.
+[04/19/2016 5:52 AM] - SUCCESS :Authenticate request - Username: admin
+[04/19/2016 5:52 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/19/2016 6:06 AM] - SUCCESS :Authenticate request - Username: JustinBieber
+[04/19/2016 6:06 AM] - SUCCESS :Authentication successful for username: JustinBieber. Executing swpm_login action hook.
+[04/19/2016 6:06 AM] - SUCCESS :Authenticate request - Username: juan
+[04/19/2016 6:06 AM] - SUCCESS :Authentication successful for username: juan. Executing swpm_login action hook.
+[04/19/2016 6:08 AM] - SUCCESS :Authenticate request - Username: JustinBieber
+[04/19/2016 6:08 AM] - SUCCESS :Authentication successful for username: JustinBieber. Executing swpm_login action hook.
+[04/19/2016 6:10 AM] - SUCCESS :Authenticate request - Username: JustinBieber
+[04/19/2016 6:10 AM] - SUCCESS :Authentication successful for username: JustinBieber. Executing swpm_login action hook.
+[04/19/2016 6:15 AM] - SUCCESS :Authenticate request - Username: admin
+[04/19/2016 6:15 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/19/2016 6:16 AM] - SUCCESS :Authenticate request - Username: admin
+[04/19/2016 6:16 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/19/2016 6:19 AM] - SUCCESS :Authenticate request - Username: juan
+[04/19/2016 6:19 AM] - SUCCESS :Authentication successful for username: juan. Executing swpm_login action hook.
+[04/19/2016 6:19 AM] - SUCCESS :Authenticate request - Username: JustinBieber
+[04/19/2016 6:19 AM] - SUCCESS :Authentication successful for username: JustinBieber. Executing swpm_login action hook.
+[04/19/2016 6:21 AM] - SUCCESS :Authenticate request - Username: admin
+[04/19/2016 6:21 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/19/2016 6:23 AM] - SUCCESS :Authenticate request - Username: juan
+[04/19/2016 6:23 AM] - SUCCESS :Authentication successful for username: juan. Executing swpm_login action hook.
+[04/19/2016 6:24 AM] - SUCCESS :Authenticate request - Username: justinBieber
+[04/19/2016 6:24 AM] - SUCCESS :Authentication successful for username: justinBieber. Executing swpm_login action hook.
+[04/19/2016 6:24 AM] - SUCCESS :login
+[04/19/2016 6:24 AM] - SUCCESS :Authenticate request - Username: admin
+[04/19/2016 6:24 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/19/2016 6:32 AM] - SUCCESS :Authenticate request - Username: roadrunner
+[04/19/2016 6:32 AM] - SUCCESS :Authentication successful for username: roadrunner. Executing swpm_login action hook.
+[04/19/2016 6:34 AM] - SUCCESS :Authenticate request - Username: juan
+[04/19/2016 6:34 AM] - SUCCESS :Authentication successful for username: juan. Executing swpm_login action hook.
+[04/19/2016 6:37 AM] - SUCCESS :Authenticate request - Username: admin
+[04/19/2016 6:37 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/19/2016 7:59 AM] - SUCCESS :Authenticate request - Username: orcun123
+[04/19/2016 7:59 AM] - SUCCESS :Authentication successful for username: orcun123. Executing swpm_login action hook.
+[04/19/2016 8:01 AM] - SUCCESS :Authenticate request - Username: admin
+[04/19/2016 8:01 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/19/2016 8:02 AM] - SUCCESS :login
+[04/19/2016 8:02 AM] - SUCCESS :Authenticate request - Username: admin
+[04/19/2016 8:02 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/19/2016 8:43 AM] - SUCCESS :Authenticate request - Username: May1
+[04/19/2016 8:43 AM] - SUCCESS :Authentication successful for username: May1. Executing swpm_login action hook.
+[04/19/2016 9:02 AM] - SUCCESS :Authenticate request - Username: juan
+[04/19/2016 9:03 AM] - SUCCESS :Authenticate request - Username: juan
+[04/19/2016 9:03 AM] - SUCCESS :Authentication successful for username: juan. Executing swpm_login action hook.
+[04/19/2016 9:05 AM] - SUCCESS :Authenticate request - Username: juan
+[04/19/2016 9:05 AM] - SUCCESS :Authentication successful for username: juan. Executing swpm_login action hook.
+[04/19/2016 9:14 AM] - SUCCESS :Authenticate request - Username: juan
+[04/19/2016 9:14 AM] - SUCCESS :Authentication successful for username: juan. Executing swpm_login action hook.
+[04/19/2016 9:33 AM] - SUCCESS :Authenticate request - Username: juan
+[04/19/2016 9:33 AM] - SUCCESS :Authentication successful for username: juan. Executing swpm_login action hook.
+[04/19/2016 9:47 AM] - SUCCESS :Authenticate request - Username: May1
+[04/19/2016 9:47 AM] - SUCCESS :Authentication successful for username: May1. Executing swpm_login action hook.
+[04/19/2016 10:00 AM] - SUCCESS :Authenticate request - Username: may3
+[04/19/2016 10:00 AM] - SUCCESS :Authentication successful for username: may3. Executing swpm_login action hook.
+[04/19/2016 10:10 AM] - SUCCESS :Authenticate request - Username: admin
+[04/19/2016 10:10 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/19/2016 10:39 AM] - SUCCESS :Authenticate request - Username: may7
+[04/19/2016 10:39 AM] - SUCCESS :Authentication successful for username: may7. Executing swpm_login action hook.
+[04/19/2016 10:56 AM] - SUCCESS :Authenticate request - Username: may8
+[04/19/2016 10:56 AM] - SUCCESS :Authentication successful for username: may8. Executing swpm_login action hook.
+[04/19/2016 11:04 AM] - SUCCESS :Authenticate request - Username: may10
+[04/19/2016 11:04 AM] - SUCCESS :Authentication successful for username: may10. Executing swpm_login action hook.
+[04/19/2016 12:32 PM] - SUCCESS :Authenticate request - Username: roadrunner
+[04/19/2016 12:32 PM] - SUCCESS :Authenticate request - Username: roadrunner
+[04/20/2016 4:18 AM] - SUCCESS :Authenticate request - Username: admin
+[04/20/2016 4:18 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/20/2016 6:19 AM] - SUCCESS :Authenticate request - Username: aditya
+[04/20/2016 6:19 AM] - SUCCESS :Authentication successful for username: aditya. Executing swpm_login action hook.
+[04/20/2016 6:19 AM] - SUCCESS :login
+[04/20/2016 6:20 AM] - SUCCESS :Authenticate request - Username: harry
+[04/20/2016 6:20 AM] - SUCCESS :Authentication successful for username: harry. Executing swpm_login action hook.
+[04/20/2016 6:20 AM] - SUCCESS :login
+[04/20/2016 10:58 AM] - SUCCESS :Authenticate request - Username: justinBieber
+[04/20/2016 10:58 AM] - SUCCESS :Authentication successful for username: justinBieber. Executing swpm_login action hook.
+[04/20/2016 10:58 AM] - SUCCESS :login
+[04/20/2016 11:30 AM] - SUCCESS :Authenticate request - Username: aditya
+[04/20/2016 11:30 AM] - SUCCESS :Authentication successful for username: aditya. Executing swpm_login action hook.
+[04/20/2016 11:30 AM] - SUCCESS :login
+[04/21/2016 5:48 AM] - SUCCESS :Authenticate request - Username: admin
+[04/21/2016 5:48 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/24/2016 6:35 AM] - SUCCESS :Authenticate request - Username: admin
+[04/24/2016 6:35 AM] - SUCCESS :Authenticate request - Username: admin
+[04/24/2016 6:35 AM] - SUCCESS :Authenticate request - Username: admin
+[04/24/2016 6:35 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/25/2016 12:53 PM] - SUCCESS :Authenticate request - Username: admin
+[04/25/2016 12:53 PM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/26/2016 6:37 AM] - SUCCESS :Authenticate request - Username: admin
+[04/26/2016 6:37 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/27/2016 4:19 AM] - SUCCESS :Authenticate request - Username: admin
+[04/27/2016 4:19 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/27/2016 4:34 AM] - SUCCESS :login
+[04/27/2016 4:34 AM] - SUCCESS :Authenticate request - Username: admin
+[04/27/2016 4:34 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/27/2016 4:38 AM] - SUCCESS :Authenticate request - Username: orcun123
+[04/27/2016 4:38 AM] - SUCCESS :Authenticate request - Username: admin
+[04/27/2016 4:38 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/27/2016 8:42 AM] - SUCCESS :Authenticate request - Username: admin
+[04/27/2016 8:42 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/27/2016 8:59 AM] - SUCCESS :Authenticate request - Username: blackeagle
+[04/27/2016 8:59 AM] - SUCCESS :Authenticate request - Username: violets
+[04/27/2016 8:59 AM] - SUCCESS :Authentication successful for username: violets. Executing swpm_login action hook.
+[04/27/2016 9:03 AM] - SUCCESS :Authenticate request - Username: admin
+[04/27/2016 9:03 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/27/2016 10:50 AM] - SUCCESS :Authenticate request - Username: admin
+[04/27/2016 10:50 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/27/2016 10:57 AM] - SUCCESS :Authenticate request - Username: admin
+[04/27/2016 10:57 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/28/2016 3:13 AM] - SUCCESS :Authenticate request - Username: admin
+[04/28/2016 3:13 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/28/2016 3:23 AM] - SUCCESS :Authenticate request - Username: admin
+[04/28/2016 3:23 AM] - SUCCESS :Authenticate request - Username: admin
+[04/28/2016 3:23 AM] - SUCCESS :Authenticate request - Username: admin
+[04/28/2016 3:23 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/28/2016 3:29 AM] - SUCCESS :Authenticate request - Username: juan
+[04/28/2016 3:29 AM] - SUCCESS :Authenticate request - Username: admin
+[04/28/2016 3:30 AM] - SUCCESS :Authenticate request - Username: admin
+[04/28/2016 3:30 AM] - SUCCESS :Authenticate request - Username: admin
+[04/28/2016 3:30 AM] - SUCCESS :Authenticate request - Username: juan
+[04/28/2016 3:30 AM] - SUCCESS :Authenticate request - Username: juan
+[04/28/2016 3:31 AM] - SUCCESS :Authenticate request - Username: juan
+[04/28/2016 3:31 AM] - SUCCESS :Authenticate request - Username: juan
+[04/28/2016 3:31 AM] - SUCCESS :Authenticate request - Username: juan
+[04/28/2016 3:32 AM] - SUCCESS :Authenticate request - Username: juan
+[04/28/2016 3:32 AM] - SUCCESS :Authentication successful for username: juan. Executing swpm_login action hook.
+[04/28/2016 3:33 AM] - SUCCESS :Authenticate request - Username: juan
+[04/28/2016 3:34 AM] - SUCCESS :Authenticate request - Username: juan
+[04/28/2016 3:34 AM] - SUCCESS :Authenticate request - Username: juan
+[04/28/2016 3:34 AM] - SUCCESS :Authenticate request - Username: juan
+[04/28/2016 3:34 AM] - SUCCESS :Authenticate request - Username: juan
+[04/28/2016 3:34 AM] - SUCCESS :Authenticate request - Username: juan
+[04/28/2016 3:34 AM] - SUCCESS :Authenticate request - Username: juan
+[04/28/2016 3:35 AM] - SUCCESS :Authenticate request - Username: juan
+[04/28/2016 3:35 AM] - SUCCESS :Authentication successful for username: juan. Executing swpm_login action hook.
+[04/28/2016 3:43 AM] - SUCCESS :Authenticate request - Username: juan
+[04/28/2016 3:43 AM] - SUCCESS :Authenticate request - Username: juan
+[04/28/2016 3:44 AM] - SUCCESS :Authenticate request - Username: juan
+[04/28/2016 3:44 AM] - SUCCESS :Authenticate request - Username: juan
+[04/28/2016 3:44 AM] - SUCCESS :Authenticate request - Username: juan
+[04/28/2016 3:44 AM] - SUCCESS :Authentication successful for username: juan. Executing swpm_login action hook.
+[04/28/2016 1:22 PM] - SUCCESS :Authenticate request - Username: admin
+[04/28/2016 1:22 PM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/29/2016 4:05 AM] - SUCCESS :Authenticate request - Username: admin
+[04/29/2016 4:05 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/29/2016 4:17 AM] - SUCCESS :Authenticate request - Username: admin
+[04/29/2016 4:17 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/29/2016 5:57 AM] - SUCCESS :Authenticate request - Username: admin
+[04/29/2016 5:57 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/29/2016 6:49 AM] - SUCCESS :Authenticate request - Username: juan
+[04/29/2016 6:49 AM] - SUCCESS :Authentication successful for username: juan. Executing swpm_login action hook.
+[04/29/2016 6:49 AM] - SUCCESS :Authenticate request - Username: juan
+[04/29/2016 6:49 AM] - SUCCESS :Authenticate request - Username: juan
+[04/29/2016 6:49 AM] - SUCCESS :Authenticate request - Username: juan
+[04/29/2016 6:50 AM] - SUCCESS :Authenticate request - Username: juan
+[04/29/2016 6:50 AM] - SUCCESS :Authenticate request - Username: juan
+[04/29/2016 6:50 AM] - SUCCESS :Authenticate request - Username: juan
+[04/29/2016 6:50 AM] - SUCCESS :Authentication successful for username: juan. Executing swpm_login action hook.
+[04/29/2016 7:16 AM] - SUCCESS :Authenticate request - Username: admin
+[04/29/2016 7:16 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/29/2016 7:22 AM] - SUCCESS :Authenticate request - Username: juan
+[04/29/2016 7:22 AM] - SUCCESS :Authenticate request - Username: juan
+[04/29/2016 7:22 AM] - SUCCESS :Authenticate request - Username: juan
+[04/29/2016 7:22 AM] - SUCCESS :Authenticate request - Username: juan
+[04/29/2016 7:22 AM] - SUCCESS :Authenticate request - Username: juan
+[04/29/2016 7:22 AM] - SUCCESS :Authenticate request - Username: juan
+[04/29/2016 7:22 AM] - SUCCESS :Authenticate request - Username: juan
+[04/29/2016 7:22 AM] - SUCCESS :Authentication successful for username: juan. Executing swpm_login action hook.
+[04/29/2016 7:27 AM] - SUCCESS :Authenticate request - Username: juan
+[04/29/2016 7:27 AM] - SUCCESS :Authenticate request - Username: juan
+[04/29/2016 7:27 AM] - SUCCESS :Authenticate request - Username: juan
+[04/29/2016 7:27 AM] - SUCCESS :Authenticate request - Username: juan
+[04/29/2016 7:27 AM] - SUCCESS :Authenticate request - Username: juan
+[04/29/2016 7:27 AM] - SUCCESS :Authentication successful for username: juan. Executing swpm_login action hook.
+[04/29/2016 8:58 AM] - SUCCESS :Authenticate request - Username: abcabc
+[04/29/2016 8:58 AM] - SUCCESS :Authentication successful for username: abcabc. Executing swpm_login action hook.
+[04/29/2016 8:58 AM] - SUCCESS :Authenticate request - Username: admin
+[04/29/2016 8:58 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/29/2016 9:03 AM] - SUCCESS :login
+[04/29/2016 9:03 AM] - SUCCESS :login
+[04/29/2016 9:03 AM] - SUCCESS :login
+[04/29/2016 9:03 AM] - SUCCESS :login
+[04/29/2016 9:05 AM] - SUCCESS :login
+[04/29/2016 9:05 AM] - SUCCESS :Authenticate request - Username: abcabc
+[04/29/2016 9:05 AM] - SUCCESS :Authentication successful for username: abcabc. Executing swpm_login action hook.
+[04/29/2016 9:05 AM] - SUCCESS :Authenticate request - Username: admin
+[04/29/2016 9:05 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/29/2016 9:08 AM] - SUCCESS :Authenticate request - Username: abcabc
+[04/29/2016 9:08 AM] - SUCCESS :Authentication successful for username: abcabc. Executing swpm_login action hook.
+[04/29/2016 9:09 AM] - SUCCESS :login
+[04/29/2016 9:09 AM] - SUCCESS :Authenticate request - Username: abcabc
+[04/29/2016 9:09 AM] - SUCCESS :Authentication successful for username: abcabc. Executing swpm_login action hook.
+[04/29/2016 9:11 AM] - SUCCESS :login
+[04/29/2016 9:11 AM] - SUCCESS :Authenticate request - Username: juan
+[04/29/2016 9:11 AM] - SUCCESS :login
+[04/29/2016 9:11 AM] - SUCCESS :Authenticate request - Username: juan
+[04/29/2016 9:12 AM] - SUCCESS :login
+[04/29/2016 9:12 AM] - SUCCESS :Authenticate request - Username: juan
+[04/29/2016 9:12 AM] - SUCCESS :login
+[04/29/2016 9:12 AM] - SUCCESS :Authenticate request - Username: juan
+[04/29/2016 9:12 AM] - SUCCESS :login
+[04/29/2016 9:12 AM] - SUCCESS :Authenticate request - Username: juan
+[04/29/2016 9:13 AM] - SUCCESS :login
+[04/29/2016 9:13 AM] - SUCCESS :Authenticate request - Username: juan
+[04/29/2016 9:17 AM] - SUCCESS :login
+[04/29/2016 9:17 AM] - SUCCESS :Authenticate request - Username: abcabc
+[04/29/2016 9:18 AM] - SUCCESS :login
+[04/29/2016 9:18 AM] - SUCCESS :Authenticate request - Username: abcabc
+[04/29/2016 9:18 AM] - SUCCESS :Authentication successful for username: abcabc. Executing swpm_login action hook.
+[04/29/2016 9:24 AM] - SUCCESS :login
+[04/29/2016 9:24 AM] - SUCCESS :Authenticate request - Username: abcabc
+[04/29/2016 9:24 AM] - SUCCESS :Authentication successful for username: abcabc. Executing swpm_login action hook.
+[04/29/2016 9:25 AM] - SUCCESS :Authenticate request - Username: admin
+[04/29/2016 9:25 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/29/2016 9:26 AM] - SUCCESS :login
+[04/29/2016 9:26 AM] - SUCCESS :Authenticate request - Username: abcabc
+[04/29/2016 9:27 AM] - SUCCESS :login
+[04/29/2016 9:27 AM] - SUCCESS :Authenticate request - Username: abcabc
+[04/29/2016 9:28 AM] - SUCCESS :login
+[04/29/2016 9:28 AM] - SUCCESS :Authenticate request - Username: abcabc
+[04/29/2016 9:28 AM] - SUCCESS :login
+[04/29/2016 9:28 AM] - SUCCESS :Authenticate request - Username: abcabc
+[04/29/2016 9:28 AM] - SUCCESS :login
+[04/29/2016 9:28 AM] - SUCCESS :Authenticate request - Username: abcabc
+[04/29/2016 9:28 AM] - SUCCESS :login
+[04/29/2016 9:28 AM] - SUCCESS :Authenticate request - Username: abcabc
+[04/29/2016 9:28 AM] - SUCCESS :Authentication successful for username: abcabc. Executing swpm_login action hook.
+[04/29/2016 9:30 AM] - SUCCESS :login
+[04/29/2016 9:30 AM] - SUCCESS :Authenticate request - Username: abcabc
+[04/29/2016 9:30 AM] - SUCCESS :login
+[04/29/2016 9:30 AM] - SUCCESS :Authenticate request - Username: abcabc
+[04/29/2016 9:31 AM] - SUCCESS :login
+[04/29/2016 9:31 AM] - SUCCESS :Authenticate request - Username: abcabc
+[04/29/2016 9:31 AM] - SUCCESS :Authentication successful for username: abcabc. Executing swpm_login action hook.
+[04/29/2016 9:31 AM] - SUCCESS :Authenticate request - Username: abcabc
+[04/29/2016 9:31 AM] - SUCCESS :Authentication successful for username: abcabc. Executing swpm_login action hook.
+[04/29/2016 9:32 AM] - SUCCESS :Authenticate request - Username: admin
+[04/29/2016 9:32 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/29/2016 9:33 AM] - SUCCESS :login
+[04/29/2016 9:33 AM] - SUCCESS :Authenticate request - Username: admin
+[04/29/2016 9:33 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/29/2016 9:33 AM] - SUCCESS :Authenticate request - Username: admin
+[04/29/2016 9:33 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/29/2016 9:33 AM] - SUCCESS :Authenticate request - Username: admin
+[04/29/2016 9:33 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/29/2016 9:34 AM] - SUCCESS :login
+[04/29/2016 9:34 AM] - SUCCESS :Authenticate request - Username: admin
+[04/29/2016 9:34 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/29/2016 9:34 AM] - SUCCESS :login
+[04/29/2016 9:34 AM] - SUCCESS :Authenticate request - Username: admin
+[04/29/2016 9:34 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/29/2016 9:36 AM] - SUCCESS :login
+[04/29/2016 9:36 AM] - SUCCESS :Authenticate request - Username: admin
+[04/29/2016 9:36 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/29/2016 9:37 AM] - SUCCESS :Authenticate request - Username: orcun
+[04/29/2016 9:39 AM] - SUCCESS :Authenticate request - Username: orcun
+[04/29/2016 10:42 AM] - SUCCESS :Authenticate request - Username: admin
+[04/29/2016 10:42 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/29/2016 10:50 AM] - SUCCESS :login
+[04/29/2016 10:50 AM] - SUCCESS :Authenticate request - Username: admin
+[04/29/2016 10:50 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/29/2016 11:27 AM] - SUCCESS :Authenticate request - Username: admin
+[04/29/2016 11:27 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/29/2016 11:28 AM] - SUCCESS :login
+[04/29/2016 11:28 AM] - SUCCESS :Authenticate request - Username: abcabc
+[04/29/2016 11:28 AM] - SUCCESS :Authentication successful for username: abcabc. Executing swpm_login action hook.
+[04/29/2016 11:29 AM] - SUCCESS :Authenticate request - Username: remo
+[04/29/2016 11:29 AM] - SUCCESS :Authenticate request - Username: Raaso
+[04/29/2016 11:29 AM] - SUCCESS :Authenticate request - Username: admin
+[04/29/2016 11:29 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/29/2016 11:29 AM] - SUCCESS :login
+[04/29/2016 11:29 AM] - SUCCESS :Authenticate request - Username: admin
+[04/29/2016 11:29 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/29/2016 11:47 AM] - SUCCESS :Authenticate request - Username: admin
+[04/29/2016 11:47 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/29/2016 11:47 AM] - SUCCESS :login
+[04/29/2016 11:47 AM] - SUCCESS :Authenticate request - Username: juan
+[04/29/2016 11:47 AM] - SUCCESS :Authentication successful for username: juan. Executing swpm_login action hook.
+[04/29/2016 12:47 PM] - SUCCESS :Authenticate request - Username: admin
+[04/29/2016 12:47 PM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/29/2016 12:48 PM] - SUCCESS :login
+[04/29/2016 12:48 PM] - SUCCESS :Authenticate request - Username: admin
+[04/29/2016 12:48 PM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/29/2016 1:15 PM] - SUCCESS :Authenticate request - Username: admin
+[04/29/2016 1:15 PM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/29/2016 1:15 PM] - SUCCESS :login
+[04/29/2016 1:15 PM] - SUCCESS :Authenticate request - Username: admin
+[04/29/2016 1:15 PM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/29/2016 1:19 PM] - SUCCESS :login
+[04/29/2016 1:19 PM] - SUCCESS :Authenticate request - Username: Skyler
+[04/30/2016 12:05 AM] - SUCCESS :login
+[04/30/2016 12:05 AM] - SUCCESS :Authenticate request - Username: admin
+[04/30/2016 12:05 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/30/2016 12:13 AM] - SUCCESS :login
+[04/30/2016 12:13 AM] - SUCCESS :Authenticate request - Username: Raaso
+[04/30/2016 12:16 AM] - SUCCESS :Authenticate request - Username: admin
+[04/30/2016 12:16 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/30/2016 1:02 AM] - SUCCESS :login
+[04/30/2016 1:02 AM] - SUCCESS :Authenticate request - Username: admin
+[04/30/2016 1:02 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/30/2016 1:09 AM] - SUCCESS :login
+[04/30/2016 1:09 AM] - SUCCESS :Authenticate request - Username: admin
+[04/30/2016 1:09 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/30/2016 1:13 AM] - SUCCESS :Authenticate request - Username: violets
+[04/30/2016 1:13 AM] - SUCCESS :Authentication successful for username: violets. Executing swpm_login action hook.
+[04/30/2016 1:20 AM] - SUCCESS :login
+[04/30/2016 1:20 AM] - SUCCESS :Authenticate request - Username: admin
+[04/30/2016 1:20 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/30/2016 1:21 AM] - SUCCESS :login
+[04/30/2016 1:21 AM] - SUCCESS :Authenticate request - Username: admin
+[04/30/2016 1:21 AM] - SUCCESS :login
+[04/30/2016 1:21 AM] - SUCCESS :Authenticate request - Username: admin
+[04/30/2016 1:21 AM] - SUCCESS :login
+[04/30/2016 1:21 AM] - SUCCESS :Authenticate request - Username: admin
+[04/30/2016 1:22 AM] - SUCCESS :login
+[04/30/2016 1:22 AM] - SUCCESS :Authenticate request - Username: admin
+[04/30/2016 1:22 AM] - SUCCESS :login
+[04/30/2016 1:22 AM] - SUCCESS :Authenticate request - Username: admin
+[04/30/2016 1:22 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/30/2016 1:22 AM] - SUCCESS :login
+[04/30/2016 1:22 AM] - SUCCESS :Authenticate request - Username: Raaso
+[04/30/2016 1:25 AM] - SUCCESS :login
+[04/30/2016 2:12 AM] - SUCCESS :login
+[04/30/2016 2:12 AM] - SUCCESS :Authenticate request - Username: admin
+[04/30/2016 2:12 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/30/2016 5:19 AM] - SUCCESS :Authenticate request - Username: admin
+[04/30/2016 5:19 AM] - SUCCESS :login
+[04/30/2016 5:19 AM] - SUCCESS :Authenticate request - Username: admin
+[04/30/2016 11:20 AM] - SUCCESS :Authenticate request - Username: tarantula
+[04/30/2016 11:20 AM] - SUCCESS :Authentication successful for username: tarantula. Executing swpm_login action hook.
+[04/30/2016 11:23 AM] - SUCCESS :Authenticate request - Username: tarantula
+[04/30/2016 11:23 AM] - SUCCESS :Authenticate request - Username: tarantula
+[04/30/2016 11:23 AM] - SUCCESS :Authentication successful for username: tarantula. Executing swpm_login action hook.
+[04/30/2016 11:27 AM] - SUCCESS :login
+[04/30/2016 11:27 AM] - SUCCESS :Authenticate request - Username: admin
+[04/30/2016 11:27 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/30/2016 11:39 AM] - SUCCESS :login
+[04/30/2016 11:39 AM] - SUCCESS :login
+[04/30/2016 11:39 AM] - SUCCESS :login
+[04/30/2016 11:39 AM] - SUCCESS :login
+[04/30/2016 11:52 AM] - SUCCESS :login
+[04/30/2016 12:07 PM] - SUCCESS :login
+[04/30/2016 12:07 PM] - SUCCESS :Authenticate request - Username: orcun123
+[04/30/2016 12:07 PM] - SUCCESS :Authentication successful for username: orcun123. Executing swpm_login action hook.
+[04/30/2016 12:08 PM] - SUCCESS :login
+[04/30/2016 12:08 PM] - SUCCESS :Authenticate request - Username: orcun123
+[04/30/2016 12:08 PM] - SUCCESS :login
+[04/30/2016 12:08 PM] - SUCCESS :Authenticate request - Username: orcun123
+[04/30/2016 12:08 PM] - SUCCESS :login
+[04/30/2016 12:08 PM] - SUCCESS :Authenticate request - Username: orcun123
+[04/30/2016 12:08 PM] - SUCCESS :login
+[04/30/2016 12:08 PM] - SUCCESS :Authenticate request - Username: orcun123
+[04/30/2016 12:11 PM] - SUCCESS :login
+[04/30/2016 12:11 PM] - SUCCESS :Authenticate request - Username: orcun123
+[04/30/2016 12:11 PM] - SUCCESS :Authentication successful for username: orcun123. Executing swpm_login action hook.
+[04/30/2016 12:11 PM] - SUCCESS :Authenticate request - Username: admin
+[04/30/2016 12:11 PM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/30/2016 12:14 PM] - SUCCESS :Authenticate request - Username: admin
+[04/30/2016 12:14 PM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/30/2016 12:27 PM] - SUCCESS :Authenticate request - Username: violets
+[04/30/2016 12:27 PM] - SUCCESS :Authentication successful for username: violets. Executing swpm_login action hook.
+[04/30/2016 12:35 PM] - SUCCESS :Authenticate request - Username: tarantula
+[04/30/2016 12:35 PM] - SUCCESS :Authentication successful for username: tarantula. Executing swpm_login action hook.
+[04/30/2016 12:40 PM] - SUCCESS :Authenticate request - Username: violets
+[04/30/2016 12:40 PM] - SUCCESS :Authentication successful for username: violets. Executing swpm_login action hook.
+[04/30/2016 12:46 PM] - SUCCESS :Authenticate request - Username: violets
+[04/30/2016 12:46 PM] - SUCCESS :Authentication successful for username: violets. Executing swpm_login action hook.
+[04/30/2016 12:51 PM] - SUCCESS :Authenticate request - Username: tarantula
+[04/30/2016 12:51 PM] - SUCCESS :Authentication successful for username: tarantula. Executing swpm_login action hook.
+[04/30/2016 1:39 PM] - SUCCESS :Authenticate request - Username: violets
+[04/30/2016 1:39 PM] - SUCCESS :Authentication successful for username: violets. Executing swpm_login action hook.
+[04/30/2016 1:51 PM] - SUCCESS :Authenticate request - Username: tarantula
+[04/30/2016 1:51 PM] - SUCCESS :Authentication successful for username: tarantula. Executing swpm_login action hook.
+[04/30/2016 2:00 PM] - SUCCESS :Authenticate request - Username: tarantula
+[04/30/2016 2:00 PM] - SUCCESS :Authentication successful for username: tarantula. Executing swpm_login action hook.
+[04/30/2016 2:09 PM] - SUCCESS :Authenticate request - Username: admin
+[04/30/2016 2:09 PM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[04/30/2016 2:31 PM] - SUCCESS :Authenticate request - Username: violets
+[04/30/2016 2:31 PM] - SUCCESS :Authentication successful for username: violets. Executing swpm_login action hook.
+[04/30/2016 10:30 PM] - SUCCESS :Authenticate request - Username: admin
+[04/30/2016 10:30 PM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/01/2016 5:59 AM] - SUCCESS :login
+[05/01/2016 5:59 AM] - SUCCESS :Authenticate request - Username: admin
+[05/01/2016 5:59 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/01/2016 6:02 AM] - SUCCESS :login
+[05/01/2016 6:02 AM] - SUCCESS :Authenticate request - Username: violets
+[05/01/2016 6:02 AM] - SUCCESS :login
+[05/01/2016 6:02 AM] - SUCCESS :Authenticate request - Username: violets
+[05/01/2016 6:03 AM] - SUCCESS :login
+[05/01/2016 6:03 AM] - SUCCESS :Authenticate request - Username: violets
+[05/01/2016 6:03 AM] - SUCCESS :login
+[05/01/2016 6:03 AM] - SUCCESS :Authenticate request - Username: violets
+[05/01/2016 6:03 AM] - SUCCESS :login
+[05/01/2016 6:03 AM] - SUCCESS :Authenticate request - Username: violets
+[05/01/2016 6:03 AM] - SUCCESS :login
+[05/01/2016 6:03 AM] - SUCCESS :Authenticate request - Username: violets
+[05/01/2016 6:03 AM] - SUCCESS :login
+[05/01/2016 6:03 AM] - SUCCESS :Authenticate request - Username: violets
+[05/01/2016 6:03 AM] - SUCCESS :login
+[05/01/2016 6:03 AM] - SUCCESS :Authenticate request - Username: violets
+[05/01/2016 6:03 AM] - SUCCESS :login
+[05/01/2016 6:03 AM] - SUCCESS :Authenticate request - Username: violets
+[05/01/2016 6:03 AM] - SUCCESS :login
+[05/01/2016 6:03 AM] - SUCCESS :Authenticate request - Username: violets
+[05/01/2016 6:04 AM] - SUCCESS :login
+[05/01/2016 6:04 AM] - SUCCESS :Authenticate request - Username: violets
+[05/01/2016 6:05 AM] - SUCCESS :login
+[05/01/2016 6:05 AM] - SUCCESS :Authenticate request - Username: admin
+[05/01/2016 6:05 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/01/2016 6:05 AM] - SUCCESS :login
+[05/01/2016 6:05 AM] - SUCCESS :Authenticate request - Username: may8
+[05/01/2016 6:05 AM] - SUCCESS :login
+[05/01/2016 6:05 AM] - SUCCESS :Authenticate request - Username: may8
+[05/01/2016 6:05 AM] - SUCCESS :Authentication successful for username: may8. Executing swpm_login action hook.
+[05/01/2016 12:44 PM] - SUCCESS :login
+[05/01/2016 12:44 PM] - SUCCESS :Authenticate request - Username: admin
+[05/01/2016 12:44 PM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/01/2016 12:48 PM] - SUCCESS :login
+[05/01/2016 12:49 PM] - SUCCESS :login
+[05/01/2016 12:50 PM] - SUCCESS :login
+[05/01/2016 1:14 PM] - SUCCESS :login
+[05/01/2016 1:14 PM] - SUCCESS :Authenticate request - Username: admin
+[05/01/2016 1:14 PM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/01/2016 1:34 PM] - SUCCESS :login
+[05/01/2016 1:34 PM] - SUCCESS :Authenticate request - Username: tarantula
+[05/01/2016 1:34 PM] - SUCCESS :Authentication successful for username: tarantula. Executing swpm_login action hook.
+[05/01/2016 1:39 PM] - SUCCESS :login
+[05/01/2016 1:39 PM] - SUCCESS :Authenticate request - Username: tarantula
+[05/01/2016 1:39 PM] - SUCCESS :Authentication successful for username: tarantula. Executing swpm_login action hook.
+[05/02/2016 3:08 AM] - SUCCESS :login
+[05/02/2016 3:08 AM] - SUCCESS :Authenticate request - Username: Skyler
+[05/02/2016 3:08 AM] - SUCCESS :login
+[05/02/2016 3:08 AM] - SUCCESS :Authenticate request - Username: justinBieber
+[05/02/2016 3:08 AM] - SUCCESS :Authentication successful for username: justinBieber. Executing swpm_login action hook.
+[05/02/2016 3:08 AM] - SUCCESS :login
+[05/02/2016 3:17 AM] - SUCCESS :login
+[05/02/2016 3:17 AM] - SUCCESS :Authenticate request - Username: admin
+[05/02/2016 3:17 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/02/2016 3:23 AM] - SUCCESS :login
+[05/02/2016 3:23 AM] - SUCCESS :Authenticate request - Username: admin
+[05/02/2016 3:23 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/02/2016 3:43 AM] - SUCCESS :login
+[05/02/2016 3:43 AM] - SUCCESS :Authenticate request - Username: admin
+[05/02/2016 3:43 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/02/2016 4:40 AM] - SUCCESS :login
+[05/02/2016 4:40 AM] - SUCCESS :Authenticate request - Username: justinBieber
+[05/02/2016 4:40 AM] - SUCCESS :Authentication successful for username: justinBieber. Executing swpm_login action hook.
+[05/02/2016 4:40 AM] - SUCCESS :login
+[05/02/2016 5:03 AM] - SUCCESS :login
+[05/02/2016 5:03 AM] - SUCCESS :Authenticate request - Username: admin
+[05/02/2016 5:03 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/02/2016 7:28 AM] - SUCCESS :login
+[05/03/2016 4:45 AM] - SUCCESS :login
+[05/03/2016 9:21 AM] - SUCCESS :login
+[05/03/2016 9:21 AM] - SUCCESS :Authenticate request - Username: admin
+[05/03/2016 9:21 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/04/2016 5:41 AM] - SUCCESS :login
+[05/04/2016 5:41 AM] - SUCCESS :Authenticate request - Username: juan
+[05/04/2016 5:41 AM] - SUCCESS :Authentication successful for username: juan. Executing swpm_login action hook.
+[05/04/2016 5:52 AM] - SUCCESS :login
+[05/04/2016 5:52 AM] - SUCCESS :Authenticate request - Username: Tester
+[05/04/2016 5:52 AM] - SUCCESS :Authentication successful for username: Tester. Executing swpm_login action hook.
+[05/04/2016 8:28 AM] - SUCCESS :login
+[05/04/2016 8:28 AM] - SUCCESS :Authenticate request - Username: admin
+[05/04/2016 8:28 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/04/2016 8:54 AM] - SUCCESS :login
+[05/04/2016 8:54 AM] - SUCCESS :Authenticate request - Username: admin
+[05/04/2016 8:54 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/05/2016 3:44 AM] - SUCCESS :login
+[05/05/2016 3:44 AM] - SUCCESS :Authenticate request - Username: admin
+[05/05/2016 3:44 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/05/2016 5:18 AM] - SUCCESS :login
+[05/05/2016 5:18 AM] - SUCCESS :Authenticate request - Username: admin
+[05/05/2016 5:18 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/05/2016 8:53 AM] - SUCCESS :login
+[05/05/2016 8:53 AM] - SUCCESS :Authenticate request - Username: admin
+[05/05/2016 8:53 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/05/2016 9:23 AM] - SUCCESS :login
+[05/05/2016 9:23 AM] - SUCCESS :Authenticate request - Username: admin
+[05/05/2016 9:23 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/05/2016 9:45 AM] - SUCCESS :login
+[05/05/2016 9:45 AM] - SUCCESS :Authenticate request - Username: admin
+[05/05/2016 9:45 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/05/2016 9:47 AM] - SUCCESS :login
+[05/05/2016 9:47 AM] - SUCCESS :Authenticate request - Username: jigsaw
+[05/05/2016 9:47 AM] - SUCCESS :Authentication successful for username: jigsaw. Executing swpm_login action hook.
+[05/05/2016 9:48 AM] - SUCCESS :login
+[05/05/2016 9:48 AM] - SUCCESS :Authenticate request - Username: Luke
+[05/05/2016 9:48 AM] - SUCCESS :Authentication successful for username: Luke. Executing swpm_login action hook.
+[05/05/2016 9:50 AM] - SUCCESS :login
+[05/05/2016 9:50 AM] - SUCCESS :Authenticate request - Username: Icy_wang
+[05/05/2016 9:50 AM] - SUCCESS :Authentication successful for username: Icy_wang. Executing swpm_login action hook.
+[05/05/2016 9:53 AM] - SUCCESS :login
+[05/05/2016 9:53 AM] - SUCCESS :Authenticate request - Username: admin
+[05/05/2016 9:53 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/05/2016 9:55 AM] - SUCCESS :login
+[05/05/2016 9:55 AM] - SUCCESS :Authenticate request - Username: admin
+[05/05/2016 9:55 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/05/2016 10:02 AM] - SUCCESS :login
+[05/05/2016 10:02 AM] - SUCCESS :Authenticate request - Username: Jerry
+[05/05/2016 10:02 AM] - SUCCESS :Authentication successful for username: Jerry. Executing swpm_login action hook.
+[05/05/2016 10:03 AM] - SUCCESS :login
+[05/05/2016 10:03 AM] - SUCCESS :Authenticate request - Username: admin
+[05/05/2016 10:03 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/05/2016 10:04 AM] - SUCCESS :login
+[05/05/2016 10:04 AM] - SUCCESS :Authenticate request - Username: Jerry
+[05/05/2016 10:04 AM] - SUCCESS :Authentication successful for username: Jerry. Executing swpm_login action hook.
+[05/05/2016 10:05 AM] - SUCCESS :login
+[05/05/2016 10:05 AM] - SUCCESS :Authenticate request - Username: admin
+[05/05/2016 10:05 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/05/2016 10:06 AM] - SUCCESS :login
+[05/05/2016 10:06 AM] - SUCCESS :Authenticate request - Username: admin
+[05/05/2016 10:06 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/05/2016 10:19 AM] - SUCCESS :login
+[05/05/2016 10:19 AM] - SUCCESS :Authenticate request - Username: admin
+[05/05/2016 10:19 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/05/2016 10:23 AM] - SUCCESS :login
+[05/05/2016 10:23 AM] - SUCCESS :Authenticate request - Username: admin
+[05/05/2016 10:23 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/05/2016 10:38 AM] - SUCCESS :login
+[05/05/2016 10:38 AM] - SUCCESS :Authenticate request - Username: admin
+[05/05/2016 10:38 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/05/2016 10:39 AM] - SUCCESS :login
+[05/05/2016 10:39 AM] - SUCCESS :Authenticate request - Username: Abby
+[05/05/2016 10:39 AM] - SUCCESS :Authentication successful for username: Abby. Executing swpm_login action hook.
+[05/05/2016 10:40 AM] - SUCCESS :login
+[05/05/2016 10:40 AM] - SUCCESS :Authenticate request - Username: Jerry
+[05/05/2016 10:40 AM] - SUCCESS :Authentication successful for username: Jerry. Executing swpm_login action hook.
+[05/05/2016 10:41 AM] - SUCCESS :login
+[05/05/2016 10:41 AM] - SUCCESS :Authenticate request - Username: clown
+[05/05/2016 10:41 AM] - SUCCESS :Authentication successful for username: clown. Executing swpm_login action hook.
+[05/05/2016 10:41 AM] - SUCCESS :login
+[05/05/2016 10:41 AM] - SUCCESS :Authenticate request - Username: admin
+[05/05/2016 10:41 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/05/2016 10:43 AM] - SUCCESS :login
+[05/05/2016 10:43 AM] - SUCCESS :Authenticate request - Username: Jerry
+[05/05/2016 10:43 AM] - SUCCESS :Authentication successful for username: Jerry. Executing swpm_login action hook.
+[05/05/2016 10:46 AM] - SUCCESS :login
+[05/05/2016 10:46 AM] - SUCCESS :Authenticate request - Username: stephenhawking
+[05/05/2016 10:46 AM] - SUCCESS :Authentication successful for username: stephenhawking. Executing swpm_login action hook.
+[05/05/2016 10:46 AM] - SUCCESS :login
+[05/05/2016 10:46 AM] - SUCCESS :login
+[05/05/2016 10:46 AM] - SUCCESS :Authenticate request - Username: admin
+[05/05/2016 10:46 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/05/2016 10:49 AM] - SUCCESS :login
+[05/05/2016 10:49 AM] - SUCCESS :Authenticate request - Username: Doraemon
+[05/05/2016 10:49 AM] - SUCCESS :Authentication successful for username: Doraemon. Executing swpm_login action hook.
+[05/05/2016 10:52 AM] - SUCCESS :login
+[05/05/2016 10:52 AM] - SUCCESS :Authenticate request - Username: JimBean
+[05/05/2016 10:52 AM] - SUCCESS :Authentication successful for username: JimBean. Executing swpm_login action hook.
+[05/05/2016 10:53 AM] - SUCCESS :login
+[05/05/2016 10:53 AM] - SUCCESS :Authenticate request - Username: honeywhisky
+[05/05/2016 10:53 AM] - SUCCESS :Authentication successful for username: honeywhisky. Executing swpm_login action hook.
+[05/05/2016 10:53 AM] - SUCCESS :login
+[05/05/2016 10:58 AM] - SUCCESS :login
+[05/05/2016 10:58 AM] - SUCCESS :Authenticate request - Username: admin
+[05/05/2016 10:58 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/05/2016 11:00 AM] - SUCCESS :login
+[05/05/2016 11:07 AM] - SUCCESS :login
+[05/05/2016 11:07 AM] - SUCCESS :Authenticate request - Username: admin
+[05/05/2016 11:07 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/05/2016 11:08 AM] - SUCCESS :login
+[05/05/2016 11:08 AM] - SUCCESS :Authenticate request - Username: Abby
+[05/05/2016 11:08 AM] - SUCCESS :Authentication successful for username: Abby. Executing swpm_login action hook.
+[05/05/2016 11:09 AM] - SUCCESS :login
+[05/05/2016 11:09 AM] - SUCCESS :Authenticate request - Username: admin
+[05/05/2016 11:09 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/05/2016 11:10 AM] - SUCCESS :login
+[05/05/2016 11:10 AM] - SUCCESS :Authenticate request - Username: Jerry
+[05/05/2016 11:10 AM] - SUCCESS :Authentication successful for username: Jerry. Executing swpm_login action hook.
+[05/05/2016 11:14 AM] - SUCCESS :login
+[05/05/2016 11:14 AM] - SUCCESS :Authenticate request - Username: admin
+[05/05/2016 11:14 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/05/2016 11:17 AM] - SUCCESS :login
+[05/05/2016 11:17 AM] - SUCCESS :Authenticate request - Username: admin
+[05/05/2016 11:17 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/05/2016 11:18 AM] - SUCCESS :login
+[05/05/2016 11:18 AM] - SUCCESS :Authenticate request - Username: cranberry
+[05/05/2016 11:18 AM] - SUCCESS :Authentication successful for username: cranberry. Executing swpm_login action hook.
+[05/05/2016 11:20 AM] - SUCCESS :login
+[05/05/2016 11:20 AM] - SUCCESS :Authenticate request - Username: admin
+[05/05/2016 11:20 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/05/2016 11:42 AM] - SUCCESS :login
+[05/05/2016 11:42 AM] - SUCCESS :Authenticate request - Username: Abby
+[05/05/2016 11:42 AM] - SUCCESS :Authentication successful for username: Abby. Executing swpm_login action hook.
+[05/05/2016 12:09 PM] - SUCCESS :login
+[05/05/2016 12:09 PM] - SUCCESS :Authenticate request - Username: clown
+[05/05/2016 12:09 PM] - SUCCESS :Authentication successful for username: clown. Executing swpm_login action hook.
+[05/05/2016 12:12 PM] - SUCCESS :login
+[05/05/2016 12:12 PM] - SUCCESS :Authenticate request - Username: admin
+[05/05/2016 12:12 PM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/05/2016 12:33 PM] - SUCCESS :login
+[05/05/2016 12:33 PM] - SUCCESS :Authenticate request - Username: admin
+[05/05/2016 12:33 PM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/05/2016 12:35 PM] - SUCCESS :login
+[05/05/2016 12:35 PM] - SUCCESS :Authenticate request - Username: admin
+[05/05/2016 12:35 PM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/05/2016 12:36 PM] - SUCCESS :login
+[05/05/2016 12:36 PM] - SUCCESS :Authenticate request - Username: Doraemon
+[05/05/2016 12:36 PM] - SUCCESS :Authentication successful for username: Doraemon. Executing swpm_login action hook.
+[05/05/2016 12:37 PM] - SUCCESS :login
+[05/05/2016 12:37 PM] - SUCCESS :Authenticate request - Username: Abby
+[05/05/2016 12:37 PM] - SUCCESS :Authentication successful for username: Abby. Executing swpm_login action hook.
+[05/05/2016 12:47 PM] - SUCCESS :login
+[05/05/2016 12:47 PM] - SUCCESS :Authenticate request - Username: clown
+[05/05/2016 12:47 PM] - SUCCESS :Authentication successful for username: clown. Executing swpm_login action hook.
+[05/05/2016 12:48 PM] - SUCCESS :login
+[05/05/2016 12:48 PM] - SUCCESS :Authenticate request - Username: roadrunner
+[05/05/2016 12:48 PM] - SUCCESS :Authentication successful for username: roadrunner. Executing swpm_login action hook.
+[05/05/2016 12:49 PM] - SUCCESS :login
+[05/05/2016 12:49 PM] - SUCCESS :Authenticate request - Username: admin
+[05/05/2016 12:49 PM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/05/2016 12:50 PM] - SUCCESS :login
+[05/05/2016 12:50 PM] - SUCCESS :Authenticate request - Username: tweet
+[05/05/2016 12:50 PM] - SUCCESS :login
+[05/05/2016 12:50 PM] - SUCCESS :Authenticate request - Username: tweety
+[05/05/2016 12:50 PM] - SUCCESS :Authentication successful for username: tweety. Executing swpm_login action hook.
+[05/05/2016 12:52 PM] - SUCCESS :login
+[05/05/2016 12:52 PM] - SUCCESS :Authenticate request - Username: admin
+[05/05/2016 12:52 PM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/05/2016 12:52 PM] - SUCCESS :login
+[05/05/2016 12:52 PM] - SUCCESS :Authenticate request - Username: Abby
+[05/05/2016 12:52 PM] - SUCCESS :Authentication successful for username: Abby. Executing swpm_login action hook.
+[05/05/2016 12:54 PM] - SUCCESS :login
+[05/05/2016 12:54 PM] - SUCCESS :Authenticate request - Username: roadrunner
+[05/05/2016 12:54 PM] - SUCCESS :Authentication successful for username: roadrunner. Executing swpm_login action hook.
+[05/05/2016 12:58 PM] - SUCCESS :login
+[05/05/2016 12:58 PM] - SUCCESS :Authenticate request - Username: admin
+[05/05/2016 12:58 PM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/05/2016 1:00 PM] - SUCCESS :login
+[05/05/2016 1:00 PM] - SUCCESS :Authenticate request - Username: tweety
+[05/05/2016 1:00 PM] - SUCCESS :Authentication successful for username: tweety. Executing swpm_login action hook.
+[05/05/2016 1:08 PM] - SUCCESS :login
+[05/05/2016 1:08 PM] - SUCCESS :Authenticate request - Username: clown
+[05/05/2016 1:08 PM] - SUCCESS :Authentication successful for username: clown. Executing swpm_login action hook.
+[05/05/2016 1:13 PM] - SUCCESS :login
+[05/05/2016 1:13 PM] - SUCCESS :Authenticate request - Username: violets
+[05/05/2016 1:13 PM] - SUCCESS :Authentication successful for username: violets. Executing swpm_login action hook.
+[05/05/2016 1:16 PM] - SUCCESS :login
+[05/05/2016 1:16 PM] - SUCCESS :Authenticate request - Username: admin
+[05/05/2016 1:16 PM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/05/2016 1:51 PM] - SUCCESS :login
+[05/05/2016 1:51 PM] - SUCCESS :Authenticate request - Username: admin
+[05/05/2016 1:51 PM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/05/2016 11:56 PM] - SUCCESS :login
+[05/05/2016 11:56 PM] - SUCCESS :Authenticate request - Username: admin
+[05/05/2016 11:56 PM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/06/2016 12:20 AM] - SUCCESS :login
+[05/06/2016 12:21 AM] - SUCCESS :login
+[05/06/2016 12:21 AM] - SUCCESS :Authenticate request - Username: admin
+[05/06/2016 12:21 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/06/2016 12:24 AM] - SUCCESS :login
+[05/06/2016 12:24 AM] - SUCCESS :Authenticate request - Username: blackeagle
+[05/06/2016 12:24 AM] - SUCCESS :Authentication successful for username: blackeagle. Executing swpm_login action hook.
+[05/06/2016 12:27 AM] - SUCCESS :login
+[05/06/2016 12:27 AM] - SUCCESS :Authenticate request - Username: admin
+[05/06/2016 12:27 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/06/2016 4:21 AM] - SUCCESS :login
+[05/06/2016 4:21 AM] - SUCCESS :Authenticate request - Username: admin
+[05/06/2016 4:21 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/06/2016 5:20 AM] - SUCCESS :login
+[05/06/2016 5:20 AM] - SUCCESS :Authenticate request - Username: tweety
+[05/06/2016 5:20 AM] - SUCCESS :Authentication successful for username: tweety. Executing swpm_login action hook.
+[05/06/2016 5:30 AM] - SUCCESS :login
+[05/06/2016 5:30 AM] - SUCCESS :Authenticate request - Username: orcun
+[05/06/2016 5:30 AM] - SUCCESS :login
+[05/06/2016 5:30 AM] - SUCCESS :Authenticate request - Username: admin
+[05/06/2016 5:30 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/06/2016 6:21 AM] - SUCCESS :login
+[05/06/2016 6:21 AM] - SUCCESS :Authenticate request - Username: blackeagle
+[05/06/2016 6:21 AM] - SUCCESS :Authentication successful for username: blackeagle. Executing swpm_login action hook.
+[05/06/2016 6:25 AM] - SUCCESS :login
+[05/06/2016 6:25 AM] - SUCCESS :Authenticate request - Username: admin
+[05/06/2016 6:25 AM] - SUCCESS :login
+[05/06/2016 6:25 AM] - SUCCESS :Authenticate request - Username: admin
+[05/06/2016 6:26 AM] - SUCCESS :login
+[05/06/2016 6:26 AM] - SUCCESS :Authenticate request - Username: admin
+[05/06/2016 6:26 AM] - SUCCESS :login
+[05/06/2016 6:26 AM] - SUCCESS :Authenticate request - Username: tweety
+[05/06/2016 6:26 AM] - SUCCESS :Authentication successful for username: tweety. Executing swpm_login action hook.
+[05/06/2016 6:29 AM] - SUCCESS :login
+[05/06/2016 6:29 AM] - SUCCESS :Authenticate request - Username: bhdr
+[05/06/2016 6:30 AM] - SUCCESS :login
+[05/06/2016 6:30 AM] - SUCCESS :Authenticate request - Username: admin
+[05/06/2016 6:30 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/06/2016 6:30 AM] - SUCCESS :login
+[05/06/2016 6:30 AM] - SUCCESS :Authenticate request - Username: admin
+[05/06/2016 6:30 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/06/2016 6:31 AM] - SUCCESS :login
+[05/06/2016 6:31 AM] - SUCCESS :Authenticate request - Username: admin
+[05/06/2016 6:31 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/06/2016 6:31 AM] - SUCCESS :login
+[05/06/2016 6:32 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 6:32 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 6:32 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 6:32 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 6:32 AM] - SUCCESS :login
+[05/06/2016 6:32 AM] - SUCCESS :Authenticate request - Username: admin
+[05/06/2016 6:32 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 6:32 AM] - SUCCESS :login
+[05/06/2016 6:32 AM] - SUCCESS :Authenticate request - Username: admin
+[05/06/2016 6:32 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/06/2016 6:33 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 6:33 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 6:34 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 6:34 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 6:34 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 6:34 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 6:34 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 6:35 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 6:36 AM] - SUCCESS :login
+[05/06/2016 6:36 AM] - SUCCESS :Authenticate request - Username: admin
+[05/06/2016 6:36 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/06/2016 6:36 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 6:36 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 6:38 AM] - SUCCESS :login
+[05/06/2016 6:38 AM] - SUCCESS :Authenticate request - Username: Lufy
+[05/06/2016 6:38 AM] - SUCCESS :Authentication successful for username: Lufy. Executing swpm_login action hook.
+[05/06/2016 6:40 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 6:41 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 6:42 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 6:42 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 6:42 AM] - SUCCESS :login
+[05/06/2016 6:42 AM] - SUCCESS :Authenticate request - Username: orcun
+[05/06/2016 6:42 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 6:42 AM] - SUCCESS :login
+[05/06/2016 6:42 AM] - SUCCESS :Authenticate request - Username: orcun
+[05/06/2016 6:42 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 6:42 AM] - SUCCESS :login
+[05/06/2016 6:42 AM] - SUCCESS :Authenticate request - Username: orcun
+[05/06/2016 6:42 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 6:43 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 6:43 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 6:43 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 6:43 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 6:43 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 6:43 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 6:43 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 6:43 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 6:47 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 6:52 AM] - SUCCESS :login
+[05/06/2016 6:52 AM] - SUCCESS :Authenticate request - Username: admin
+[05/06/2016 6:52 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/06/2016 6:55 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 6:56 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:01 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:01 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:01 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:02 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:07 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:07 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:07 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:07 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:07 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:07 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:08 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:08 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:08 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:08 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:10 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:14 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:14 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:14 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:14 AM] - SUCCESS :login
+[05/06/2016 7:14 AM] - SUCCESS :Authenticate request - Username: orcun
+[05/06/2016 7:14 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:15 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:15 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:16 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:16 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:16 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:17 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:17 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:18 AM] - SUCCESS :login
+[05/06/2016 7:18 AM] - SUCCESS :Authenticate request - Username: orcun
+[05/06/2016 7:18 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:18 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:18 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:19 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:19 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:19 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:19 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:20 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:20 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:20 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:20 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:20 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:20 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:20 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:21 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:21 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:21 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:21 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:21 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:21 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:22 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:22 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:22 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:22 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:23 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:23 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:23 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:23 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:25 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:26 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:27 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:27 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:28 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:28 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:29 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:29 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:29 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:29 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:29 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:30 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:30 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:30 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:30 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:34 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:37 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:37 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:39 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:39 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:44 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:45 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:45 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:45 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:46 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:50 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:50 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:51 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:53 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:53 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:53 AM] - SUCCESS :login
+[05/06/2016 7:53 AM] - SUCCESS :Authenticate request - Username: orcun
+[05/06/2016 7:53 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:53 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:55 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:55 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:58 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 7:58 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 8:00 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 8:01 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 8:01 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 8:02 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 8:03 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 8:06 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 8:07 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 8:10 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 8:32 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 8:35 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 8:35 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 8:37 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 8:37 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 8:40 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 8:41 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 8:43 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 8:43 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 8:45 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 8:46 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 8:47 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 8:47 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 8:49 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 8:49 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 8:50 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 8:50 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 8:50 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 8:51 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 8:51 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 8:51 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 8:53 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:01 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:01 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:02 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:02 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:02 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:03 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:05 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:06 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:08 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:08 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:09 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:10 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:10 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:11 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:15 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:15 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:15 AM] - SUCCESS :login
+[05/06/2016 9:15 AM] - SUCCESS :Authenticate request - Username: admin
+[05/06/2016 9:15 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:15 AM] - SUCCESS :login
+[05/06/2016 9:15 AM] - SUCCESS :Authenticate request - Username: orcun
+[05/06/2016 9:15 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:15 AM] - SUCCESS :login
+[05/06/2016 9:15 AM] - SUCCESS :Authenticate request - Username: orcun
+[05/06/2016 9:15 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:16 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:16 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:17 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:17 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:20 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:20 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:20 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:20 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:21 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:22 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:22 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:22 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:23 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:23 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:24 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:24 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:24 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:24 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:24 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:29 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:30 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:30 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:30 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:31 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:31 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:31 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:34 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 9:56 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 10:11 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 10:14 AM] - SUCCESS :login
+[05/06/2016 10:14 AM] - SUCCESS :Authenticate request - Username: admin
+[05/06/2016 10:14 AM] - SUCCESS :login
+[05/06/2016 10:14 AM] - SUCCESS :Authenticate request - Username: admin
+[05/06/2016 10:14 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/06/2016 10:19 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 10:19 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 10:23 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 10:24 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 10:25 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 10:26 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 10:26 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 10:26 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 10:31 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 10:31 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 10:32 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 10:32 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 10:36 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 10:36 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 10:36 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 10:37 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 10:37 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 10:37 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 10:37 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 10:37 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 10:37 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 10:37 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 10:37 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 10:37 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 10:37 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 10:38 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 10:47 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 10:49 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 10:51 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 10:51 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 11:02 AM] - SUCCESS :login
+[05/06/2016 11:02 AM] - SUCCESS :Authenticate request - Username: Joker
+[05/06/2016 11:02 AM] - SUCCESS :Authentication successful for username: Joker. Executing swpm_login action hook.
+[05/06/2016 11:02 AM] - SUCCESS :login
+[05/06/2016 11:19 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 11:20 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 11:21 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 11:23 AM] - SUCCESS :login
+[05/06/2016 11:23 AM] - SUCCESS :Authenticate request - Username: GameofThrones
+[05/06/2016 11:24 AM] - SUCCESS :login
+[05/06/2016 11:24 AM] - SUCCESS :Authenticate request - Username: GameofThrone
+[05/06/2016 11:24 AM] - SUCCESS :login
+[05/06/2016 11:24 AM] - SUCCESS :Authenticate request - Username: GameofThrone
+[05/06/2016 11:25 AM] - SUCCESS :login
+[05/06/2016 11:25 AM] - SUCCESS :Authenticate request - Username: MissWorld
+[05/06/2016 11:25 AM] - SUCCESS :Authentication successful for username: MissWorld. Executing swpm_login action hook.
+[05/06/2016 11:34 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 11:35 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 11:35 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 11:35 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 11:50 AM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 12:27 PM] - SUCCESS :login
+[05/06/2016 1:09 PM] - SUCCESS :login
+[05/06/2016 1:09 PM] - SUCCESS :Authenticate request - Username: Doraemon
+[05/06/2016 1:09 PM] - SUCCESS :Authentication successful for username: Doraemon. Executing swpm_login action hook.
+[05/06/2016 1:16 PM] - SUCCESS :login
+[05/06/2016 1:16 PM] - SUCCESS :Authenticate request - Username: honeywhisky
+[05/06/2016 1:16 PM] - SUCCESS :Authentication successful for username: honeywhisky. Executing swpm_login action hook.
+[05/06/2016 1:16 PM] - SUCCESS :login
+[05/06/2016 1:19 PM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 1:19 PM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 1:19 PM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 1:19 PM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 1:19 PM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 1:19 PM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 1:20 PM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 1:20 PM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 1:20 PM] - SUCCESS :login
+[05/06/2016 1:20 PM] - SUCCESS :Authenticate request - Username: orcun
+[05/06/2016 1:20 PM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 1:20 PM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 1:20 PM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 1:20 PM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 1:21 PM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 2:11 PM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 2:11 PM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 2:13 PM] - SUCCESS :login
+[05/06/2016 2:13 PM] - SUCCESS :Authenticate request - Username: bane
+[05/06/2016 2:13 PM] - SUCCESS :Authentication successful for username: bane. Executing swpm_login action hook.
+[05/06/2016 2:13 PM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 2:13 PM] - SUCCESS :login
+[05/06/2016 2:13 PM] - SUCCESS :Authenticate request - Username: joker
+[05/06/2016 2:13 PM] - SUCCESS :Authentication successful for username: joker. Executing swpm_login action hook.
+[05/06/2016 2:34 PM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 2:35 PM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 2:35 PM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 2:39 PM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 2:40 PM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 2:40 PM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 2:40 PM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 2:40 PM] - SUCCESS :login
+[05/06/2016 2:40 PM] - SUCCESS :Authenticate request - Username: admin
+[05/06/2016 2:40 PM] - SUCCESS :validate() - Bad Hash
+[05/06/2016 2:40 PM] - SUCCESS :login
+[05/06/2016 2:40 PM] - SUCCESS :Authenticate request - Username: admin
+[05/06/2016 2:40 PM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/07/2016 12:02 AM] - SUCCESS :login
+[05/07/2016 12:25 AM] - SUCCESS :login
+[05/07/2016 12:25 AM] - SUCCESS :Authenticate request - Username: admin
+[05/07/2016 12:25 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/07/2016 12:58 AM] - SUCCESS :login
+[05/07/2016 12:58 AM] - SUCCESS :Authenticate request - Username: tutor
+[05/07/2016 12:58 AM] - SUCCESS :Authentication successful for username: tutor. Executing swpm_login action hook.
+[05/07/2016 1:10 AM] - SUCCESS :login
+[05/07/2016 1:10 AM] - SUCCESS :Authenticate request - Username: admin
+[05/07/2016 1:10 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/07/2016 1:19 AM] - SUCCESS :login
+[05/07/2016 1:19 AM] - SUCCESS :Authenticate request - Username: admin
+[05/07/2016 1:19 AM] - SUCCESS :Authentication successful for username: admin. Executing swpm_login action hook.
+[05/07/2016 1:34 AM] - SUCCESS :login
+[05/07/2016 1:34 AM] - SUCCESS :Authenticate request - Username: tutor
+[05/07/2016 1:34 AM] - SUCCESS :Authentication successful for username: tutor. Executing swpm_login action hook.

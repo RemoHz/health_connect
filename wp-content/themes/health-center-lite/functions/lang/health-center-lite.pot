@@ -1,0 +1,1147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: health\n"
+"POT-Creation-Date: 2015-12-01 19:31+0530\n"
+"PO-Revision-Date: 2015-12-01 19:31+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: D:\\xampp\\htdocs\\wordpress\\wp-content\\themes\\health-"
+"center-lite\n"
+"X-Poedit-SearchPath-0: D:\\xampp\\htdocs\\wordpress\\wp-content\\themes"
+"\\health-center-lite\n"
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/404.php:6
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/404.php:16
+msgid "Error 404"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/404.php:17
+msgid "Oops! Page not found"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/404.php:18
+msgid "We`re sorry, but the page you are looking for doesn`t exist."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/404.php:19
+msgid "Go to Homepage"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/archive.php:7
+msgid "Daily Archives:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/archive.php:9
+msgid "Monthly Archives:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/archive.php:11
+msgid "Yearly Archives:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/archive.php:13
+msgid "Blog Archives"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/author.php:45
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/blog.php:53
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/category.php:45
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/full-width.php:46
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/index.php:49
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/page.php:42
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/single.php:42
+msgid "Read More"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/author.php:52
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/blog.php:60
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/category.php:52
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/index.php:57
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/author.php:55
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/blog.php:63
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/category.php:55
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/index.php:60
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/comments.php:2
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/comments.php:16
+msgid "Comment navigation"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/comments.php:17
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/comments.php:18
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/comments.php:22
+msgid "Comments Are Closed!!!"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/comments.php:26
+msgid "You must be"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/comments.php:26
+msgid "logged in"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/comments.php:26
+msgid "to post a comment"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/comments.php:31
+msgid "Name"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/comments.php:32
+msgid "Email"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/comments.php:33
+msgid "Website"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/comments.php:43
+msgid "Logged in as "
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/comments.php:43
+msgid " Log out?"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/comments.php:45
+msgid "Post Comment"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/comments.php:47
+msgid "Leave a Reply"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/footer.php:28
+msgid "WordPress"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions.php:42
+msgid "Page"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions.php:54
+msgid "Primary Menu"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/page.php:17
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/single.php:16
+msgid "Leave a comment"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/page.php:17
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/single.php:16
+msgid "1 Comment"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/page.php:17
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/single.php:16
+msgid "% Comments"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/search.php:8
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/search.php:47
+msgid "Nothing Found"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/search.php:49
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/tag.php:7
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/theme_setup_data.php:15
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:233
+msgid "Awesome Services"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/theme_setup_data.php:16
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:251
+msgid ""
+"Lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor "
+"sit amet."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/theme_setup_data.php:19
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:315
+msgid "Medical Guidance"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/theme_setup_data.php:20
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/theme_setup_data.php:26
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/theme_setup_data.php:32
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/theme_setup_data.php:38
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:333
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:416
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:499
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:582
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipricies sem Unlimited ColorsCras "
+"pulvin, maurisoicituding adipiscing, Lorem ipsum dolor sit amet, consect "
+"adipiscing elit, sed diam nonummy nibh euis udin"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/theme_setup_data.php:25
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:398
+msgid "Emergency Help"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/theme_setup_data.php:31
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:481
+msgid "Cardio Monitoring"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/theme_setup_data.php:37
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:564
+msgid "Medical Treatments"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/theme_setup_data.php:43
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:665
+msgid "Featured Portfolio Projects"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/theme_setup_data.php:44
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:680
+msgid ""
+"Maecenas sit amet tincidunt elit. Pellentesque habitant morbi tristique "
+"senectus et netus et Nulla facilisi."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/theme_setup_data.php:46
+msgid "Lorem Ipsum"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/theme_setup_data.php:47
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/theme_setup_data.php:53
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/theme_setup_data.php:59
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/theme_setup_data.php:65
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+"Lorem Ipsum has been the "
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/theme_setup_data.php:52
+msgid "Postao je popularan"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/theme_setup_data.php:58
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/theme_setup_data.php:64
+msgid "kojekakve promjene s"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/theme_setup_data.php:70
+msgid " @ 2014 health-center-lite Center. All Rights Reserved. Powered by"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/theme_setup_data.php:71
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_copyright.php:34
+msgid "Created by"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/theme_setup_data.php:72
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_copyright.php:52
+msgid "Webriti"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/theme_setup_data.php:73
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_copyright.php:70
+msgid "http://www.webriti.com"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/commentbox/comment-function.php:10
+msgid "Reply"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/commentbox/comment-function.php:17
+msgid "at"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/commentbox/comment-function.php:21
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer-pro.php:13
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:963
+msgid "http://webriti.com/healthcentre/"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer-pro.php:13
+msgid "UPGRADE  TO PRO"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer-pro.php:20
+msgid "UPGRADE  TO PRO VERSION"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer-pro.php:33
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer-pro.php:63
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer-pro.php:96
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:624
+msgid "Discover Health center lite Pro"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer-pro.php:48
+msgid ""
+"https://wordpress.org/support/view/theme-reviews/health-center-lite#postform/"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer-pro.php:48
+msgid "ADD YOUR REVIEW"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer-pro.php:77
+msgid "http://webriti.com/help/"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer-pro.php:77
+msgid "DOCUMENTATION"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer-pro.php:81
+msgid ""
+"The Pro Version gives you more opportunities to enhance your site and "
+"business. In order to create effective online presence one have to showcase "
+"their wide range of products, have to use contact us enquiry form, have to "
+"make effective about us page, have to introduce team members, etc etc . The "
+"pro version will give it all. Buy the pro version and give us a chance to "
+"serve you better. "
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_copyright.php:7
+msgid "Footer Customizations"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_copyright.php:14
+msgid "@ 2014 health-center-lite Center. All Rights Reserved. Powered by"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_copyright.php:23
+msgid "footer customizations text"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_copyright.php:43
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_copyright.php:61
+msgid "Created By text"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_copyright.php:79
+msgid "Created By Link"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_header.php:6
+msgid "Want To Add Google Analytics Code Then"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_header.php:6
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:6
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:13
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:20
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:27
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:34
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_layout.php:7
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_post_slug.php:5
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_socila_link.php:6
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:6
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:13
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:20
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_theme_color.php:6
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:7
+msgid " Upgrade To Pro"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_header.php:14
+msgid "Header Settings"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_header.php:20
+msgid "Front Page Setting"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_header.php:37
+msgid "Enable / Disable Front Page"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_header.php:48
+msgid "Site favicon"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_header.php:50
+msgid "Upload a favicon"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_header.php:62
+msgid "Choose your favicon (ideal width and height is 16x16 or 32x32)"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_header.php:68
+msgid "Header Logo setting"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_header.php:87
+msgid "Upload a 150x150 for Logo Image"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_header.php:106
+msgid "Enable/Disabe Text Logo"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_header.php:127
+msgid "Enter Logo Width"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_header.php:146
+msgid "Enter Logo Height"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_header.php:154
+msgid "Custom css"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_header.php:167
+msgid "Custom css snippet:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_header.php:194
+msgid "Contact Email"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_header.php:212
+msgid "Contact Mobile Number"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_header.php:238
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:86
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:1002
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:1045
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:1106
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:1174
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_layout.php:62
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_post_slug.php:30
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_socila_link.php:32
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:53
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:168
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:238
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_theme_color.php:68
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:34
+msgid "Health Center Lite Upgrade"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_header.php:258
+msgid "Google Analytics"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:6
+msgid "Want To Add More Images or Slider Functionality Then"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:13
+msgid "Want To Add FAQ Then"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:20
+msgid "Want To Add Teatimonial Then"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:27
+msgid "Want To Add Footer Callout Then"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:34
+msgid "Want To Add News/Blog Section Then"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:43
+msgid "Home Page Settings"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:51
+msgid "Banner Image Settings"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:105
+msgid "Enable Home Slider"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:109
+msgid "Enable slider on front page."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:116
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:130
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:139
+msgid "slide"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:127
+msgid "Select slider Animation"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:130
+msgid "fade"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:150
+msgid "Slide direction"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:153
+msgid "horizontal"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:153
+msgid "vertical"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:159
+msgid "1500"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:170
+msgid "Animation speed"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:179
+msgid "2500"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:190
+msgid "Slideshow speed"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:203
+msgid "Click Here To Add Slider"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:225
+msgid "Service Setting "
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:242
+msgid "Service Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:259
+msgid "Service Description"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:275
+msgid "Service Icon One"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:289
+msgid "Home service one page and icon Link"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:306
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:389
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:472
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:555
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:751
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:816
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:882
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:947
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:1248
+msgid "Open link new tab/window"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:324
+msgid "Service One Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:341
+msgid "Service One Description"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:358
+msgid "Service Icon Two"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:372
+msgid "Enter the Home Service Two icon and title link."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:407
+msgid "Service Two Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:424
+msgid "Service Two Description"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:441
+msgid "Service Icon Three"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:455
+msgid "Enter the Home Service Three icon and title link."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:490
+msgid "Service Three Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:507
+msgid "Service Three Description"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:524
+msgid "Service Icon Four"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:538
+msgid "Enter the Home Service Four icon and title link."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:573
+msgid "Service Four Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:590
+msgid "Service Four Description"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:606
+msgid "Want to add more services, then upgrade to pro version"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:609
+msgid "webriti.com/healthcentre/"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:609
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:963
+msgid "UPGRADE TO PRO"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:636
+msgid "Project Setting"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:655
+msgid "Enable Home Project Section"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:672
+msgid "Project Section Heading"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:687
+msgid "Project Section Tagline"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:719
+msgid "Project One Description"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:734
+msgid "Home project one page image Link."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:784
+msgid "Project Two Description"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:799
+msgid "Home project two page image Link."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:850
+msgid "Project Three Description"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:865
+msgid "Home project three page image Link."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:915
+msgid "Project Four Description"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:930
+msgid "Home project four page image Link."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:960
+msgid "Want to add more projects and categorization than upgrade to pro"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:987
+msgid "Recent News Setting"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:1013
+msgid "Recent News"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:1020
+msgid "Recent News Section Heading"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:1030
+msgid "FAQ Setting"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:1056
+msgid "Why Choose Us?"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:1063
+msgid "FAQ Heading"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:1078
+msgid "Click Here To Add FAQ"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:1091
+msgid "Testimonial Setting"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:1117
+msgid "Testmonials"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:1124
+msgid "Testmonial Heading"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:1137
+msgid "Click Here To add Testimonial"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:1159
+msgid "Footer Call Out Area Setting"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:1185
+msgid ""
+"We Care has a wide range of health care options, from health treatments to "
+"surgery procedures...!"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:1192
+msgid "Call Out Text"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:1202
+msgid "Purshase Now!"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:1212
+msgid "Call Out Button Text"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:1222
+msgid "#"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_home_page.php:1231
+msgid "Call Out Button Link"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_layout.php:7
+msgid "Want To Add Layout Manager Then"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_layout.php:26
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_layout.php:98
+msgid "Enable"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_layout.php:41
+msgid "Slider section always top on the home page"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_layout.php:42
+msgid "Note:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_layout.php:42
+msgid ""
+"By default all the section are enable on homepage. If you do not want to "
+"display any section just drag that section to the disabled box."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_layout.php:48
+msgid "Theme Layout Manager"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_layout.php:80
+msgid "Discover health Pro"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_layout.php:116
+msgid "Disable"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_post_slug.php:5
+msgid "Want To Add Post Slug Then"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_post_slug.php:14
+msgid "Post Type Slug Setting"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_post_slug.php:41
+msgid "health-center-litecenter_slider"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_post_slug.php:48
+msgid "Slider Slug"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_post_slug.php:58
+msgid "health_service"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_post_slug.php:63
+msgid "Service Slug"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_post_slug.php:73
+msgid "health_testimonial"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_post_slug.php:80
+msgid "Testimonial Slug"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_post_slug.php:89
+msgid "health_project"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_post_slug.php:96
+msgid "Portfolio/Project Slug"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_post_slug.php:105
+msgid "health_team"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_post_slug.php:112
+msgid "Our Team Slug"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_socila_link.php:6
+msgid "Want To Add Soical Media Links Then"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_socila_link.php:53
+msgid "Enable social media on Header"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_socila_link.php:73
+msgid "Enable Social media in footer section."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_socila_link.php:92
+msgid "Enable social media in contact page"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_socila_link.php:111
+msgid "Facebook Links:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_socila_link.php:133
+msgid "Twitter Link:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_socila_link.php:155
+msgid "Linkedin Links:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_socila_link.php:176
+msgid "Google Plus Links:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:6
+msgid "Want to add Team Section and About Us Template Then"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:13
+msgid "Want to add Contact Page,Contact Details Then"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:20
+msgid "Want to add Google Map Then"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:28
+msgid "Template Settings"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:36
+msgid "About Page Setting"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:64
+msgid "Meet Our"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:73
+msgid "About Us Page Team Heading One"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:83
+msgid "Great Team"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:92
+msgid "About Us Page Team Heading Two"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:102
+msgid ""
+"We provide best WordPress solutions for your business. Thanks to our "
+"framework you will get more happy customers."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:111
+msgid "About Us Page Team Tag line"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:126
+msgid "Click Here To Team Member"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:151
+msgid "Google Maps"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:190
+msgid "Enable Google Map in contact page"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:201
+msgid ""
+"https://maps.google.co.in/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;"
+"q=Kota+Industrial+Area,+Kota,+Rajasthan&amp;aq=2&amp;oq=kota+&amp;"
+"sll=25.003049,76.117499&amp;sspn=0.020225,0.042014&amp;t=h&amp;ie=UTF8&amp;"
+"hq=&amp;hnear=Kota+Industrial+Area,+Kota,+Rajasthan&amp;z=13&amp;"
+"ll=25.142832,75.879538"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:210
+msgid "Google Map URL:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:221
+msgid "Contact Page Setting"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:257
+msgid "Enable Get in touch in contact page."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:266
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:275
+msgid "Send Us a Message"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:285
+msgid "Get in Touch"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:294
+msgid "Get in Touch Text:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:305
+msgid "25, Lorem Lis Street"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:314
+msgid "Contact Address Line One:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:324
+msgid "Dhanmandi California, US"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:333
+msgid "Contact Address Line Two:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:344
+msgid "420-300-3850"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:353
+msgid "Contact Phone Number:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:364
+msgid "800 123 3456"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:373
+msgid "Contact Fax Number:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:383
+msgid "themes@webriti.com"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_template.php:392
+msgid "Contact Email:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_theme_color.php:6
+msgid ""
+"Want To Add Predefined Background Color and Create Your Own Skin Color Then"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_theme_color.php:54
+msgid "Theme Color Schemes Settings "
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_theme_color.php:85
+msgid "Predefined Colors"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_theme_color.php:114
+msgid "Skin Color Enable"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_theme_color.php:134
+msgid "Skin Color"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_theme_color.php:148
+msgid "Predefined Default Background"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:7
+msgid "Want To Use Fonts Typography Then"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:15
+msgid "Typography Settings"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:20
+msgid "Typhography Enable / Disable"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:50
+msgid "Enable Custom Typography"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:69
+msgid "General Typography"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:83
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:140
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:197
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:253
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:309
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:366
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:422
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:478
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:534
+msgid "Font Size"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:100
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:157
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:214
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:270
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:326
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:383
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:439
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:495
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:551
+msgid "Font Family"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:116
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:173
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:230
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:286
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:342
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:399
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:455
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:511
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:567
+msgid "Font Style"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:126
+msgid "Menus Typography"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:183
+msgid "Post / Page Typography"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:239
+msgid "Service Title Typography"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:295
+msgid "Portfolio Title Typography"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:352
+msgid "Widget Heading Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:408
+msgid "Call Out Area Title"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:464
+msgid "Call Out Area Description"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/customizer/customizer_typography.php:520
+msgid "Call Out Area Button"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/widget/custom-sidebar.php:6
+msgid "Sidebar"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/widget/custom-sidebar.php:8
+msgid "The primary widget area"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/widget/custom-sidebar.php:16
+msgid "Footer Widget Area"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\themes\health-center-lite/functions/widget/custom-sidebar.php:18
+msgid "footer widget area"
+msgstr ""
